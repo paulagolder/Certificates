@@ -1,0 +1,84 @@
+
+<!ELEMENT sourcedocuments (sourcedocument*)>
+<!ELEMENT sourcedocument (templateID , stylesheet ,name?, savefilepattern?, author?, editdate?, type?,country?, period?, source?, certificate)>
+<!ELEMENT templateID ( #PCDATA) >
+<!ELEMENT savefilepattern ( #PCDATA) >
+<!ELEMENT stylesheet ( #PCDATA) >
+<!ELEMENT name ( #PCDATA) >
+<!ELEMENT author ( #PCDATA) >
+<!ELEMENT editdate ( #PCDATA) >
+<!ELEMENT type ( #PCDATA) >
+<!ELEMENT country ( #PCDATA) >
+<!ELEMENT period ( #PCDATA) >
+<!ELEMENT source ( #PCDATA) >
+
+<!ELEMENT certificate (styleblock | hgroup | vgroup | table )* >
+     <!ATTLIST certificate name NMTOKEN #IMPLIED >
+     <!ATTLIST certificate objecttype NMTOKEN #IMPLIED   >
+
+      <!ELEMENT styleblock EMPTY >
+         <!ATTLIST styleblock
+             name NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED    >
+
+      <!ELEMENT hgroup (stylegroup | vgroup | hgroup | hblock | vblock | table )* >
+          <!ATTLIST hgroup
+             name NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED    >
+
+
+      <!ELEMENT vgroup (stylegroup  | vgroup | hgroup | hblock | vblock | table )* >
+          <!ATTLIST vgroup 
+             name NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED    >
+
+
+      <!ELEMENT table (stylegroup | hgroup )* >
+          <!ATTLIST table 
+             name NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED    >
+
+
+      <!ELEMENT vblock ( input | label | vblock | hblock )* >
+          <!ATTLIST vblock 
+             name NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED    >
+
+
+      <!ELEMENT hblock ( input | label | vblock | hblock )* >
+          <!ATTLIST hblock 
+             name NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED    >
+
+
+      <!ELEMENT input EMPTY >
+          <!ATTLIST input target CDATA #REQUIRED >
+
+      <!ELEMENT label ( #PCDATA | text )* >
+         <!ATTLIST label
+             align NMTOKEN #IMPLIED  
+             colspan NMTOKEN #IMPLIED  
+             rowspan NMTOKEN #IMPLIED  
+             font-size NMTOKEN #IMPLIED  
+             height NMTOKEN #IMPLIED   >
+             
+      <!ELEMENT text (#PCDATA ) >
+

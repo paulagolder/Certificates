@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1851Census/1851Census_SilasPurnell_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-24 20:19:51</editdate>
+  <source>PRO image HO/107/1839</source><link>..images/1851/1851Census_SilasPurnell.jpeg</link></edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>99</householdReference>
+        <address>Monday market St</address>
+        <fullname>Silas Purnell</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>49</age>
+        <gender>male</gender>
+        <occupation>Laborer</occupation>
+        <birthplace>Wilts Worton</birthplace>
+      </person>
+      <person>
+        <fullname>Ruth do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>43</age>
+        <gender>female</gender>
+        <birthplace>do St James Devizes</birthplace>
+      </person>
+      <person>
+        <fullname>James do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>u</maritalStatus>
+        <age>16</age>
+        <gender>male</gender>
+        <occupation>Coach Smith</occupation>
+        <birthplace>do St Mary do</birthplace>
+      </person>
+      <person>
+        <fullname>Elizabeth do</fullname>
+        <roleInHousehold>dau</roleInHousehold>
+        <age>13</age>
+        <gender>female</gender>
+        <occupation>Nursemaid scholar</occupation>
+        <birthplace>do do do</birthplace>
+      </person>
+      <person>
+        <fullname>Thomas do</fullname>
+        <roleInHousehold>son</roleInHousehold>
+        <age>6</age>
+        <gender>male</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>do do do</birthplace>
+      </person>
+      <person>
+        <fullname>Mary do</fullname>
+        <roleInHousehold>da</roleInHousehold>
+        <age>6</age>
+        <gender>female</gender>
+        <occupation>do</occupation>
+        <birthplace>do do do</birthplace>
+      </person>
+      <person>
+        <fullname>Elizabeth Willis</fullname>
+        <roleInHousehold>Mother</roleInHousehold>
+        <maritalStatus>w</maritalStatus>
+        <age>96</age>
+        <gender>female</gender>
+        <occupation>Pauper</occupation>
+        <birthplace>do Heddington</birthplace>
+      </person>
+      <person/>
+      
+      
+      
+      
+      
+      
+      
+      
+    </people>
+    <parish>Saint Mary</parish>
+    <borough>Devizes</borough>
+  <pageno>25</pageno></certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>4 February 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+    <savefilename>1851Census/1851Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

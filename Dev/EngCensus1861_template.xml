@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>Census1861-0.1</templateID>
+            <stylesheet>Stylesheets/EngCensus1861_stylesheet.xsl</stylesheet>
+            <name>England Census 1861</name>
+            <author>Paul A Golder</author>
+            <editdate>25 march 2009</editdate>
+            <type>census</type>
+            <country>England</country>
+            <period>1861</period>
+            <source>Eng.-SheetD.</source>
+        </template>
+        <certificate objecttype="certificate"   backgroundcolor="#D0F5A9"  >
+            <styleblock name="inputcell"  borderwidth="0"  backgroundcolor="#E4DCDC"  />
+            <hgroup />
+            <vgroup    >
+                <vgroup borderwidth="0" >
+                    <hblock align="center">
+                        <label  align="center">the undermentioned Houses are situte within the Boundaries of the</label>
+                    </hblock>
+                </vgroup>
+                <table name="heading"   >
+                    <trow name="heading labels" >
+                        <tcell>
+                            <label>Parish[or Township] of</label>
+                        </tcell> 
+                        <tcell>
+                            <label>
+                                <text>City or</text>
+                                <text>Municipal Ward of</text>
+                            </label>
+                        </tcell>
+                        <tcell>
+                            <label>Parliamentary Borough of</label>
+                        </tcell>
+                        <tcell>
+                            <label>Town of</label>
+                        </tcell>
+                        <tcell>
+                            <label>Hamlet or Tything of</label> 
+                        </tcell>
+                        <tcell>
+                            <label>Ecclesiastical district of</label>
+                        </tcell>
+                    </trow>
+                    <trow name="heading fields">
+                        <tcell>
+                            <input    target="parish"  />
+                        </tcell> 
+                        <tcell>
+                            <input    target="ward"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="borough" />
+                        </tcell>
+                        <tcell>
+                            <input    target="town"   />
+                        </tcell>
+                        <tcell>
+                            <input    target="hamlet"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="ecclesiasticalDistrict"   />
+                        </tcell>
+                    </trow>
+                </table>
+                <hblock/>
+                <table  name ="residents" objecttype="people"  borderwidth="1"  >
+                    <trow   name ="table column headings"  backgroundcolor="grey">
+                        <tcell>
+                            <label>
+                                <text>No of</text>
+                                <text>Schedule</text>
+                            </label>
+                        </tcell>
+                        <tcell >
+                            <label backgroundcolor="red" >
+                                <text backgroundcolor="red" >Road Street etc </text>
+                                <text>and No or Name </text>
+                                <text>of House</text>
+                            </label>
+                        </tcell>
+                        <tcell>
+                            <label colspan="2" align="center" >Houses </label>
+                            <label   font-size="8">
+                                <text>In-</text>
+                                <text>habited </text>
+                            </label>
+                        </tcell>
+                        <tcell>
+                            <label></label>
+                            <label  font-size="8">
+                                <text>unin-</text>
+                                <text>habited</text>
+                                <text>(U.). or</text>
+                                <text>Building</text>
+                                <text>(B.).</text>
+                            </label>
+                        </tcell>
+                        <tcell>
+                            <label>
+                                <text>Name and Surname of Each</text>
+                                <text>Person</text>
+                            </label>
+                        </tcell>
+                        <tcell>
+                            <label>
+                                <text>Relation</text>
+                                <text>to Head</text>
+                                <text>of Family</text>
+                            </label>
+                        </tcell>
+                        <tcell>
+                            <label>Condition</label>
+                        </tcell>
+                        
+                        <tcell>
+                            <label colspan="2">Age of</label>
+                            <label font-size="8" >Males</label>
+                        </tcell>
+                        <tcell>
+                            <label/>
+                            <label  font-size="8" >Females</label>
+                        </tcell>
+                        <tcell>
+                            <label>Rank, Profession, or Occupation</label>
+                        </tcell>
+                        <tcell>
+                            <label>Where Born</label>
+                        </tcell>
+                        <tcell>
+                            <label>
+                                <text>Whether</text>
+                                <text>Blind or Deaf-</text>
+                                <text>-and-Dumb</text>
+                            </label>
+                        </tcell>
+                    </trow>
+                    <trow  name ="person row"  objecttype="person"  rows ="20"  backgroundcolor="#E4DCDC" borderwidth="0" >
+                        <tcell  >
+                            <input    target="householdReference"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="address"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="inhabitedHouse"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="uninhabitedHouse"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="fullname"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="roleInHousehold"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="maritalStatus"  />
+                        </tcell>
+                        
+                        <tcell>
+                            <input  target="age:gender=male"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="age:gender=female"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="occupation"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="birthplace"  />
+                        </tcell>
+                        <tcell>
+                            <input    target="note"  />
+                        </tcell>
+                    </trow>
+                    <trow  name ="table column footers" >
+                        <tcell>
+                            <label colspan="2">Total of Houses  </label>
+                        </tcell>
+                        <tcell></tcell>
+                        <tcell>
+                            <input  target="totalInhabited"  />
+                        </tcell>
+                        <tcell>
+                            <input  target="totalUninhabited"  />
+                        </tcell>
+                        <tcell>
+                            <label colspan="3">Total of Males and Females </label>
+                        </tcell>
+                        <tcell></tcell>
+                        <tcell></tcell>
+                        <tcell>
+                            <input  target="totalMales"  />
+                        </tcell>
+                        <tcell>
+                            <input  target="totalFemales"  />
+                        </tcell>
+                        <tcell></tcell>
+                        <tcell></tcell>
+                        <tcell></tcell>
+                    </trow>
+                </table>
+            </vgroup>
+        </certificate>
+    </sourcedocument>
+</sourcedocuments>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+    <template>
+      <stylesheet>../Stylesheets/EngCensus1851_stylesheet.xsl</stylesheet>
+      <savefile>./Census1851/1851Census_{person/name}.xml</savefile>
+      <author>Paul A Golder</author>
+      <editdate>22 mar 2013</editdate>
+      <templateID>Census1851</templateID>
+      <name>England Census 1851</name>
+      <period>1851</period>
+      <country>England</country>
+    </template>
+    <edition><source>PRO image HO 107/ 1839</source><link>../images/1851/1851Census_JaneMiles.jpg</link></edition>
+    <certificate>
+      <people>
+        <person>
+        </person>
+      <person><householdReference>76</householdReference><address>Hign Street</address><fullname>Jane Miles</fullname><roleInHousehold>Head</roleInHousehold><maritalStatus>Wid</maritalStatus><gender>female</gender><age>60 </age><occupation>Blacksmiths Wid</occupation><birthplace>Wilts Erlestoke</birthplace></person>
+      <person><fullname>John do</fullname><roleInHousehold>son</roleInHousehold><maritalStatus>U</maritalStatus><gender>male</gender><age>34</age><occupation>Blacksmith</occupation><birthplace>do do</birthplace></person>
+      <person><fullname>Isaac do</fullname><roleInHousehold>son</roleInHousehold><maritalStatus>U</maritalStatus><gender>male</gender><age>33</age><occupation> do</occupation><birthplace>do do</birthplace></person>
+      <person><fullname>Ann do</fullname><roleInHousehold>dau</roleInHousehold><maritalStatus>U</maritalStatus><gender>female</gender><age>30</age><birthplace>do do</birthplace></person></people>
+    <pageno>19</pageno><parish>Erlestoke</parish><village>Erlestoke</village></certificate>
+  </sourcedocument>

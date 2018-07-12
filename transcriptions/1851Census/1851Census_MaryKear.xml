@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument> 
+  <edition> 
+    <savepath>/home/paul/public_html/Certificates/1851Census/1851Census_MaryKear_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-24 19:08:41</editdate>
+  <source>PRO image HO 107 1959</source><link>../images/1851/1851Census_MaryKear.gif</link></edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person/>  
+      <person> 
+        <address>New Road</address> 
+      </person>  
+        
+        
+      <person/>  
+      <person> 
+        <householdReference>25</householdReference>  
+        <address>24</address>  
+        <fullname>Mary Kear</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Widow</maritalStatus>  
+        <age>53</age>  
+        <gender>female</gender>  
+        <occupation>Char Woman</occupation>  
+        <birthplace>Gloshire Awre</birthplace> 
+      </person>  
+      <person> 
+        <fullname>George do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>24</age>  
+        <gender>male</gender>  
+        <occupation>Agricultural Laborer</occupation>  
+        <birthplace>Do East Dean</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Thomas do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>20</age>  
+        <gender>male</gender>  
+        <occupation>Stone Mason</occupation>  
+        <birthplace>do East Dean</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Elizabeth do</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>15</age>  
+        <gender>female</gender>  
+        <birthplace>do East Dean</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Emma Brown</fullname>  
+        <roleInHousehold>Visitor</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>25</age>  
+        <gender>female</gender>  
+        <birthplace>do East Dean</birthplace> 
+      </person>  
+      <person/>  
+        
+      <person/>  
+        
+        
+      <person/>  
+        
+      <person/>  
+      <person/> 
+    </people>  
+    <parish>East Dean</parish>  
+    <ecclesiasticalDistrict>St Pauls West Dean</ecclesiasticalDistrict> 
+  <pageno>7</pageno><sequenceno>339</sequenceno></certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Jan 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

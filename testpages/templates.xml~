@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skeletons>
+  <skeleton  templateID="Census1841" name="England Census 1841" >
+    <template>
+      <stylesheet>../Stylesheets/EngCensus1841_stylesheet.xsl</stylesheet>
+      <savefile>./Census1841/1841Census_{person/name}.xml</savefile>
+      <author>Paul A Golder</author>
+      <editdate>11 Feb 2013</editdate>
+      <templateID>Census1841</templateID>
+      <name>England Census 1841</name>
+      <period>1841</period>
+      <country>England</country>
+    </template>
+    <edition/>
+    <certificate>
+      <people>
+        <person>
+        </person>
+      </people>
+    </certificate>
+  </skeleton>
+  <skeleton  templateID="Census1851" name="England Census 1851" >
+    <template>
+      <stylesheet>../Stylesheets/EngCensus1851_stylesheet.xsl</stylesheet>
+      <savefile>./Census1851/1851Census_{person/name}.xml</savefile>
+      <author>Paul A Golder</author>
+      <editdate>22 mar 2013</editdate>
+      <templateID>Census1851</templateID>
+      <name>England Census 1851</name>
+      <period>1851</period>
+      <country>England</country>
+    </template>
+    <edition/>
+    <certificate>
+      <people>
+        <person>
+        </person>
+      </people>
+    </certificate>
+  </skeleton>
+</skeletons>
+
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheets/EngCensus1861_stylesheet.xsl' ?>
+
+<certificate>
+  <author>Paul Golder</author>
+  <editdate>2009-04-08</editdate>
+  <templateauthor>Paul A Golder</templateauthor>
+  <templateeditdate>25 march 2009</templateeditdate>
+  <templateID>Census1861-0.1</templateID>
+  <name>UK Census 1861</name>
+  <period>1861</period>
+  <country>uk</country>
+  <parish>Christ Church Newgate St</parish>
+  <ward>London</ward>
+  <borough>Farringdon Within</borough>
+  <people>
+    <person/>
+    <person/>
+    <person/>
+    <person>
+      <householdReference>64</householdReference>
+      <address>70 Newgate St</address>
+      <inhabitedHouse>1</inhabitedHouse>
+      <fullname>George Bigwood</fullname>
+      <roleInHousehold>Head</roleInHousehold>
+      <maritalStatus>Mar</maritalStatus>
+      <age>30</age>
+      <gender>male</gender>
+      <occupation>Wharehouseman</occupation>
+      <birthplace>Trowbridge Wilt</birthplace>
+    </person>
+    <person>
+      <fullname>Ann dö</fullname>
+      <roleInHousehold>Wife</roleInHousehold>
+      <maritalStatus>dö</maritalStatus>
+      <age>28</age>
+      <gender>female</gender>
+      <birthplace>Yeovil</birthplace>
+    </person>
+    <person>
+      <fullname>Ellen dö</fullname>
+      <roleInHousehold>daughter</roleInHousehold>
+      <age>month 1</age>
+      <gender>female</gender>
+      <birthplace>London</birthplace>
+    </person>
+    <person>
+      <fullname>Jane Blane</fullname>
+      <maritalStatus>Mar</maritalStatus>
+      <age>60</age>
+      <gender>female</gender>
+      <birthplace>Norwood Surrey</birthplace>
+    </person>
+    <person/>
+    <person/>
+    <person/>
+  </people>
+  <inhabitedHouses>6</inhabitedHouses>
+  <totalMales>11</totalMales>
+  <totalFemales>14</totalFemales>
+</certificate>

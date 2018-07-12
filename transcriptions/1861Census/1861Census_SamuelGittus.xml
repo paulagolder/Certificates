@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1861_stylesheet.xsl' ?>
+<sourcedocument> 
+  <certificate> 
+    <parish>St Austin?</parish>  
+    <ward>Claines</ward>  
+    <borough>Worcester</borough>  
+    <town>Worcester</town>  
+    <people> 
+      <totalInhabited>1</totalInhabited>  
+      <totalMales>3</totalMales>  
+      <totalFemales>3</totalFemales>  
+        
+        
+      <person/>  
+      <person/>  
+      <person> 
+        <householdReference>129</householdReference>  
+        <address>3 Chelygrade Building</address>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <fullname>Samuel Gittus</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>27</age>  
+        <gender>male</gender>  
+        <occupation>Cordwainer</occupation>  
+        <birthplace>Worcester</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Agnes do</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>26</age>  
+        <gender>female</gender>  
+        <occupation>Gloveress</occupation>  
+        <birthplace>Worcestershire</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Samuel do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <age>6</age>  
+        <gender>male</gender>  
+        <occupation>Scholar</occupation>  
+        <birthplace>Worcester</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Ann ?</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <age>4</age>  
+        <gender>female</gender>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Florence do</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <age>1</age>  
+        <gender>female</gender>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>George Featherstone</fullname>  
+        <roleInHousehold>Lodger</roleInHousehold>  
+        <maritalStatus>Unm</maritalStatus>  
+        <age>17</age>  
+        <gender>male</gender>  
+        <occupation>Cordwainer</occupation>  
+        <birthplace>do</birthplace> 
+      </person>  
+        
+        
+        
+        
+        
+        
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/> 
+    </people> 
+  </certificate>  
+  <edition>
+    <editor>paul</editor>
+    <comment/>
+    <editdate>2013-02-07</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>Census1861</templateID>
+    <name>England Census 1861</name>
+    <period>1861</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

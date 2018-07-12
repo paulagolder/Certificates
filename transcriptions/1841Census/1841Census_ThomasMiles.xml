@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1841Census/1841Census_ThomasMiles.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-15</editdate>
+  </edition>
+  <certificate>
+    <people>
+      
+      <person>
+        <place>Tinhead</place>
+        <inhabitedHouse>1</inhabitedHouse>
+        <name>Thomas Miles</name>
+        <age>67</age>
+        <gender>male</gender>
+        <occupation>Blacksmith</occupation>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Jane do</name>
+        <age>66</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Elizabeth do</name>
+        <age>25</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Thomas do</name>
+        <age>4</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Tabitha do</name>
+        <age>4 months</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person/>
+      <person/>
+    </people>
+    <borough>Tything of Tinhead</borough>
+    <parish>Edington</parish>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>29 January 2012</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+    <savefilename>1841Census/1841Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

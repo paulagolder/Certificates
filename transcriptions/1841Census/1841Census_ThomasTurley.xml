@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1841Census/1841Census_ThomasTurley.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-02</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person>
+        <place>Blakeney hill</place>
+      </person>
+      <person>
+        <inhabitedHouse>1</inhabitedHouse>
+        <name>Thomas Turley</name>
+        <age>45</age>
+        <gender>male</gender>
+        <occupation>Mason</occupation>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Honey?? do</name>
+        <age>40</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Edward do</name>
+        <age>20</age>
+        <gender>male</gender>
+        <occupation>Mason</occupation>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Betey do</name>
+        <age>15</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Hannah do</name>
+        <age>15</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Thomas</name>
+        <age>10</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Maria</name>
+        <age>8</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>William</name>
+        <age>6</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>John</name>
+        <age>5</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Eliza</name>
+        <age>2</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>Emma</name>
+        <age>1</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person>
+        <name>George Tuber</name>
+        <age>20</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+      <person/>
+    </people>
+    <parish>Forest of Dean</parish>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>29 January 2012</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

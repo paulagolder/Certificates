@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person> 
+        <householdReference>30</householdReference>  
+        <address>Edington</address>  
+        <fullname>George House</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>55</age>  
+        <occupation>Inn Keeper</occupation>  
+        <birthplace>Wilts Coulston</birthplace>  
+        <gender>male</gender>
+      </person>  
+      <person>
+        <fullname>Maria do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>49</age>
+        <gender>female</gender>
+        <occupation>Inn Keeper's wife</occupation>
+        <birthplace>Wilts Earlestoke</birthplace>
+      </person>
+      <person>
+        <fullname>Clara do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <age>14</age>
+        <gender>female</gender>
+        <occupation>Domestic Duties</occupation>
+        <birthplace>Wilts Edington</birthplace>
+      </person>
+      <person>
+        <fullname>George do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <age>11</age>
+        <gender>male</gender>
+        <occupation>Schoolar</occupation>
+        <birthplace>Wilts Edington</birthplace>
+      </person>
+      <person>
+        <fullname>Ann Maria do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <age>10</age>
+        <gender>female</gender>
+        <occupation>Schoolar</occupation>
+        <birthplace>Wilts Edington</birthplace>
+      </person>
+    </people>  
+    <parish>Edington</parish>  
+    <ecclesiasticalDistrict/>  
+    <borough/>  
+    <town/>  
+    <village/>  
+    <pageno>7</pageno>
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/1842</source>
+    <comment></comment>
+    <editdate>2013-02-23</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>3 feb 2013</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

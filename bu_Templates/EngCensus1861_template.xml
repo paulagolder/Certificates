@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+  <sourcedocuments>
+    <sourcedocument>
+      <templateID>Census1861-0.1</templateID>
+      <stylesheet>Stylesheets/EngCensus1861_stylesheet.xsl</stylesheet>
+      <name>England Census 1861</name>
+      <author>Paul A Golder</author>
+      <editdate>25 march 2009</editdate>
+      <type>census</type>
+      <country>England</country>
+      <period>1861</period>
+      <source>Eng.-SheetD.</source>
+      <certificate objecttype="certificate"   backgroundcolor="#D0F5A9"  >
+        <styleblock name="inputcell"  borderwidth="0"  backgroundcolor="#E4DCDC"  />
+        <hgroup />
+        <vgroup    >
+          <vgroup borderwidth="0" >
+            <hblock align="center">
+              <label  align="center">the undermentioned Houses are situte within the Boundaries of the</label>
+            </hblock>
+          </vgroup>
+          <table name="heading"   >
+            <hgroup>
+              <vblock>
+                <label>Parish[or Township] of</label>
+              </vblock> 
+              <vblock>
+                <label>
+                  <text>City or</text>
+                  <text>Municipal Ward of</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>Parliamentary Borough of</label>
+              </vblock>
+              <vblock>
+                <label>Town of</label>
+              </vblock>
+              <vblock>
+                <label>Hamlet or Tything of</label> />
+            </vblock>
+            <vblock>
+              <label>Ecclesiastical district of</label>
+            </vblock>
+          </hgroup>
+          <hgroup>
+            <vblock>
+              <input    target="parish"  />
+            </vblock> 
+            <vblock>
+              <input    target="ward"  />
+            </vblock>
+            <vblock>
+              <input    target="borough" />
+            </vblock>
+            <vblock>
+              <input    target="town"   />
+            </vblock>
+            <vblock>
+              <input    target="hamlet"  />
+            </vblock>
+            <vblock>
+              <input    target="ecclesiasticalDistrict"   />
+            </vblock>
+          </hgroup>
+        </table>
+        <hblock/>
+        <table  objecttype="people"  borderwidth="1"  >
+          <hgroup   backgroundcolor="blue">
+            <vblock>
+              <label>
+                <text>No of</text>
+                <text>Schedule</text>
+              </label>
+            </vblock>
+            <vblock >
+              <label backgroundcolor="red" >
+                <text backgroundcolor="red" >Road Street etc </text>
+                <text>and No or Name </text>
+                <text>of House</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label colspan="2" align="center" >Houses </label>
+              <label   font-size="8">
+                <text>In-</text>
+                <text>habited </text>
+              </label>
+            </vblock>
+            <vblock>
+              <label></label>
+              <label  font-size="8">
+                <text>unin-</text>
+                <text>habited</text>
+                <text>(U.). or</text>
+                <text>Building</text>
+                <text>(B.).</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Name and Surname of Each</text>
+                <text>Person</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Relation</text>
+                <text>to Head</text>
+                <text>of Family</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>Condition</label>
+            </vblock>
+            
+            <vblock>
+              <label colspan="2">Age of</label>
+              <label font-size="8" >Males</label>
+            </vblock>
+            <vblock>
+              <label/>
+              <label  font-size="8" >Females</label>
+            </vblock>
+            <vblock>
+              <label>Rank, Profession, or Occupation</label>
+            </vblock>
+            <vblock>
+              <label>Where Born</label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Whether</text>
+                <text>Blind or Deaf-</text>
+                <text>-and-Dumb</text>
+              </label>
+            </vblock>
+          </hgroup>
+          <hgroup   objecttype="person"  rows ="20"  backgroundcolor="#E4DCDC" borderwidth="0" >
+            <vblock  >
+              <input    target="householdReference"  />
+            </vblock>
+            <vblock>
+              <input    target="address"  />
+            </vblock>
+            <vblock>
+              <input    target="inhabitedHouse"  />
+            </vblock>
+            <vblock>
+              <input    target="uninhabitedHouse"  />
+            </vblock>
+            <vblock>
+              <input    target="fullname"  />
+            </vblock>
+            <vblock>
+              <input    target="roleInHousehold"  />
+            </vblock>
+            <vblock>
+              <input    target="maritalStatus"  />
+            </vblock>
+            
+            <vblock>
+              <input  target="age:gender=male"  />
+            </vblock>
+            <vblock>
+              <input    target="age:gender=female"  />
+            </vblock>
+            <vblock>
+              <input    target="occupation"  />
+            </vblock>
+            <vblock>
+              <input    target="birthplace"  />
+            </vblock>
+            <vblock>
+              <input    target="note"  />
+            </vblock>
+          </hgroup>
+          <hgroup>
+            <vblock>
+              <label colspan="2">Total of Houses  </label>
+            </vblock>
+            <vblock></vblock>
+            <vblock>
+              <input  target="totalInhabited"  />
+            </vblock>
+            <vblock>
+              <input  target="totalUninhabited"  />
+            </vblock>
+            <vblock>
+              <label colspan="3">Total of Males and Females </label>
+            </vblock>
+            <vblock></vblock>
+            <vblock></vblock>
+            <vblock>
+              <input  target="totalMales"  />
+            </vblock>
+            <vblock>
+              <input  target="totalFemales"  />
+            </vblock>
+            <vblock></vblock>
+            <vblock></vblock>
+            <vblock></vblock>
+          </hgroup>
+        </table>
+      </vgroup>
+    </certificate>
+  </sourcedocument>
+</sourcedocuments>

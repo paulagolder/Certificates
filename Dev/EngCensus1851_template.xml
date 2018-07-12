@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>Census1851-0.1</templateID>
+            <stylesheet>Stylesheets/EngCensus1851_stylesheet.xsl</stylesheet>
+            <name>England Census 1851</name>
+            <author>Paul A Golder</author>
+            <editdate>16 April 2009</editdate>
+            <type>census</type>
+            <country>England</country>
+            <period>1851</period>
+            <source>Df.</source>
+        </template>
+        <certificate objecttype="certificate" name="main"   backgroundcolor="#D0F5A9" >
+            <styleblock name="inputcell"  borderwidth="0"  backgroundcolor="#E4DCDC"  />
+            <table name="heading"   >
+                <trow   name="hader1"  rows="1" >
+                    <tcell>
+                        <label>Parish[or Township] of</label>
+                    </tcell> 
+                    <tcell>
+                        <label>Ecclesiastical district of</label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>City or Borough of</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>Town of</label>
+                    </tcell>
+                    <tcell>
+                        <label>Village of</label>
+                    </tcell>  
+                </trow>
+                <trow   name="hader2" >
+                    <tcell>
+                        <input    target="parish"  />
+                    </tcell> 
+                    <tcell>
+                        <input    target="ecclesiasticalDistrict"   />
+                    </tcell>
+                    <tcell>
+                        <input    target="borough"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="town" />
+                    </tcell>
+                    <tcell>
+                        <input    target="village"   />
+                    </tcell>  
+                </trow>
+            </table>
+            <hgroup/>
+            <table name="people"  objecttype="people"  borderwidth="1"   >
+                <trow name="perp1" >
+                    <tcell>
+                        <label  direction="vertical" font-size="8" >
+                            <text>No of</text>
+                            <text>house-</text>
+                            <text>holders</text>
+                            <text>schedule</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>Name of Street, Place, or</text>
+                            <text>Road, and Name or</text>
+                            <text> No. of House</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>Name and Surname of each Person</text>
+                            <text>who abode in the house</text>
+                            <text>on the Night of the 30th March, 1851</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>Relation</text>
+                            <text>to</text>
+                            <text>Head of Family</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>Condition</label>
+                    </tcell>
+                    <tcell>
+                        <label colspan="2">Age of</label>
+                        <label font-size="8" >Males</label>
+                    </tcell>
+                    <tcell>
+                        <label  />
+                        <label  font-size="8" >Females</label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>Rank, Profession</text>
+                            <text>or Occupation</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>Where Born</label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>Whether</text>
+                            <text>Blind or Deaf-</text>
+                            <text>-and-Dumb</text>
+                        </label>
+                    </tcell>
+                </trow>
+                <trow  rows ="20"  objecttype="person"  backgroundcolor="#E4DCDC" borderwidth="0"  name="mainpersonrow" >
+                    <tcell>
+                        <input    target="householdReference"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="address"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="fullname"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="roleInHousehold"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="maritalStatus"  />
+                    </tcell>             
+                    <tcell>
+                        <input  target="age:gender=male"  />
+                    </tcell>
+                    <tcell>
+                        <input  target="age:gender=female"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="occupation"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="birthplace"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="note"  />
+                    </tcell>
+                </trow>
+                <trow   name = "bottomrow">
+                    <tcell>
+                        <label  colspan="2" >Total of Houses  </label>
+                    </tcell>
+                    <tcell/>
+                    <tcell/>
+                    <tcell/>
+                    <tcell/>
+                    <tcell>
+                        <input  target="totalMales"  />
+                    </tcell>
+                    <tcell>
+                        <input  target="totalFemales"  />
+                    </tcell>
+                    <tcell/>
+                    <tcell/>
+                    <tcell/>
+                </trow>
+            </table>
+        </certificate>
+    </sourcedocument>
+</sourcedocuments>

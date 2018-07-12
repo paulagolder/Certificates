@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl' ?>
+<sourcedocument>
+   <edition>
+     <savepath>/home/paul/public_html/Certificates/1841Census/1841Census_GeorgePurchase_edit.xml</savepath>
+     <author>Paul Golder</author>
+     <editdate>2013-03-24 18:15:47</editdate>
+   <link>../images/1841/1841Census_GeorgePurchase.jpg</link><source>PRO image HO 107/946/10</source></edition>
+   <template>
+     <name>England Census 1841</name>
+     <period>1861</period>
+     <country>England</country>
+     <author>Paul A Golder</author>
+     <editdate>25 march 2009</editdate>
+     <templateID>Census1841</templateID>
+   </template>
+
+   <certificate>
+     <parish>Hardington ManderVille(Parish)</parish>
+     <people>
+       <person/>
+       <person/>
+       <person>
+         <place>Pig Hill</place>
+         <inhabitedHouse>1</inhabitedHouse>
+         <name>George Purchase</name>
+         <gender>male</gender>
+         <age>43</age>
+         <occupation>Ag Lab</occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Lucy do</name>
+         <gender>female</gender>
+         <age>40</age>
+         <occupation>Weaver</occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Samuel do</name>
+         <gender>male</gender>
+         <age>15</age>
+         <occupation>Ag Lab</occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Luisa do</name>
+         <gender>female</gender>
+         <age>15</age>
+         <occupation>         </occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Ema</name>
+         <gender>female</gender>
+         <age>13</age>
+         <occupation>         </occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Mary</name>
+         <gender>female</gender>
+         <age>11</age>
+         <occupation>         </occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Lucy</name>
+         <gender>female</gender>
+         <age>7</age>
+         <occupation>         </occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person>
+         <name>Emanuel</name>
+         <gender>male</gender>
+         <age>5</age>
+         <occupation>         </occupation>
+         <birthplaceThisCounty>Y</birthplaceThisCounty>
+       </person>
+       <person/>
+       <person/>
+       <person/>
+      <person/>
+    </people>
+  </certificate>
+</sourcedocument>

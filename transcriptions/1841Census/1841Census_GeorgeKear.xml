@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person>
+        <place>Old Furnace</place>
+        <inhabitedHouse>1</inhabitedHouse>
+        <name>George Kear</name>
+        <age>45</age>
+        <gender>male</gender>
+        <occupation>Mason</occupation>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person> 
+    </people>  
+    <pageno>23</pageno>  
+    <sequenceno>26</sequenceno>  
+    <parish>Extra Parochial Forest of Dean</parish>  
+    <people>
+      <person>
+        <name>Mary do</name>
+        <age>40</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+    </people>
+    <people>
+      <person>
+        <name>George do</name>
+        <age>13</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+    </people>
+    <people>
+      <person>
+        <name>Ann do</name>
+        <age>20</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+    </people>
+    <people>
+      <person>
+        <name>Thomas do</name>
+        <age>12</age>
+        <gender>male</gender>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/364/5</source>
+    <image></image>
+    <comment></comment>
+    <editdate>2014-11-20</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <comment>Source PRO image HO 107/1184/9</comment>
+    <editdate>2013-03-22 15:07:25</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <place>Worton</place>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>James Purnell</name>  
+        <age>65</age>  
+        <gender>male</gender>  
+        <occupation>ind</occupation>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Caroline do</name>  
+        <age>65</age>  
+        <gender>female</gender>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Thomas do.</name>  
+        <age>14</age>  
+        <gender>male</gender>  
+        <birthplaceThisCounty>n</birthplaceThisCounty> 
+      </person>  
+  
+      <person/> 
+    </people>  
+    <borough>Tything of Worton</borough>  
+    <parish>Potterne</parish>  
+    <pageno>12</pageno>
+    <sequenceno>10</sequenceno>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

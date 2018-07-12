@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+  <sourcedocuments>
+    <sourcedocument>
+      <templateID>Census1851-0.1</templateID>
+      <stylesheet>Stylesheets/EngCensus1851_stylesheet.xsl</stylesheet>
+      <name>England Census 1851</name>
+      <author>Paul A Golder</author>
+      <editdate>16 April 2009</editdate>
+      <type>census</type>
+      <country>England</country>
+      <period>1851</period>
+      <source>Df.</source>
+      <certificate objecttype="certificate" name="main"   backgroundcolor="#D0F5A9" >
+        <styleblock name="inputcell"  borderwidth="0"  backgroundcolor="#E4DCDC"  />
+        <table name="heading"  rows="1"  >
+          <hgroup>
+            <vblock>
+              <label>Parish[or Township] of</label>
+            </vblock> 
+            <vblock>
+              <label>Ecclesiastical district of</label>>
+            </vblock>
+            <vblock>
+              <label>
+                <text>City or Borough of</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>Town of</label>
+            </vblock>
+            <vblock>
+              <label>Village of</label>
+            </vblock>  
+          </hgroup>
+          <hgroup>
+            <vblock>
+              <input    target="parish"  />
+            </vblock> 
+            <vblock>
+              <input    target="ecclesiasticalDistrict"   />
+            </vblock>
+            <vblock>
+              <input    target="borough"  />
+            </vblock>
+            <vblock>
+              <input    target="town" />
+            </vblock>
+            <vblock>
+              <input    target="village"   />
+            </vblock>  
+          </hgroup>
+        </table>
+        <hgroup/>
+        <table name="people"  objecttype="people"  borderwidth="1"   >
+          <hgroup>
+            <vblock>
+              <label  direction="vertical" font-size="8" >
+                <text>No of</text>
+                <text>house-</text>
+                <text>holders</text>
+                <text>schedule</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Name of Street, Place, or</text>
+                <text>Road, and Name or</text>
+                <text> No. of House</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Name and Surname of each Person</text>
+                <text>who abode in the house</text>
+                <text>on the Night of the 30th March, 1851</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Relation</text>
+                <text>to</text>
+                <text>Head of Family</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>Condition</label>
+            </vblock>
+            <vblock>
+              <label colspan="2">Age of</label>
+              <label font-size="8" >Males</label>
+            </vblock>
+            <vblock>
+              <label  />
+              <label  font-size="8" >Females</label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Rank, Profession</text>
+                <text>or Occupation</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label>Where Born</label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>Whether</text>
+                <text>Blind or Deaf-</text>
+                <text>-and-Dumb</text>
+              </label>
+            </vblock>
+          </hgroup>
+          <hgroup  rows ="20"  objecttype="person"  backgroundcolor="#E4DCDC" borderwidth="0" >
+            <vblock>
+              <input    target="householdReference"  />
+            </vblock>
+            <vblock>
+              <input    target="address"  />
+            </vblock>
+            <vblock>
+              <input    target="fullname"  />
+            </vblock>
+            <vblock>
+              <input    target="roleInHousehold"  />
+            </vblock>
+            <vblock>
+              <input    target="maritalStatus"  />
+            </vblock>             
+            <vblock>
+              <input  target="age:gender=male"  />
+            </vblock>
+            <vblock>
+              <input  target="age:gender=female"  />
+            </vblock>
+            <vblock>
+              <input    target="occupation"  />
+            </vblock>
+            <vblock>
+              <input    target="birthplace"  />
+            </vblock>
+            <vblock>
+              <input    target="note"  />
+            </vblock>
+          </hgroup>
+          <hgroup>
+            <vblock>
+              <label  colspan="2" >Total of Houses  </label>
+            </vblock>
+            <vblock/>
+            <vblock/>
+            <vblock/>
+            <vblock/>
+            <vblock>
+              <input  target="totalMales"  />
+            </vblock>
+            <vblock>
+              <input  target="totalFemales"  />
+            </vblock>
+            <vblock/>
+            <vblock/>
+            <vblock/>
+          </hgroup>
+        </table>
+      </certificate>
+    </sourcedocument>
+  </sourcedocuments>

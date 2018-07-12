@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1881_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1881Census/1881Census_CarolineKear.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-05</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person>
+        <householdReference>70</householdReference>
+        <address>Marlbourgh Villas Chase Side</address>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>Thomas Neave</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>52</age>
+        <gender>male</gender>
+        <occupation>Pawnbroker</occupation>
+        <birthplace>Middx London</birthplace>
+      </person>
+      <person>
+        <fullname>Susannah do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>50</age>
+        <gender>female</gender>
+        <occupation>do Wife</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Thomas do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>unm</maritalStatus>
+        <age>22</age>
+        <gender>male</gender>
+        <occupation>do Son</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Anne do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>21</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Curtis William do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>17</age>
+        <gender>male</gender>
+        <occupation>do assistant</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Ernest west do</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>6</age>
+        <gender>male</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Annie do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>4</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Caroline Kear</fullname>
+        <roleInHousehold>Serv</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>21</age>
+        <gender>female</gender>
+        <occupation>Cook</occupation>
+        <birthplace>Glout Blackney</birthplace>
+      </person>
+      <person>
+        <fullname>Alice Pompers</fullname>
+        <roleInHousehold>Serv</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>17</age>
+        <gender>female</gender>
+        <occupation>Housemaid</occupation>
+        <birthplace>Middx Clapton</birthplace>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <parish>Edmonton</parish>
+    <urbanSanitaryDistrict>Edmonton</urbanSanitaryDistrict>
+    <ruralSanitaryDistrict>St Pauls Winchmore Hill</ruralSanitaryDistrict>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>16 april 2009</editdate>
+    <templateID>Census1881-0.1</templateID>
+    <name>England Census 1881</name>
+    <period>1881</period>
+    <country>England</country>
+    <savefilename>1881Census/1881Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

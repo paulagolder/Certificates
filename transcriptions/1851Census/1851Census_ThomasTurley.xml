@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1851Census/1851Census_ThomasTurley.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-02</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person>
+        <address>Gibraltar</address>
+      </person>
+      <person>
+        <householdReference>159</householdReference>
+        <fullname>Thomas Turley</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Wid</maritalStatus>
+        <age>53</age>
+        <gender>male</gender>
+        <occupation>Stone mason</occupation>
+        <birthplace>Gloster East Dean</birthplace>
+      </person>
+      <person>
+        <fullname>Thomas Turley</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>22</age>
+        <gender>male</gender>
+        <occupation>Stone mason</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Maria Turley</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>19</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>John Turley</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>17</age>
+        <gender>male</gender>
+        <occupation>Stone Mason</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Eliza Turley</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>13</age>
+        <gender>female</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Emma Turley</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>10</age>
+        <gender>female</gender>
+        <occupation>do</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>James Hopkins</fullname>
+        <roleInHousehold>Lodger</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>25</age>
+        <gender>male</gender>
+        <occupation>Coal Miner</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>William Martin</fullname>
+        <roleInHousehold>Lodger</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>23</age>
+        <gender>male</gender>
+        <occupation>Coal Miner</occupation>
+        <birthplace>Gloster Berkely?</birthplace>
+      </person>
+      <person>
+        <householdReference>160</householdReference>
+        <fullname>George Purnell</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>28</age>
+        <gender>male</gender>
+        <occupation>Iron Miner</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Elizabeth Purnell</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>24</age>
+        <gender>female</gender>
+        <birthplace>do East Dean</birthplace>
+      </person>
+      <person>
+        <fullname>Emma Purnell</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <age>6</age>
+        <gender>female</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>William Purnell</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <age>4</age>
+        <gender>male</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Maria Purnell</fullname>
+        <roleInHousehold></roleInHousehold>
+        <age>1</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      
+      
+    </people>
+    <parish>East Dean</parish>
+    <ecclesiasticalDistrict>St Johns</ecclesiasticalDistrict>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Jan 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

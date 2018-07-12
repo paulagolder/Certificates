@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person> 
+        <place>Halve</place>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>Elizabeth Longsheet</name>  
+        <gender>female</gender>  
+        <age>50</age>  
+        <occupation>Spinner</occupation>  
+        <birthplaceThisCounty>Yes</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>John do</name>  
+        <age>20</age>  
+        <gender>male</gender>  
+        <occupation>Engineer</occupation>  
+        <birthplaceThisCounty>Yes</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Harriet do</name>  
+        <age>20</age>  
+        <gender>female</gender>  
+        <occupation/>  
+        <birthplaceThisCounty>Yes</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Ruth do</name>  
+        <age>15</age>  
+        <gender>female</gender>  
+        <occupation/>  
+        <birthplaceThisCounty>Yes</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Joseph do</name>  
+        <age>7</age>  
+        <gender>male</gender>  
+        <occupation/>  
+        <birthplaceThisCounty>Yes</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Ruth Bigwood</name>  
+        <age>76</age>  
+        <gender>female</gender>  
+        <occupation>Burler</occupation>  
+        <birthplaceThisCounty>Yes</birthplaceThisCounty> 
+      </person> 
+    </people>  
+    <pageno>26</pageno>  
+    <sequenceno>17</sequenceno>  
+    <borough/>  
+    <parish>Trowbridge</parish> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>Source PRO Image HO 107/1182/10</source>
+    <comment></comment>
+    <editdate>2013-02-22</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

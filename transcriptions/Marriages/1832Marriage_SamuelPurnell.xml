@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/WestminsterMarriageCert_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <pageNumber>221</pageNumber>  
+    <year>1832</year>  
+    <parish>St James Westminster</parish>  
+    <county>Middlesex</county>  
+    <marriage> 
+      <groom.name>Samuel Purnell</groom.name>  
+      <groom.residence>this</groom.residence>  
+      <bride.name>Ann Stacey</bride.name>  
+      <bride.residence>this</bride.residence>  
+      <banns>Banns</banns>  
+      <month>May</month>  
+      <official>xx xxxx xxxxxx Curate</official>  
+      <witness.first>Thomas Hiscock</witness.first>  
+      <witness.second>X The mark of Grace Purnell.</witness.second>  
+      <number>138</number>  
+      <day>thirteenth</day> 
+    </marriage>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/>  
+    <marriage/> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>Page 221 Marriages Parish of St James Westminster</source>
+    <image>../images/marriages/1832Marriage_SamuelPurnell.jpeg</image>
+    <comment>Purnel not burnell ; Cannot read Curate name</comment>
+    <editdate>2014-11-13</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>8 feb 2013</editdate>
+    <templateID>westminstermarriage</templateID>
+    <name>Copy of an entry of marriage St James Westminster</name>
+    <country>England</country>
+  </template>
+</sourcedocument>

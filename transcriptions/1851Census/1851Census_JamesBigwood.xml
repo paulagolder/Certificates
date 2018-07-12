@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/1840</source>
+    <comment/>
+    <editdate>2013-03-24 18:46:47</editdate>
+  <link>../images/1851/1851Census_JamesBigwood.jpeg</link></edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <address>Castle Street</address>  
+        <fullname>Joanna Doel</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Wid</maritalStatus>  
+        <age>65</age>  
+        <gender>female</gender>  
+        <occupation>Annuitant</occupation>  
+        <birthplace>Trowbridge Wilts</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Hannah Prior</fullname>  
+        <roleInHousehold>Lodger</roleInHousehold>  
+        <maritalStatus>Wid</maritalStatus>  
+        <age>72</age>  
+        <gender>female</gender>  
+        <occupation>Cloth Worker</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>James Bigwood</fullname>  
+        <roleInHousehold>Lodger</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>51</age>  
+        <gender>male</gender>  
+        <occupation>do Washer?</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Eliza Bigwood</fullname>  
+        <roleInHousehold>do Wife</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>52</age>  
+        <gender>female</gender>  
+        <occupation>do Worker</occupation>  
+        <birthplace>Shepton Mallet Somerset</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Joseph Bigwood</fullname>  
+        <roleInHousehold>son</roleInHousehold>  
+        <maritalStatus>mar</maritalStatus>  
+        <age>26</age>  
+        <gender>male</gender>  
+        <occupation>Printer &amp; Binder</occupation>  
+        <birthplace>Trowbridge Wilts</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Mary Ann Bigwood</fullname>  
+        <roleInHousehold>daughter in law</roleInHousehold>  
+        <maritalStatus>mar</maritalStatus>  
+        <age>26</age>  
+        <gender>female</gender>  
+        <occupation>Cloth Worker</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>James Bigwood</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>mar</maritalStatus>  
+        <age>24</age>  
+        <gender>male</gender>  
+        <occupation>Iron Worker</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Redah Bigwood</fullname>  
+        <roleInHousehold>Dau</roleInHousehold>  
+        <maritalStatus>mar?</maritalStatus>  
+        <age>23</age>  
+        <gender>female</gender>  
+        <occupation>Laundress</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Eliza Bigwood</fullname>  
+        <roleInHousehold>Dau</roleInHousehold>  
+        <maritalStatus>u</maritalStatus>  
+        <age>15</age>  
+        <gender>female</gender>  
+        <occupation>General Servant</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Mary Ann Bigwood</fullname>  
+        <roleInHousehold>Dau</roleInHousehold>  
+        <maritalStatus>u</maritalStatus>  
+        <age>6</age>  
+        <gender>female</gender>  
+        <occupation>Pupil ??</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>William Henry Bigwood</fullname>  
+        <roleInHousehold>son</roleInHousehold>  
+        <age>3</age>  
+        <gender>male</gender>  
+        <occupation>at home</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Hannah Bigwood</fullname>  
+        <roleInHousehold>Dau</roleInHousehold>  
+        <age>18m</age>  
+        <gender>female</gender>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Joseph Neal Bigwood</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <age>6m</age>  
+        <gender>male</gender>  
+        <birthplace>do do</birthplace> 
+      </person>  
+  
+      <person/>  
+      <person/> 
+    </people>  
+    <parish>Trowbridge</parish>  
+    <town>Trowbridge</town>  
+    <pageno>39</pageno> 
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>3 feb 2013</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

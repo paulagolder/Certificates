@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheets/GRODeathCopy_stylesheet.xsl' ?>
+
+<certificate>
+  <Savepath>deathcert</Savepath>
+  <author>Paul Golder</author>
+  <editdate>2009-04-13</editdate>
+  <templateauthor>Paul A Golder</templateauthor>
+  <templateeditdate>9 April 2009</templateeditdate>
+  <templateID>GRODeathCopy-0.2</templateID>
+  <name>GRO Copy of an entry of Death</name>
+  <country>England</country>
+  <applicationnumber>COL691510</applicationnumber>
+  <district>Melksham</district>
+  <year>1884</year>
+  <subdistrict>Trowbridge</subdistrict>
+  <county>County of Wilts</county>
+  <death>
+    <entryno>285</entryno>
+    <whenandwhere>Third Sepethember 1884 St Thomas's Road Trowbridge U T D</whenandwhere>
+    <name>Jane Bigwood</name>
+    <gender>female</gender>
+    <age>79 Years</age>
+    <occupation>Wife of Joseph Bogwood a Woollen Clothworker</occupation>
+    <causeofdeath>Old Age certified by G C Taylor M D</causeofdeath>
+    <informant>X The mark of Sarah Morris presentat at the death 10 Brickplat Trowbridge</informant>
+    <registrationdate>fourth September 1884</registrationdate>
+    <registrar>T S Hill Registrar</registrar>
+  </death>
+  <issue.day>15th</issue.day>
+  <issue.month>January</issue.month>
+  <issue.year>2008</issue.year>
+  <issue.number>DYB912515</issue.number>
+</certificate>

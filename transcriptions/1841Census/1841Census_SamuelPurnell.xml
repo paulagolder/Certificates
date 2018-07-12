@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>Source PRO image HO 107/689/7</source>
+    <comment>a comment from me</comment>
+    <editdate>2013-02-22</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <place>Old Brentford High Road North</place>  
+        <inhabitedHouse>1</inhabitedHouse> 
+      </person>  
+      <person> 
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>Samuel Purnell</name>  
+        <age>25</age>  
+        <gender>male</gender>  
+        <occupation>Baker</occupation>  
+        <birthplaceThisCounty>n</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Ann Do</name>  
+        <age>25</age>  
+        <gender>female</gender>  
+        <birthplaceThisCounty>n</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>George Do</name>  
+        <age>2</age>  
+        <gender>male</gender>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>John Gilliam(??)</name>  
+        <age>15</age>  
+        <gender>female</gender>  
+        <occupation>Bakers J</occupation>  
+        <birthplaceThisCounty>n</birthplaceThisCounty> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/> 
+    </people>  
+    <parish>Ealing</parish>  
+    <pageno>12</pageno>  
+    <sequenceno>9</sequenceno> 
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl' ?>
+
+<certificate> 
+  <Savepath>deathcert</Savepath>  
+  <author>Paul Golder</author>  
+  <editdate>2009-04-16</editdate>  
+  <templateauthor>Paul A Golder</templateauthor>  
+  <templateeditdate>16 April 2009</templateeditdate>  
+  <templateID>Census1851</templateID>  
+  <name>England Census 1851</name>  
+  <period>1851</period>  
+  <country>England</country>  
+  <parish>Hardington Manderville</parish>  
+  <village>Hardington</village>  
+  <people> 
+    <person> 
+      <fullname>Ellis Brake</fullname>  
+      <roleInHousehold>Servant</roleInHousehold>  
+      <maritalStatus>U</maritalStatus>  
+      <age>21</age>  
+      <gender>male</gender>  
+      <occupation>Footman</occupation>  
+      <birthplace>Dorset Yatminster</birthplace> 
+    </person>  
+    <person> 
+      <householdReference>39</householdReference>  
+      <address>no particular name</address>  
+      <fullname>Henry Purchase</fullname>  
+      <roleInHousehold>Head</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>74</age>  
+      <gender>male</gender>  
+      <occupation>Weaver of Canvas</occupation>  
+      <birthplace>Somerset Hardington</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Sarah do</fullname>  
+      <roleInHousehold>Wife</roleInHousehold>  
+      <maritalStatus>U</maritalStatus>  
+      <age>69</age>  
+      <gender>female</gender>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>George Ansen</fullname>  
+      <roleInHousehold>Nephew</roleInHousehold>  
+      <age>11</age>  
+      <gender>male</gender>  
+      <occupation>Scholar</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person/>  
+    <person/>  
+    <person> 
+      <householdReference>43</householdReference>  
+      <address>do</address>  
+      <fullname>George Purchase</fullname>  
+      <roleInHousehold>Head</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>52</age>  
+      <gender>male</gender>  
+      <occupation>Ag Lab</occupation>  
+      <birthplace>Somerset Hardington</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Lucy do</fullname>  
+      <roleInHousehold>Wife</roleInHousehold>  
+      <maritalStatus>do</maritalStatus>  
+      <age>53</age>  
+      <gender>female</gender>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Lucy ann do</fullname>  
+      <roleInHousehold>Daur</roleInHousehold>  
+      <maritalStatus>U</maritalStatus>  
+      <age>16</age>  
+      <gender>female</gender>  
+      <occupation>Glover</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Emmanuell Purchase</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <maritalStatus>U</maritalStatus>  
+      <age>14</age>  
+      <gender>male</gender>  
+      <occupation>Ag Lab</occupation>  
+      <birthplace>Somerset Hardington</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Sarah do</fullname>  
+      <roleInHousehold>Dau</roleInHousehold>  
+      <age>7</age>  
+      <gender>female</gender>  
+      <occupation>Scholar</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/> 
+  </people>  
+  <totalMales>9</totalMales>  
+  <totalFemales>11</totalFemales>  
+  <pageno>11-12</pageno>
+  <edition>
+    <editor>paul</editor>
+    <source></source>
+    <comment></comment>
+    <editdate>2013-02-23</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>3 feb 2013</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</certificate>

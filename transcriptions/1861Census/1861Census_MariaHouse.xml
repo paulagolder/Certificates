@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1861_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1861Census/1861Census_MariaHouse.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-04</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person>
+        <householdReference>82</householdReference>
+        <address>Bratton Road White Horse</address>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>Maria House</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Wid</maritalStatus>
+        <age>59</age>
+        <gender>female</gender>
+        <occupation>Innkeeper</occupation>
+        <birthplace>Wilts Erle Stoke</birthplace>
+      </person>
+      <person>
+        <fullname>Clara do</fullname>
+        <roleInHousehold>dau</roleInHousehold>
+        <maritalStatus>un</maritalStatus>
+        <age>24</age>
+        <gender>female</gender>
+        <birthplace>do Edington</birthplace>
+      </person>
+      <person>
+        <fullname>Anna Maria do</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>20</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      
+      
+    </people>
+    <parish>Edington</parish>
+    <hamlet>Edington</hamlet>
+    <ecclesiasticalDistrict>Edington</ecclesiasticalDistrict>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>4 Februaryy 2012</editdate>
+    <templateID>Census1861</templateID>
+    <name>England Census 1861</name>
+    <period>1861</period>
+    <country>England</country>
+    <savefilename>1861Census/1861Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

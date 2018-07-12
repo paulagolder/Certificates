@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1871_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1871Census/1871Census_GeorgeBigwood.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-04</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <address>1 Gastigney Place</address>
+      </person>
+      <person/>
+      <person>
+        <householdReference>265</householdReference>
+        <fullname>George Bigwood</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>42</age>
+        <gender>male</gender>
+        <occupation>Draper Porter</occupation>
+        <birthplace>Wilts Trowbridge</birthplace>
+      </person>
+      <person>
+        <fullname>Lucy Ann do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <age>36</age>
+        <gender>female</gender>
+        <birthplace>Yeovil</birthplace>
+        <maritalStatus>Mar</maritalStatus>
+      </person>
+      <person>
+        <fullname>Ellen E do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <age>10</age>
+        <gender>female</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>Midddlesex City</birthplace>
+      </person>
+      <person>
+        <fullname>William G do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <age>6</age>
+        <gender>male</gender>
+        <occupation>dop</occupation>
+        <birthplace>do Hoxton</birthplace>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <parish>St Luke</parish>
+    <parliamentaryBorough>Finsbury</parliamentaryBorough>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>29 January 2012</editdate>
+    <templateID>Census1871-0.1</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+    <savefilename>1871Census/1871Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

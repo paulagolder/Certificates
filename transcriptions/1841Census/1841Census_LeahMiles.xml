@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person> 
+        <place>West Coulson</place>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>John Miles</name>  
+        <age>70</age>  
+        <occupation>Ag Lab</occupation>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>male</gender>
+      </person>  
+      <person> 
+        <name>Leah do</name>  
+        <age>70</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>female</gender>
+      </person>  
+      <person> 
+        <name>James Godwin</name>  
+        <age>58</age>  
+        <occupation>Ag Lab</occupation>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>male</gender>
+      </person> 
+    </people>  
+    <borough>West Coulson &amp; Bagnton</borough>  
+    <parish>Edington</parish>  
+    <pageno>4</pageno>  
+    <sequenceno>3</sequenceno> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/1188/15</source>
+    <comment></comment>
+    <editdate>2013-02-22</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person> 
+        <place/> 
+      </person>  
+      <person> 
+        <place>146 Cheapside</place>  
+        <inhabitedHouse>1</inhabitedHouse>
+        <name>Wm Dew</name>
+        <age>45</age>
+        <occupation>Hosier</occupation>
+        <birthplaceThisCounty>Y</birthplaceThisCounty>
+      </person>  
+      <person> 
+        <place/>  
+        <name>Eliza do</name>
+        <age>40</age>
+        <occupation/>
+        <birthplaceThisCounty>Y</birthplaceThisCounty>
+      </person>  
+      <person> 
+        <place/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <name>C Chapman</name>
+        <age/>
+        <occupation>Apt do</occupation>
+      </person>  
+      <person> 
+        <place/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <name>Hy Saunders</name>
+        <age/>
+        <occupation>do</occupation>
+      </person>  
+      <person> 
+        <place/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <name>W Filip</name>
+        <age/>
+        <occupation>Clerk</occupation>
+      </person>  
+      <person> 
+        <place/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <name>James Shishul</name>
+        <age/>
+        <occupation>Porter</occupation>
+      </person>  
+      <person> 
+        <place/>  
+        <birthplaceThisCounty>N</birthplaceThisCounty>  
+        <name>Grace Purnell</name>
+        <age>30</age>
+      </person>  
+      <person> 
+        <place/>  
+        <inhabitedHouse/>  
+        <name>Charlotte Cook</name>  
+        <age>27</age>  
+        <occupation/>  
+        <birthplaceThisCounty>N</birthplaceThisCounty>  
+        <uninhabitedHouse/>
+      </person> 
+    </people>  
+    <borough>London</borough>  
+    <parish>St Vedast alias Foster</parish>  
+    <pageno>53</pageno>  
+    <sequenceno>11</sequenceno> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <comment/>
+    <editdate>2013-03-24 18:18:07</editdate>
+  <source>PRO Image HO 107/723/15</source><link>..//images/1841/1841Census_GracePurnell.jpeg</link></edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

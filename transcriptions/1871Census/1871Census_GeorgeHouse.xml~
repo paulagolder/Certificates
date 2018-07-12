@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1871_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1871Census/1871Census_GeorgeHouse.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-05</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>51</householdReference>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>George House</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Marr</maritalStatus>
+        <age>31</age>
+        <gender>male</gender>
+        <occupation>Mason</occupation>
+        <birthplace>Wilts Edington</birthplace>
+      </person>
+      <person>
+        <fullname>Annie do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>30</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Annie J do</fullname>
+        <maritalStatus>Daur</maritalStatus>
+        <age>2mos</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person/>
+      <person>
+        <address>Plough Inn</address>
+      </person>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>55</householdReference>
+        <address>The Viocarage</address>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>Samuel Littlewood</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Widr</maritalStatus>
+        <age>75</age>
+        <gender>male</gender>
+        <occupation>Vicar of Edington</occupation>
+        <birthplace>Lancashire Ardwick Green</birthplace>
+      </person>
+      <person>
+        <fullname>Eleanor L do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>unm</maritalStatus>
+        <age>35</age>
+        <gender>female</gender>
+        <birthplace>Wilts Edington</birthplace>
+      </person>
+      <person>
+        <fullname>Julia do</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>33</age>
+        <gender>female</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>James L do</fullname>
+        <roleInHousehold>son</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>32</age>
+        <gender>male</gender>
+        <occupation>Curate of Edington</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <parish>Edington</parish>
+    <hamlet>Edington</hamlet>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>29 January 2012</editdate>
+    <templateID>Census1871-0.1</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+    <savefilename>1871Census/1871Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

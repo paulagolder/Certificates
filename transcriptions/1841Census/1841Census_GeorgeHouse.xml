@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl' ?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/1188/16</source>
+    <image></image>
+    <comment>Page and sequence indeciferable on the image</comment>
+    <editdate>2014-11-20</editdate>
+  </edition>  
+  <certificate> 
+    <parish>Edington</parish>  
+    <people> 
+      <person/>  
+      <person/>  
+      <person> 
+        <place>Edington</place>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>GeorgeHouse</name>  
+        <gender>male</gender>  
+        <age>45</age>  
+        <occupation>Publican</occupation>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Maria do</name>  
+        <gender>female</gender>  
+        <age>35</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Emma do</name>  
+        <gender>female</gender>  
+        <age>7</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Sarah do</name>  
+        <gender>female</gender>  
+        <age>6</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Clara do</name>  
+        <gender>female</gender>  
+        <age>4</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>George do</name>  
+        <gender>male</gender>  
+        <age>2</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Anna do</name>  
+        <gender>female</gender>  
+        <age>6 months</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Jane Miles</name>  
+        <gender>female</gender>  
+        <age>15</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name/> 
+      </person>  
+      <person/>  
+      <person/> 
+    </people>  
+    <pageno>8</pageno>  
+   
+    
+    <sequenceno>7</sequenceno>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

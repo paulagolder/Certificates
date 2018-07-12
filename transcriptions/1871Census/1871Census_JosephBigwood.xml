@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1871_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Census</source>
+    <image></image>
+    <comment></comment>
+    <editdate>2014-11-14</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <address>Middle Lane</address> 
+      </person>  
+      <person/>  
+      <person> 
+        <householdReference>8</householdReference>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <fullname>Joseph Bigwood</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>mar</maritalStatus>  
+        <age>69</age>  
+        <gender>male</gender>  
+        <occupation>Formerly Woolen Cloth Worker</occupation>  
+        <birthplace>Wilts Trowbridge</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Jane do</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>do</maritalStatus>  
+        <age>69</age>  
+        <gender>female</gender>  
+        <occupation>do do</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Joseph do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>Unm</maritalStatus>  
+        <age>44</age>  
+        <gender>male</gender>  
+        <occupation>Water Carrier</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Eliza do</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <maritalStatus>do</maritalStatus>  
+        <age>23</age>  
+        <gender>female</gender>  
+        <occupation>Woolen cloth work</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Edward do</fullname>  
+        <roleInHousehold>Nephew</roleInHousehold>  
+        <age>18</age>  
+        <gender>male</gender>  
+        <maritalStatus>do</maritalStatus>  
+        <occupation>Carpenter and joiner</occupation>  
+        <birthplace>do Westbury</birthplace> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/> 
+    </people>  
+    <parish>Trowbridge</parish>  
+    <town>Trowbridge</town>  
+    <localBoard>Trowbridge</localBoard>  
+    <ecclesiasticalDistrict>St Thomas</ecclesiasticalDistrict> 
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>Census1871</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

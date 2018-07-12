@@ -1,0 +1,10 @@
+<?
+// This is an example of PHP script using DOWNLOADFILE class.
+// On any page you need to create a link to this script.
+// By pressing on this link you will automatically get a dialog box to download the "filename.ext" file.
+
+include("./downloadfileclass.inc");
+$xmlf = $_SESSION["newfile"] ;
+$downloadfile = new DOWNLOADFILE($xmlf);
+if (!$downloadfile->df_download()) echo "Sorry,cannot download ".$xmlf;
+?>

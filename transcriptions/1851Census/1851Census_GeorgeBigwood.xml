@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person/>  
+      <person/>  
+      <person> 
+        <householdReference>19</householdReference>  
+        <address>Back Street</address>  
+        <fullname>George Bigwood</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>54</age>  
+        <gender>male</gender>  
+        <occupation>Clothworker</occupation>  
+        <birthplace>Wilts Westbury Westbury</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Deborah</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>54</age>  
+        <gender>female</gender>  
+        <occupation/>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Henry do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>15</age>  
+        <gender>male</gender>  
+        <occupation>Carpeter</occupation>  
+        <birthplace>do Trowbridge</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Deborah</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>13</age>  
+        <gender>female</gender>  
+        <occupation>Scholar</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>George do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus/>  
+        <age>11</age>  
+        <gender>male</gender>  
+        <occupation>do</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Edward do</fullname>  
+        <roleInHousehold>do</roleInHousehold>  
+        <maritalStatus/>  
+        <age>2</age>  
+        <gender>male</gender>  
+        <occupation/>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Mary Gregory</fullname>  
+        <roleInHousehold>Serv</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>20</age>  
+        <gender>female</gender>  
+        <occupation>General Servant</occupation>  
+        <birthplace>do do</birthplace> 
+      </person>  
+      <person/>
+    </people>  
+    <parish>Trowbridge</parish>  
+    <pageno>5</pageno>
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107 1840</source>
+    <comment></comment>
+    <editdate>2013-02-23</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>3 feb 2013</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

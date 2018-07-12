@@ -1,0 +1,29 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0 0 0 10px;
+	color: blue;
+}
+
+li.dir {
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	color: red;
+}
+
+li.dirwithchild {
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	list-style-type: square;
+	color: red;
+}
+
+li.dirwithchilddirs a {
+	color: red;
+}
+
+li.file {
+	font-style: italic;
+}

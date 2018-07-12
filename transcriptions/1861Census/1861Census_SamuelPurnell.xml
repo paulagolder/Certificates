@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1861_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1861Census/1861Census_SamuelPurnell.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-04</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>128</householdReference>
+        <address>Orchard Road</address>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>Samuel Purnell</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>50</age>
+        <gender>male</gender>
+        <occupation>Baker</occupation>
+        <birthplace>Wiltshire Potterne</birthplace>
+      </person>
+      <person>
+        <fullname>Hannah do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>"</maritalStatus>
+        <age>34</age>
+        <gender>female</gender>
+        <occupation>do Wife</occupation>
+        <birthplace>Middx Hammersmith</birthplace>
+      </person>
+      <person>
+        <fullname>George W do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>Un</maritalStatus>
+        <age>21</age>
+        <gender>male</gender>
+        <occupation>Baker</occupation>
+        <birthplace>do Brentford</birthplace>
+      </person>
+      <person>
+        <fullname>Rosina Bransgrove</fullname>
+        <roleInHousehold>neice</roleInHousehold>
+        <maritalStatus>"</maritalStatus>
+        <age>11</age>
+        <gender>female</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>do Hammersmith</birthplace>
+      </person>
+      
+      <person/>
+    </people>
+    <parish>Ealing</parish>
+    <town>Old Brentford</town>
+    <ecclesiasticalDistrict>St Georges</ecclesiasticalDistrict>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>4 February 2012</editdate>
+    <templateID>Census1861</templateID>
+    <name>England Census 1861</name>
+    <period>1861</period>
+    <country>England</country>
+    <savefilename>1861Census/1861Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

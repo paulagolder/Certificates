@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Templates/GROMarriageCertCopy_stylesheet.xsl' ?>
+
+<certificate>  
+  <applicationnumber>123</applicationnumber>  
+  <marriage> 
+    <year>1850</year>  
+    <location1>the Church</location1>  
+    <location2>parish</location2>  
+    <location3>St James Westminster</location3>  
+    <location4>Middlesex</location4>  
+    <entryno>402</entryno>  
+    <when>July 7th</when>  
+    <groom.name>Samuell Purnell</groom.name>  
+    <bride.name>Hannah Bransgrove</bride.name>  
+    <groom.age>full</groom.age>  
+    <bride.age>full</bride.age>  
+    <groom.condition>Widower</groom.condition>  
+    <bride.condition>Spinster</bride.condition>  
+    <groom.profession>Baker</groom.profession>  
+    <groom.residence>St James</groom.residence>  
+    <bride.residence>St James</bride.residence>  
+    <groom.father>James Purnell</groom.father>  
+    <bride.father>George Brandsgrove</bride.father>  
+    <groom.fatheroccupation>Blacksmith</groom.fatheroccupation>  
+    <bride.fatheroccupation>Baker</bride.fatheroccupation>  
+    <location5>Church</location5>  
+    <banns>Banns</banns>  
+    <official>T.T Haverfield</official>  
+    <groom.signature>Samuel Purnell</groom.signature>  
+    <bride.signature>Hannah Brandsgrove</bride.signature>  
+    <witness.first>William Day</witness.first>  
+    <witness.second>Mary Ann Avery</witness.second> 
+  </marriage>  
+  <edition>
+    <editor>paul</editor>
+    <comment></comment>
+    <editdate>2013-02-07</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>GROMarriageCopy</templateID>
+    <name>GRO Copy of an entry of marriage</name>
+    <period>1837-</period>
+    <country>England</country>
+  </template>
+</certificate>

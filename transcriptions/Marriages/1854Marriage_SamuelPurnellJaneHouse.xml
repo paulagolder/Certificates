@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/GROMarriageCertCopy_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/Marriages/1854Marriage_SamuelPurnellJaneHouse.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-13</editdate>
+  </edition>
+  <certificate>
+    <marriage>
+      <marriage/>
+      <year>1854</year>
+      <location1>the Parish Church</location1>
+      <location2>Parish</location2>
+      <location3>St George Bloomsbury</location3>
+      <location4>Middlesex</location4>
+      <entryno>301</entryno>
+      <when>January Eight</when>
+      <groom.name>Samuel Thomas Purnell</groom.name>
+      <groom.age>of fuill age</groom.age>
+      <groom.condition>Bachelor</groom.condition>
+      <bride.condition>Spinster</bride.condition>
+      <bride.name>Jane Miles House</bride.name>
+      <groom.profession>Draper</groom.profession>
+      <groom.residence>44 Old Compton St</groom.residence>
+      <bride.profession>Servant</bride.profession>
+      <bride.residence>4 Endell St</bride.residence>
+      <bride.father>George House</bride.father>
+      <bride.fatheroccupation>Publican</bride.fatheroccupation>
+      <groom.father>Samuel Purnell</groom.father>
+      <groom.fatheroccupation>Watchmaker</groom.fatheroccupation>
+      <location5>Parish Church</location5>
+      <banns>Banns</banns>
+      <official>J S Whitlock</official>
+      <groom.signature>S T Purnell</groom.signature>
+      <bride.signature>J M House</bride.signature>
+      <witness.first>Samuel Field</witness.first>
+      <witness.second>John Self</witness.second>
+    </marriage>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 February 2012</editdate>
+    <templateID>engmarriage20090415</templateID>
+    <name>GRO Copy of an entry of marriage</name>
+    <country>England</country>
+    <savefilename>Marriages/Marriage_cert.xml</savefilename>
+  </template>
+</sourcedocument>

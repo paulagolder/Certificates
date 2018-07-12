@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1851Census/1851Census_SamuelPurnell_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-24 19:27:42</editdate>
+  <source>PRO image ho 107/1699</source><link>../images/1851/1851Census_SamuelPurnell.gif</link></edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>13</householdReference>
+        <fullname>Samuel Purnell</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>M</maritalStatus>
+        <age>57</age>
+        <gender>male</gender>
+        <occupation>Master Baker</occupation>
+        <birthplace>Wiltshire Worton</birthplace>
+      </person>
+      <person>
+        <fullname>Harriet do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>M</maritalStatus>
+        <age>24</age>
+        <gender>female</gender>
+        <birthplace>Middlesex Hammond??</birthplace>
+      </person>
+      <person/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <person/>
+      
+      
+      <person/>
+    </people>
+    <parish>Ealing</parish>
+    <town>Brentford</town>
+  <pageno>4</pageno><sequenceno>224</sequenceno></certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Jan 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

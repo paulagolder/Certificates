@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/GROMarriageCertCopy_stylesheet.xsl' ?>
+
+<sourcedocuments>
+<sourcedocument>
+<edition>
+  <Savepath>deathcert</Savepath>
+  <author>Paul Golder</author>
+  <editdate>2009-04-21</editdate>
+</edition>
+<template>
+  <author>Paul A Golder</author>
+  <editdate>13 April 2009</editdate>
+  <templateID>engmarriage20090415</templateID>
+    <name>Certified Copy of an Entry of marriage</name>
+  <country>England</country>
+</template>
+  <certificate>
+
+  <applicationnumber>123</applicationnumber>
+  <marriage>
+    <year>1850</year>
+    <location1>the Church</location1>
+    <location2>parish</location2>
+    <location3>St James Westminster</location3>
+    <location4>Middlesex</location4>
+    <entryno>402</entryno>
+    <when>July 7th</when>
+    <groom.name>Samuell Purnell</groom.name>
+    <bride.name>Hannah Bransgrove</bride.name>
+    <groom.age>full</groom.age>
+    <bride.age>full</bride.age>
+    <groom.condition>Widower</groom.condition>
+    <bride.condition>Spinster</bride.condition>
+    <groom.profession>Baker</groom.profession>
+    <groom.residence>St James</groom.residence>
+    <bride.residence>St James</bride.residence>
+    <groom.father>James Purnell</groom.father>
+    <bride.father>George Brandsgrove</bride.father>
+    <groom.fatheroccupation>Blacksmith</groom.fatheroccupation>
+    <bride.fatheroccupation>Baker</bride.fatheroccupation>
+    <location5>Church</location5>
+    <banns>Banns</banns>
+    <official>T.T Haverfield</official>
+    <groom.signature>Samuel Purnell</groom.signature>
+    <bride.signature>Hannah Brandsgrove</bride.signature>
+    <witness.first>William Day</witness.first>
+    <witness.second>Mary Ann Avery</witness.second>
+  </marriage>
+</certificate>
+</sourcedocument>
+</sourcedocuments>

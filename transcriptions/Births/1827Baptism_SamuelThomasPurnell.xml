@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/LMABaptism_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <comment>Perner is certainly Purnell the Chaplains identification is not clear, looks like "E Chaplain"</comment>
+    <editdate>2013-02-09</editdate>
+  </edition>  
+  <certificate> 
+    <birth> 
+      <date>1827 August 2</date>  
+      <entryNo>1041</entryNo>  
+      <name>Samuel Thomas illegitemate</name>  
+      <fathersForename>Grace</fathersForename>  
+      <surname>Parner</surname>  
+      <residence>Workhouse</residence>  
+      <dateofbirth>15 july 1827</dateofbirth>  
+      <registrar>E Chaplain??</registrar> 
+    </birth>  
+    <birth/>  
+    <yeardigit>seven</yeardigit>  
+    <pageno>258</pageno>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>8-2-2013</editdate>
+    <templateID>LMABaptism</templateID>
+    <name>LMA Baptism register</name>
+    <country>England</country>
+  </template>
+</sourcedocument>

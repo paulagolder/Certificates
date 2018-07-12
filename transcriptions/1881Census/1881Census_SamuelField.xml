@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1881_stylesheet.xsl' ?>
+<sourcedocument>
+<certificate> 
+  <parish>Islington</parish>  
+  <ward>Highbury</ward>  
+  <parliamentaryBorough>Finsbury</parliamentaryBorough>  
+  <ruralSanitaryDistrict>St Judes</ruralSanitaryDistrict>  
+  <people> 
+    <person/>  
+    <person/>  
+    <person> 
+      <householdReference>492</householdReference>  
+      <address>2 King Henry Walk</address>  
+      <fullname>Samuel C Sims</fullname>  
+      <roleInHousehold>Head</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>27</age>  
+      <gender>male</gender>  
+      <occupation>Plumber</occupation>  
+      <birthplace>N.K.</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Heneretta do</fullname>  
+      <roleInHousehold>Wife</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>25</age>  
+      <gender>female</gender>  
+      <birthplace>Middlesex Islington</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Henrietta E do</fullname>  
+      <roleInHousehold>Daur</roleInHousehold>  
+      <age>3</age>  
+      <gender>female</gender>  
+      <birthplace>do do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Thomas C do</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <age>2</age>  
+      <gender>male</gender>  
+      <birthplace>do St Pancras</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Samuel F do</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <age>4 Mo</age>  
+      <gender>female</gender>  
+      <birthplace>do do</birthplace> 
+    </person>  
+    <person> 
+      <householdReference>493</householdReference>  
+      <address>do</address>  
+      <fullname>William Field</fullname>  
+      <roleInHousehold>Head</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>30</age>  
+      <gender>male</gender>  
+      <occupation>Carpenter</occupation>  
+      <birthplace>do do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Ellen do</fullname>  
+      <roleInHousehold>Wife</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>31</age>  
+      <gender>female</gender>  
+      <birthplace>Somerset N.K.</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Grace do</fullname>  
+      <roleInHousehold>Mother</roleInHousehold>  
+      <maritalStatus>W</maritalStatus>  
+      <age>70</age>  
+      <gender>female</gender>  
+      <occupation>Ladies Nurse</occupation>  
+      <birthplace>Wiltshire Westbury</birthplace> 
+    </person>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/>  
+    <person/> 
+  </people>
+</certificate>
+  <edition>
+    <editor>paul</editor>
+    <comment></comment>
+    <editdate>2013-02-10</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>Census1881</templateID>
+    <name>England Census 1881</name>
+    <period>1881</period>
+    <country>England</country>
+  </template>
+
+</sourcedocument>

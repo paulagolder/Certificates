@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl' ?>
+<sourcedocument> 
+  <certificate> 
+    <parish>St Andrew</parish>  
+    <borough>Worcester</borough>  
+    <people> 
+      <person/>  
+      <person/>  
+      <person/>  
+      <person> 
+        <householdReference>32</householdReference>  
+        <address>Bridport</address>  
+        <fullname>John Gittus</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>46</age>  
+        <gender>male</gender>  
+        <occupation>Bricklayer</occupation>  
+        <birthplace>Sukely</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Ann do</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>do</maritalStatus>  
+        <age>48</age>  
+        <gender>female</gender>  
+        <occupation>Dealer in Cloth</occupation>  
+        <birthplace>Worcester</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Samuell do</fullname>  
+        <roleInHousehold>sone</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>17</age>  
+        <gender>male</gender>  
+        <occupation>Cordwainer</occupation>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Ann Gittus</fullname>  
+        <roleInHousehold>Dau</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>17</age>  
+        <gender>female</gender>  
+        <occupation>Boot Binder</occupation>  
+        <birthplace>Birmingham</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Charles do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>U</maritalStatus>  
+        <age>15</age>  
+        <gender>male</gender>  
+        <occupation>Cordwainer</occupation>  
+        <birthplace>Worcester St ?</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Emily do</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <age>10</age>  
+        <gender>female</gender>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Eliza do</fullname>  
+        <roleInHousehold>do</roleInHousehold>  
+        <age>8</age>  
+        <gender>female</gender>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Mary Ann Crockett</fullname>  
+        <roleInHousehold>orphan</roleInHousehold>  
+        <age>10</age>  
+        <gender>female</gender>  
+        <birthplace>Birmingham</birthplace> 
+      </person>  
+      <person/>  
+      <person> 
+        <householdReference>35</householdReference>  
+        <fullname>John Gittus</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>27</age>  
+        <gender>male</gender>  
+        <occupation>Hand loom ?? Weaver</occupation> 
+      </person>  
+      <person> 
+        <fullname>Mary Ann do</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>do</maritalStatus>  
+        <age>21</age>  
+        <gender>female</gender>  
+        <occupation>do</occupation>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person/>  
+      <person> 
+        <householdReference>36</householdReference>  
+        <fullname>William Gittus</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>Mar</maritalStatus>  
+        <age>22</age>  
+        <gender>male</gender>  
+        <occupation>Bricklayer</occupation>  
+        <birthplace>Kidderminster</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Lucy do</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>do</maritalStatus>  
+        <age>21</age>  
+        <gender>female</gender>  
+        <birthplace>Pershore</birthplace> 
+      </person>  
+      <person> 
+        <fullname>?? Ann do</fullname>  
+        <roleInHousehold>Dau</roleInHousehold>  
+        <age>6 mnth</age>  
+        <gender>female</gender>  
+        <birthplace>Worcester</birthplace> 
+      </person>  
+      <person/>  
+      <person/> 
+    </people>  
+    <pageno>5-6</pageno>
+    <sequenceno>660</sequenceno>
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/2042</source>
+    <comment/>
+    <editdate>2013-03-26 13:27:55</editdate>
+  <link>../images/1851/1851Census_JohnGittus.jpeg</link></edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>3 feb 2013</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

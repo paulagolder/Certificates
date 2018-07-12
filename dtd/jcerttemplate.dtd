@@ -1,0 +1,168 @@
+<!ELEMENT sourcedocuments (sourcedocument*)>
+<!ELEMENT sourcedocument (template, certificate, source?)>
+<!ELEMENT template ( templateID , stylesheet ,name*, savefilename*, 
+             savefilepattern*, author*, editdate*, type*,country*, period* ,source*)>
+<!ELEMENT templateID ( #PCDATA) >
+<!ELEMENT savefilepattern ( #PCDATA) >
+<!ELEMENT savefilename ( #PCDATA) >
+<!ELEMENT stylesheet ( #PCDATA) >
+<!ELEMENT name ( #PCDATA) >
+<!ELEMENT author ( #PCDATA) >
+<!ELEMENT editdate ( #PCDATA) >
+<!ELEMENT type ( #PCDATA) >
+<!ELEMENT country (#PCDATA) >
+<!ELEMENT period ( #PCDATA) >
+<!ELEMENT source ( #PCDATA) >
+
+<!ELEMENT certificate (styleblock | hgroup | vgroup | table )* >
+     <!ATTLIST certificate 
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED 
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth NMTOKEN #IMPLIED 
+             bordercolor NMTOKEN #IMPLIED 
+             align NMTOKEN #IMPLIED   
+             layout NMTOKEN #IMPLIED
+             font-style NMTOKEN #IMPLIED  
+             font-size NMTOKEN #IMPLIED 
+             padding NMTOKEN #IMPLIED  
+             width NMTOKEN #IMPLIED
+             height NMTOKEN #IMPLIED  >
+
+      <!ELEMENT styleblock EMPTY >
+         <!ATTLIST styleblock
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED
+             xbackgroundcolor CDATA #IMPLIED
+             foregroundcolor CDATA #IMPLIED 
+             bordercolor NMTOKEN #IMPLIED   
+             borderwidth CDATA #IMPLIED 
+             layout NMTOKEN #IMPLIED
+             align NMTOKEN #IMPLIED  
+             padding NMTOKEN #IMPLIED
+             font-style NMTOKEN #IMPLIED 
+             font-size NMTOKEN #IMPLIED     >
+
+     
+
+
+      <!ELEMENT table (styleblock | hgroup )* >
+          <!ATTLIST table 
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             rows NMTOKEN #IMPLIED
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth CDATA #IMPLIED 
+             bordercolor CDATA #IMPLIED
+             cellborderwidth CDATA #IMPLIED
+             cellbordercolor CDATA #IMPLIED
+             padding NMTOKEN #IMPLIED 
+             font-style NMTOKEN #IMPLIED   
+             font-size NMTOKEN #IMPLIED    >
+
+
+      <!ELEMENT vgroup (styleblock | input | label | vgroup | hgroup | table )* >
+          <!ATTLIST vgroup 
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED   
+             borderwidth NMTOKEN #IMPLIED 
+             padding NMTOKEN #IMPLIED
+             bordercolor NMTOKEN #IMPLIED  
+             verticalalign NMTOKEN #IMPLIED
+             align NMTOKEN #IMPLIED  
+             layout NMTOKEN #IMPLIED
+             colspan NMTOKEN #IMPLIED  
+             rowspan NMTOKEN #IMPLIED  
+             font-size NMTOKEN #IMPLIED  
+             font-style NMTOKEN #IMPLIED 
+             width NMTOKEN #IMPLIED
+             height NMTOKEN #IMPLIED   >
+
+
+      <!ELEMENT hgroup (styleblock | input | label | vgroup | hgroup )* >
+          <!ATTLIST hgroup 
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             rows NMTOKEN #IMPLIED
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED  
+             bordercolor CDATA #IMPLIED   
+             borderwidth NMTOKEN #IMPLIED 
+             padding NMTOKEN #IMPLIED
+             verticalalign NMTOKEN #IMPLIED
+             align NMTOKEN #IMPLIED  
+             layout NMTOKEN #IMPLIED
+             colspan NMTOKEN #IMPLIED  
+             rowspan NMTOKEN #IMPLIED  
+             font-size NMTOKEN #IMPLIED  
+             font-style NMTOKEN #IMPLIED  
+             width NMTOKEN #IMPLIED
+             height NMTOKEN #IMPLIED >
+
+
+      <!ELEMENT input EMPTY >
+          <!ATTLIST input
+             target CDATA #REQUIRED 
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED  
+             bordercolor CDATA #IMPLIED   
+             borderwidth NMTOKEN #IMPLIED
+             padding NMTOKEN #IMPLIED 
+             verticalalign NMTOKEN #IMPLIED
+             align NMTOKEN #IMPLIED
+             layout NMTOKEN #IMPLIED
+             colspan NMTOKEN #IMPLIED  
+             rowspan NMTOKEN #IMPLIED  
+             font-size NMTOKEN #IMPLIED 
+             font-style NMTOKEN #IMPLIED    
+             width NMTOKEN #IMPLIED
+             height NMTOKEN #IMPLIED >
+
+      <!ELEMENT label ( #PCDATA| text )* >
+         <!ATTLIST label
+             name NMTOKEN #IMPLIED   
+             myname NMTOKEN #IMPLIED   
+             objecttype NMTOKEN #IMPLIED   
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED 
+             bordercolor CDATA #IMPLIED    
+             borderwidth NMTOKEN #IMPLIED 
+             padding NMTOKEN #IMPLIED
+             direction NMTOKEN #IMPLIED
+             verticalalign NMTOKEN #IMPLIED
+             align NMTOKEN #IMPLIED  
+             colspan NMTOKEN #IMPLIED  
+             rowspan NMTOKEN #IMPLIED  
+             font-size NMTOKEN #IMPLIED  
+             font-style NMTOKEN #IMPLIED   
+             width NMTOKEN #IMPLIED
+             height NMTOKEN #IMPLIED  >
+             
+      <!ELEMENT text (#PCDATA ) >
+         <!ATTLIST text
+             backgroundcolor CDATA #IMPLIED   
+             foregroundcolor CDATA #IMPLIED 
+             bordercolor CDATA #IMPLIED    
+             borderwidth NMTOKEN #IMPLIED 
+             padding NMTOKEN #IMPLIED
+             direction NMTOKEN #IMPLIED
+             verticalalign NMTOKEN #IMPLIED
+             align NMTOKEN #IMPLIED  
+              font-size NMTOKEN #IMPLIED  
+             font-style NMTOKEN #IMPLIED   
+             width NMTOKEN #IMPLIED
+             height NMTOKEN #IMPLIED  >
+

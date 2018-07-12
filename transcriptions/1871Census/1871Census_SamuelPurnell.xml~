@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1871_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1871Census/1871Census_SamuelPurnell.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-05</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <address>Orchard Road</address>
+      </person>
+      <person/>
+      <person/>
+      <person>
+        <birthplace>Brentford Middx</birthplace>
+      </person>
+      <person>
+        <householdReference>154</householdReference>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>Samuel Purnell</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>W</maritalStatus>
+        <age>60</age>
+        <gender>male</gender>
+        <occupation>Baker</occupation>
+        <birthplace>" "</birthplace>
+      </person>
+      <person>
+        <fullname>Grace Field</fullname>
+        <roleInHousehold>Sister</roleInHousehold>
+        <maritalStatus>W</maritalStatus>
+        <age>69</age>
+        <gender>female</gender>
+        <occupation>Nurse</occupation>
+        <birthplace>Wiltshire</birthplace>
+      </person>
+      <person>
+        <fullname>George Purnell</fullname>
+        <roleInHousehold>G Son</roleInHousehold>
+        <maritalStatus>unm</maritalStatus>
+        <age>8</age>
+        <gender>male</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>Brentford Middx</birthplace>
+      </person>
+      <person>
+        <fullname>Edward "</fullname>
+        <roleInHousehold>G "</roleInHousehold>
+        <maritalStatus>"</maritalStatus>
+        <age>4</age>
+        <gender>male</gender>
+        <occupation>"</occupation>
+        <birthplace>" "</birthplace>
+      </person>
+      <person>
+        <fullname>Beatrice "</fullname>
+        <roleInHousehold>G daur</roleInHousehold>
+        <maritalStatus>"</maritalStatus>
+        <age>3</age>
+        <gender>female</gender>
+        <birthplace>Streatham Surrey</birthplace>
+      </person>
+      <person>
+        <fullname>Rose Bransgrove</fullname>
+        <roleInHousehold>Neice</roleInHousehold>
+        <maritalStatus>"</maritalStatus>
+        <age>21</age>
+        <gender>female</gender>
+        <occupation>Servant</occupation>
+        <birthplace>Notting Hill Middx</birthplace>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <parish>Ealing</parish>
+    <town>Brentford</town>
+    <ecclesiasticalDistrict>St Pauls Old Brentford</ecclesiasticalDistrict>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>29 January 2012</editdate>
+    <templateID>Census1871-0.1</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+    <savefilename>1871Census/1871Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1871_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO RG10/3876</source>
+    <image>../../images/1871/1871Census_ClaraHouse.jpg</image>
+    <comment></comment>
+    <editdate>2014-11-18</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <address>St Pauls St</address> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person> 
+        <householdReference>166</householdReference>  
+        <address>2 " "</address>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <fullname>Mary A Littlewood</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <maritalStatus>W</maritalStatus>  
+        <age>79</age>  
+        <gender>female</gender>  
+        <occupation>Independent</occupation>  
+        <birthplace>Manchester</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Clara House</fullname>  
+        <roleInHousehold>D ser</roleInHousehold>  
+        <maritalStatus>unm</maritalStatus>  
+        <age>34</age>  
+        <gender>female</gender>  
+        <occupation>Cook</occupation>  
+        <birthplace>Wiltshire Edington</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Mary Evans</fullname>  
+        <roleInHousehold>ser</roleInHousehold>  
+        <maritalStatus>"</maritalStatus>  
+        <age>16</age>  
+        <gender>female</gender>  
+        <occupation>Waitress</occupation>  
+        <birthplace>Cheshire West Derby</birthplace> 
+      </person> 
+    </people>  
+    <parish>North Meols</parish>  
+    <municipalBorough>Southport</municipalBorough>  
+    <ward>West Ward</ward>  
+    <ecclesiasticalDistrict>St Pauls</ecclesiasticalDistrict>  
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>Census1871</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

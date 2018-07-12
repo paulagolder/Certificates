@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1871_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/1871Census/1871Census_CharlesCowley.xml</savepath>
+    <editor>paul</editor>
+    <comment></comment>
+    <editdate>2012-02-04</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>3</householdReference>
+        <address>3 South St</address>
+        <inhabitedHouse>1</inhabitedHouse>
+        <fullname>Charles Cowley</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Married</maritalStatus>
+        <age>30</age>
+        <gender>male</gender>
+        <occupation>Assistent to a builder</occupation>
+        <birthplace>Londo Lambeth</birthplace>
+      </person>
+      <person>
+        <fullname>Emma do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>30</age>
+        <gender>female</gender>
+        <birthplace>City of London</birthplace>
+      </person>
+      <person>
+        <fullname>Maria Lydia do</fullname>
+        <roleInHousehold>Daugh</roleInHousehold>
+        <age>7</age>
+        <gender>female</gender>
+        <birthplace>Middlesex Bromley</birthplace>
+      </person>
+      
+      
+      
+      
+      
+    </people>
+    <parish>Camberwell</parish>
+    <ward>No 1</ward>
+    <parliamentaryBorough>Lambeth</parliamentaryBorough>
+    <localBoard>Camberwell</localBoard>
+    <ecclesiasticalDistrict>St Georges</ecclesiasticalDistrict>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>29 January 2012</editdate>
+    <templateID>Census1871</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+    <savefilename>1871Census/1871Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

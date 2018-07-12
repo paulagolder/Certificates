@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheets/EngCensus1871_stylesheet.xsl' ?>
+
+<certificate> 
+  <Savepath>deathcert</Savepath>  
+  <author>Paul Golder</author>  
+  <editdate>2009-04-19</editdate>  
+  <templateauthor>Paul A Golder</templateauthor>  
+  <templateeditdate>16 april 2009</templateeditdate>  
+  <templateID>Census1871</templateID>  
+  <name>England Census 1871</name>  
+  <period>1871</period>  
+  <country>England</country>  
+  <parish>Saint Andrew</parish>  
+  <municipalBorough>Worcester</municipalBorough>  
+  <ward>All Saints</ward>  
+  <parliamentaryBorough>Worcester</parliamentaryBorough>  
+  <localBoard>Worcester</localBoard>  
+  <people> 
+    <person/>  
+    <person/>  
+    <person/>  
+    <person> 
+      <householdReference>207</householdReference>  
+      <address>Quat Street 5</address>  
+      <inhabitedHouse>1</inhabitedHouse>  
+      <fullname>Samuel Hulland</fullname>  
+      <roleInHousehold>Head</roleInHousehold>  
+      <maritalStatus>Widr</maritalStatus>  
+      <age>57</age>  
+      <gender>male</gender>  
+      <occupation>Cabinet Maker</occupation>  
+      <birthplace>St Andrew Worcester</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Mary A do</fullname>  
+      <roleInHousehold>Daur</roleInHousehold>  
+      <maritalStatus>unm</maritalStatus>  
+      <age>26</age>  
+      <gender>female</gender>  
+      <occupation>Housekeeper</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Samuel do</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <maritalStatus>do</maritalStatus>  
+      <age>23</age>  
+      <gender>male</gender>  
+      <occupation>Accountant</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <householdReference>208</householdReference>  
+      <address>do</address>  
+      <inhabitedHouse>1</inhabitedHouse>  
+      <fullname>John Gittus</fullname>  
+      <roleInHousehold>Head</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>40</age>  
+      <gender>male</gender>  
+      <occupation>Horse Hair Weaver</occupation>  
+      <birthplace>Worcester</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Mary A do</fullname>  
+      <roleInHousehold>Wife</roleInHousehold>  
+      <maritalStatus>Mar</maritalStatus>  
+      <age>40</age>  
+      <gender>female</gender>  
+      <occupation>do</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Emily do</fullname>  
+      <roleInHousehold>Daur</roleInHousehold>  
+      <age>17</age>  
+      <gender>female</gender>  
+      <occupation>do</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Mary do</fullname>  
+      <roleInHousehold>do</roleInHousehold>  
+      <age>15</age>  
+      <gender>female</gender>  
+      <occupation>do</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Eliza A do</fullname>  
+      <roleInHousehold>do</roleInHousehold>  
+      <age>14</age>  
+      <gender>female</gender>  
+      <occupation>do</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>John do</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <age>11</age>  
+      <gender>male</gender>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Sampson do</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <age>8</age>  
+      <gender>male</gender>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Philip do</fullname>  
+      <roleInHousehold>Son</roleInHousehold>  
+      <age>2</age>  
+      <gender>male</gender>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Martha Horsnett</fullname>  
+      <roleInHousehold>Mother in Law</roleInHousehold>  
+      <maritalStatus>W</maritalStatus>  
+      <age>62</age>  
+      <gender>female</gender>  
+      <occupation>Gloveress</occupation>  
+      <birthplace>do</birthplace> 
+    </person>  
+    <person> 
+      <fullname>Eliza Stephens</fullname>  
+      <roleInHousehold>Lodger</roleInHousehold>  
+      <maritalStatus>Unm</maritalStatus>  
+      <age>29</age>  
+      <gender>female</gender>  
+      <occupation>Chairwoman</occupation>  
+      <birthplace>Norton Worcestershire</birthplace> 
+    </person>  
+    <person/> 
+  </people>  
+  <edition>
+    <editor>paul</editor>
+    <source></source>
+    <image></image>
+    <comment></comment>
+    <editdate>2014-11-18</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>Census1871</templateID>
+    <name>England Census 1871</name>
+    <period>1871</period>
+    <country>England</country>
+  </template>
+</certificate>

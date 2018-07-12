@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1851Census/1851Census_ThomasMiles_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-24 20:26:08</editdate>
+  <source>PRO image HO/107/8402</source><link>../images/1851/1851Census_ThomasMiles.jpeg</link></edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>70</householdReference>
+        <fullname>Thomas Miles</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>77</age>
+        <gender>male</gender>
+        <occupation>Blacksmith</occupation>
+        <birthplace>Wilts Westbury</birthplace>
+      </person>
+      <person>
+        <fullname>Jane do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>76</age>
+        <gender>female</gender>
+        <birthplace>do Edington</birthplace>
+      </person>
+      <person>
+        <fullname>Thomas do</fullname>
+        <roleInHousehold>Grandson</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>15</age>
+        <gender>male</gender>
+        <occupation>Ag Lab</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>James do</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <age>5</age>
+        <gender>male</gender>
+        <birthplace>do do</birthplace>
+      </person>
+      <person/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <person/>
+    </people>
+    <parish>Edginton</parish>
+    <village>Tinhead</village>
+  <pageno>13</pageno></certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>4 February 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+    <savefilename>1851Census/1851Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

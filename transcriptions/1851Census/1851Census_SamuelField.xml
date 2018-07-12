@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+  <certificate>
+    <people>
+      <person/>
+      
+      <person/>
+      <person>
+        <householdReference>286</householdReference>
+        <address>4 do</address>
+        <fullname>Samuel Field</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age/>
+        <gender>female</gender>
+        <occupation>Brass Worker</occupation>
+        <birthplace>Lancashire</birthplace>
+      </person>
+      <person>
+        <fullname>Grace do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>48</age>
+        <gender>female</gender>
+        <occupation/>
+        <birthplace>Wiltshire</birthplace>
+      </person>
+      <person>
+        <fullname>Caroline do</fullname>
+        <roleInHousehold>daur</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>12</age>
+        <gender>female</gender>
+        <occupation/>
+        <birthplace>Middlesex Westminster</birthplace>
+      </person>
+      <person>
+        <fullname>William do</fullname>
+        <roleInHousehold>son</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age/>
+        <gender>female</gender>
+        <occupation/>
+        <birthplace>do St James</birthplace>
+      </person>
+      <person>
+        <fullname>Joseph Goddard</fullname>
+        <roleInHousehold>Visistor</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age/>
+        <gender>female</gender>
+        <occupation>journeyman Brass worker</occupation>
+        <birthplace>do</birthplace>
+      </person>
+      <person>
+        <fullname>Jonas Cattele</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age/>
+        <gender>female</gender>
+        <occupation>Bruaces Servant</occupation>
+        <birthplace>Essex</birthplace>
+      </person>
+      <person>
+        <fullname>Martha Fletch</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>36</age>
+        <gender>female</gender>
+        <occupation>Servant</occupation>
+        <birthplace>Lancashire</birthplace>
+      </person>
+    <person/></people>
+    <parish>St Giles in the Fields</parish>
+    <village/>
+    <borough>Finsbury</borough>
+  <pageno>50</pageno><sequenceno>80</sequenceno></certificate>
+  <edition>
+    <editor>paul</editor>
+    <comment>possibly Fletcher</comment>
+    <editdate>2013-03-24 19:23:33</editdate>
+  <source>PRO image HO 107/1508</source><link>../images/1851/1851Census_SamuelField.jpeg</link></edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>3 feb 2013</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

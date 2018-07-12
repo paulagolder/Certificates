@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/GROBirthCopy_stylesheet.xsl' ?>
+
+<sourcedocument>
+  <editor>
+    <savepath>/home/paul/Certificates/1841BirthEllenBigwood_10.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2009-06-14</editdate>
+  </editor>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>15 April 2009</editdate>
+    <templateID>GROBirthCopy-0.2</templateID>
+    <name>GRO Copy of an entry of Birth</name>
+    <country>England</country>
+  </template>
+  <certificate>
+    <certificate>
+      <applicationNumber>xxCOL691510</applicationNumber>
+      <district>Melksham</district>
+      <year>1841</year>
+      <subdistrict>Trowbridge</subdistrict>
+      <county>County of Wilts</county>
+      <issueDay>15th</issueDay>
+      <issueMonth>January</issueMonth>
+      <issueYear>2008</issueYear>
+      <issueNumber>BXCC956532</issueNumber>
+      <birth>
+        <entryNo>179</entryNo>
+        <whenAndWhere>5 October 1841 Mortimer Street Parish of Trowbridge</whenAndWhere>
+        <name>Ellen</name>
+        <gender>girl</gender>
+        <fathersName>Joseph Bigwood</fathersName>
+        <mothersName>Jane Bigwood Formerly Daniells</mothersName>
+        <fathersOccupation>Shoeman</fathersOccupation>
+        <informant>The mark of Joseph Bigwood Father Mortimer Street Trowbridge</informant>
+        <registrationDate>Twenty Ninth of October 1841</registrationDate>
+        <registrar>Henry Trune Registrar</registrar>
+      </birth>
+    </certificate>
+  </certificate>
+  <certificate>
+    <applicationNumber>xxCOL691510</applicationNumber>
+    <district>Melksham</district>
+    <year>1841</year>
+    <subdistrict>Trowbridge</subdistrict>
+    <county>County of Wilts</county>
+    <issueDay>15th</issueDay>
+    <issueMonth>January</issueMonth>
+    <issueYear>2008</issueYear>
+    <issueNumber>BXCC956532</issueNumber>
+    <birth>
+      <entryNo>179</entryNo>
+      <whenAndWhere>5 October 1841 Mortimer Street Parish of Trowbridge</whenAndWhere>
+      <name>Ellen</name>
+      <gender>girl</gender>
+      <fathersName>Joseph Bigwood</fathersName>
+      <mothersName>Jane Bigwood Formerly Daniells</mothersName>
+      <fathersOccupation>Shoeman</fathersOccupation>
+      <informant>The mark of Joseph Bigwood Father Mortimer Street Trowbridge</informant>
+      <registrationDate>Twenty Ninth of October 1841</registrationDate>
+      <registrar>Henry Trune Registrar</registrar>
+    </birth>
+  </certificate>
+</sourcedocument>

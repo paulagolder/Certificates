@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='sourcestylesheet.xsl' ?>
+<snapshots>
+    <snapshot>
+        <edition>
+            <savepath>/home/paul/Certificates/1841BirthEllenBigwood_10.xml</savepath>
+            <editor>paul</editor>
+            <editdate>2009-06-14</editdate>
+        </edition>
+        <title>freddy</title>
+        <sources>
+            <source>
+                <title>firstsource</title>
+        <images>
+            <image>
+                <title> 1841Census_JamesMiles</title>
+                <url> http://localhost/~paul/Certificates/images/1841/1841Census_JamesMiles.jpg</url>
+            </image>
+        </images>
+        <transcriptions>
+            <transcription>
+                <url>http://localhost/~paul/Certificates/transcriptions/1841Census/1841Census_JamesMiles.xml</url>
+            </transcription>
+        </transcriptions>
+        </source>
+               </sources>
+    </snapshot>
+</snapshots>

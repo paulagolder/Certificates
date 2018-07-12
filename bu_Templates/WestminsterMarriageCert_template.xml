@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+ <sourcedocuments>
+   <sourcedocument>
+     <template>
+       <templateID>westminstermarriage</templateID>
+       <version>2</version>
+       <stylesheet>../Stylesheets/WestminsterMarriageCert_stylesheet.xsl</stylesheet>
+       <name>Copy of an entry of marriage St James Westminster</name>
+       <savefilepattern>Marriages/Marriage_cert.xml</savefilepattern>
+       <author>Paul A Golder</author>
+       <editdate>8 feb 2013</editdate>
+       <type>Marriage certificate</type>
+       <country>England</country>
+     </template>
+     <certificate  objecttype="certificate" name="main"  backgroundcolor="#CEF6CE" >
+       <stylegroup name="input"  borderwidth="0"  columns="20" backgroundcolor="#C2C2C2"/>
+       <vgroup name="heading"  >
+         <hgroup name="page"    >
+           <label layout="center"  fontsize="20"    >Page</label>
+           <input target="pageNumber"  columns="4" />
+         </hgroup>
+
+         <vgroup  name="title" >
+           <hgroup  backgroundcolor="black" height="5" />
+           <hgroup  >
+             <label  name="trace" layout="center"  fontsize="20"   >MARRIAGES solemnized in the Parish of St. James Westminster</label>
+           </hgroup>
+           <hgroup>
+             <label layout="center"  fontsize="20"  >in the County of Middlesex, in the Year</label>
+             <input   target="year"  fontsize="20" columns="4" />
+           </hgroup>
+         </vgroup>
+       </vgroup>
+       <hgroup  name="dummy1" backgroundcolor="black" height="5" />
+       <hgroup name="dummy2" height="50"  />
+       <vgroup   name="marriage"  objecttype="marriage" rows ="1" >
+         <hgroup >
+           <input height="20" layout="right"  target="groom.name"   columns="40" />
+           <label>of</label>
+           <input      target="groom.residence"  columns="5" />
+           <label>Parish</label>
+         </hgroup>
+         <hgroup  height="20" />
+         <hgroup>
+           <label>and</label>
+           <input height="10"  layout="right"   target="bride.name"  columns="40" />
+           <label>of</label>
+           <input      target="bride.residence"  columns="5" />
+           <label>Parish</label>
+         </hgroup>
+         <hgroup height="10" />
+         <hgroup>
+           <label>were married in this church by</label>
+           <input     target="banns"  columns="20" />
+           <label>with consent of</label>
+           <input      target="consent"  columns="20" />
+         </hgroup>
+         <hgroup height="10" />
+         <hgroup>
+           <label>this</label>
+           <input      target="day" />
+           <label>Day of</label>
+           <input      target="month" />
+           <label>in the Year One thousand eight hundred and thirty two</label>
+         </hgroup>
+         <hgroup height="10" />
+         <hgroup>
+
+           <label layout="center" >By me</label>
+           <input width="40"  target="official"  />
+         </hgroup>
+         <hgroup height="10" />
+         <vgroup  borderwidth="1" bordercolor="blue" >
+           <hgroup   >
+             <hgroup layout="left" >
+             <label>This marriage was solemized between us</label>
+             <label fontsize="40" >{</label>
+           </hgroup>
+           <vgroup tgap="10">
+             <input      target="groom.name" />
+             <hgroup height="5" />
+             <input      target="bride.name" />
+           </vgroup>
+         </hgroup>
+         <hgroup  >
+           <hgroup   layout="left" >
+             <label>in the presence of</label>
+             <label fontsize="40" >{</label>
+           </hgroup>
+           <vgroup layout="FILLW" tgap="10" >
+             <input      target="witness.first" />
+             <hgroup height="5" />
+             <input      target="witness.second" />
+           </vgroup>
+         </hgroup>
+	 <hgroup  >
+           <hgroup   layout="left" >
+             <label>No.</label>
+             <input      target="number" />
+           </hgroup>
+         </hgroup>
+       </vgroup>
+       </vgroup>
+     </certificate>
+   </sourcedocument>
+ </sourcedocuments>
+ 

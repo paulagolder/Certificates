@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+  <sourcedocuments>
+    <sourcedocument>
+      <templateID>Census1881-0.1</templateID>
+      <stylesheet>Stylesheets/EngCensus1881_stylesheet.xsl</stylesheet>
+      <name>England Census 1881</name>
+      <author>Paul A Golder</author>
+      <editdate>16 april 2009</editdate>
+      <type>census</type>
+      <country>England</country>
+      <period>1881</period>
+      <source></source>
+      <certificate  objecttype="certificate" name="main"   >
+        <styleblock name="inputcell"  borderwidth="0"  backgroundcolor="#E4DCDC"  />
+        <vgroup >
+          <vgroup borderwidth="1" >
+            <hblock>
+              <label >the undermentioned Houses are situate within the Boundaries of the</label>
+            </hblock>
+          </vgroup>
+          <table name="heading"    >
+            <hgroup  >
+              <vblock>
+                <label>Civil Parish[or Township] of</label>
+              </vblock> 
+              <vblock>
+                <label>
+                  <text>City or</text>
+                  <text>Municipal Borough of</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>Municipal Ward of</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>Parliamentary Borough of</label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>Town or Village or</text>
+                  <text>Hamlet of</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>Urban Sanitary District of</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>Ruraln Sanitary District of</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>Ecclesiastical district of</label>
+              </vblock>
+            </hgroup>
+            <hgroup>
+              <vblock>
+                <input    target="parish"  />
+              </vblock> 
+              <vblock>
+                <input    target="municipalBorough"  />
+              </vblock>
+              <vblock>
+                <input    target="ward"  />
+              </vblock>
+              <vblock>
+                <input    target="parliamentaryBorough" />
+              </vblock>
+              <vblock>
+                <input    target="town"   />
+              </vblock>
+              <vblock>
+                <input    target="urbanSanitaryDistrict"  />
+              </vblock>
+              <vblock>
+                <input    target="localBoard"  />
+              </vblock>
+              <vblock>
+                <input    target="ruralSanitaryDistrict"  />
+              </vblock>
+            </hgroup>
+          </table>
+          <hgroup/>
+          <table name="people"  objecttype="people" borderwidth="1"  >
+            <hgroup>
+              <vblock>
+                <label>
+                  <text>No of</text>
+                  <text>Schedule</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>ROAD, STREET etc </text>
+                  <text>and No or NAME of HOUSE</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label colspan="2" align="center" >Houses </label>
+                <label  width="30" font-size="8">
+                  <text>In-</text>
+                  <text>habit-</text>
+                  <text>ed </text>
+                </label>
+              </vblock>
+              <vblock>
+                <label></label>
+                <label width="30"  font-size="8">
+                  <text>unin-</text>
+                  <text>habited</text>
+                  <text>(U.). or</text>
+                  <text>Building</text>
+                  <text>(B.).</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>NAME and Surname of each</text>
+                  <text>Person</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label>
+                  <text>RELATION</text>
+                  <text>to</text>
+                  <text>Head of Family</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label><text>CON-</text>
+                  <text>DITION</text>
+                  <text>as to</text>
+                  <text>Marriage</text>
+                </label>
+              </vblock>
+              <vblock>
+                <label colspan="2">
+                  <text>AGE last</text>
+                  <text>Birthday</text>
+                  <text>of</text>
+                </label>
+                <label font-size="8" width="30" >Males</label>
+              </vblock>
+              <vblock>
+                <label/>
+                <label  font-size="8" width="30" >Females</label>
+              </vblock>
+              <vblock>
+                <label>Rank, Profession, or OCCUPATION</label>
+              </vblock>
+              <vblock>
+                <label>WHERE BORN</label>
+              </vblock>
+              <vblock>
+                <label font-size="8">
+                  <text>if</text>
+                  <text>(1). Deaf and Dumb</text>
+                  <text>(2). Blind </text>
+                  <text>(3). Imbecile or Idiot </text>
+                  <text>(4). Lunatic </text>
+                </label>
+              </vblock>
+            </hgroup>
+            <hgroup rows="25" objecttype ="person"   backgroundcolor="#E4DCDC" borderwidth="0" >
+              <vblock>
+                <input    target="householdReference"  />
+              </vblock>
+              <vblock>
+                <input    target="address"  />
+              </vblock>
+              <vblock>
+                <input    target="inhabitedHouse"  />
+              </vblock>
+              <vblock>
+                <input    target="uninhabitedHouse"  />
+              </vblock>
+              <vblock>
+                <input    target="fullname"  />
+              </vblock>
+              <vblock>
+                <input    target="roleInHousehold"  />
+              </vblock>
+              <vblock>
+                <input    target="maritalStatus"  />
+              </vblock>
+              <vblock>
+                <input    target="age:gender=male"  />
+              </vblock>
+              <vblock>
+                <input    target="age:gender=female"  />
+              </vblock>
+              <vblock>
+                <input    target="occupation"  />
+              </vblock>
+              <vblock>
+                <input    target="birthplace"  />
+              </vblock>
+              <vblock>
+                <input    target="note"  />
+              </vblock>
+            </hgroup>
+            <hgroup>
+              <vblock>
+                <label colspan="2">Total of Houses  </label>
+              </vblock>
+              <vblock />
+              <vblock>
+                <input  target="totalInhabited"  />
+              </vblock>
+              <vblock>
+                <input  target="totalUninhabited"  />
+              </vblock>
+              <vblock>
+                <label colspan="3">Total of Males and Females </label>
+              </vblock>
+              <vblock />
+              <vblock />
+              <vblock>
+                <input  target="totalMales"  />
+              </vblock>
+              <vblock>
+                <input  target="totalFemales"  />
+              </vblock>
+              <vblock />
+              <vblock />
+              <vblock />
+            </hgroup>
+          </table>
+        </vgroup>
+      </certificate>
+    </sourcedocument>
+  </sourcedocuments>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Images HO 107/1189/2</source>
+    <comment></comment>
+    <editdate>2013-02-22</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <place>?? ?? North Street</place> 
+      </person>  
+      <person> 
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>Elizabeth Willis</name>  
+        <gender>female</gender>  
+        <age>80</age>  
+        <occupation>ind</occupation>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <birthplaceOther/> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Silas Purnell</name>  
+        <age>38</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>male</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Ruth Do</name>  
+        <age>34</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>James Do</name>  
+        <age>7</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>male</gender> 
+      </person>  
+      <person> 
+        <name>Elizabeth Do</name>  
+        <age>14</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Grace Rose</name>  
+        <age>50</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Thomas Do</name>  
+        <age>24</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>male</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <name>John Do</name>  
+        <age>16</age>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>male</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <name>Ann Chesterman</name>  
+        <age>25</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/> 
+      </person> 
+    </people>  
+    <borough>Devizes</borough>  
+    <parish>Saint Mary</parish>  
+    <sequenceno>38-30</sequenceno>
+    <pageno>24-25</pageno>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

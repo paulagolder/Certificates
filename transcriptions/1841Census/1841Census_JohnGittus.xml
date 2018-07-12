@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <comment/>
+    <editdate>2013-03-22 16:56:51</editdate>
+  <source>PRO image 107/1209/3</source><link>../images/1841/1841Census_JohnGittus.jpg</link></edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <place>Birdport St</place> 
+      </person>  
+      <person> 
+        <inhabitedHouse>1</inhabitedHouse>  
+        <name>John Gittus</name>  
+        <age>35</age>  
+        <gender>male</gender>  
+        <occupation>J Bricklayer</occupation>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Ann do</name>  
+        <age>35</age>  
+        <gender>female</gender>  
+        <occupation>Gloveress</occupation>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>John do</name>  
+        <age>11</age>  
+        <gender>male</gender>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Ann do</name>  
+        <age>9</age>  
+        <gender>female</gender>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Saml do</name>  
+        <age>7</age>  
+        <gender>male</gender>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Charles do</name>  
+        <age>5</age>  
+        <gender>male</gender>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person> 
+        <name>Emmela do</name>  
+        <age>7months</age>  
+        <gender>female</gender>  
+        <birthplaceThisCounty>y</birthplaceThisCounty> 
+      </person>  
+      <person/> 
+    </people>  
+    <borough>Worcester</borough>  
+    <parish>St Andrews</parish>  
+    <pageno>32</pageno>
+    <sequenceno>48</sequenceno>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

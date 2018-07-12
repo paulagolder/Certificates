@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1851Census/1851Census_JosephBigwood_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-24 18:57:45</editdate>
+  <source>PRO image HO 107/1840</source><link>../images/1851/1851Census_JosephBigwood.jpg</link></edition>
+  <certificate>
+    <people>
+      
+      <person>
+        <address>Timbrell Street</address>
+        <householdReference>215</householdReference>
+        <fullname>Joseph Bigwood</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Married</maritalStatus>
+        <age>48</age>
+        <gender>male</gender>
+        <occupation>cloth worker</occupation>
+        <birthplace>Trowbridge</birthplace>
+      </person>
+      <person>
+        <fullname>Jane do</fullname>
+        <age>47</age>
+        <gender>female</gender>
+        <occupation>do</occupation>
+        <birthplace>do</birthplace>
+        <roleInHousehold>wife</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+      </person>
+      <person>
+        <fullname>Joseph do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>un</maritalStatus>
+        <age>24</age>
+        <gender>male</gender>
+        <occupation>do</occupation>
+        <birthplace>do</birthplace>
+      </person>
+      <person>
+        <fullname>George do</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age/>
+        <gender/>
+        <occupation>do</occupation>
+        <birthplace>do</birthplace>
+      </person>
+      <person>
+        <fullname>Ellen do</fullname>
+        <roleInHousehold>Dau</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>9</age>
+        <gender>female</gender>
+        <occupation>Scholar</occupation>
+        <birthplace>do</birthplace>
+      </person>
+      <person>
+        <fullname>Eliza do</fullname>
+        <roleInHousehold>do</roleInHousehold>
+        <maritalStatus>do</maritalStatus>
+        <age>3</age>
+        <gender>female</gender>
+        <occupation>do</occupation>
+        <birthplace>do</birthplace>
+      </person>
+      <person/>
+      
+      
+      
+      
+      
+      
+      
+      
+    </people>
+    <parish>Trowbridge Wilts</parish>
+  <pageno>64</pageno><sequenceno>369</sequenceno></certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Jan 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

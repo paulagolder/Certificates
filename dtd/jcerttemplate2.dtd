@@ -1,0 +1,242 @@
+<!ELEMENT sourcedocuments (sourcedocument*)>
+<!ELEMENT sourcedocument (template, certificate)>
+<!ELEMENT template (templateID , version, stylesheet ,name?, savefilepattern?, author?, editdate?, type?,country?, period?, source?)>
+<!ELEMENT templateID ( #PCDATA) >
+<!ELEMENT version ( #PCDATA) >
+<!ELEMENT savefilepattern ( #PCDATA) >
+<!ELEMENT stylesheet ( #PCDATA) >
+<!ELEMENT name ( #PCDATA) >
+<!ELEMENT author ( #PCDATA) >
+<!ELEMENT editdate ( #PCDATA) >
+<!ELEMENT type ( #PCDATA) >
+<!ELEMENT country ( #PCDATA) >
+<!ELEMENT period ( #PCDATA) >
+<!ELEMENT source ( #PCDATA) >
+
+<!ELEMENT certificate (stylegroup | hgroup | vgroup | table )* >
+<!ATTLIST certificate
+name NMTOKEN #IMPLIED
+layout NMTOKEN #IMPLIED
+objecttype NMTOKEN #IMPLIED
+backgroundcolor CDATA #IMPLIED
+foregroundcolor CDATA #IMPLIED
+  borderwidth CDATA #IMPLIED
+  bordercolor CDATA #IMPLIED
+  height CDATA #IMPLIED
+  width CDATA #IMPLIED
+  tgap CDATA #IMPLIED
+  lgap CDATA #IMPLIED
+  rgap CDATA #IMPLIED
+  bgap CDATA #IMPLIED
+  hgap CDATA #IMPLIED
+  vgap CDATA #IMPLIED
+  gaps CDATA #IMPLIED
+  >
+
+  <!ELEMENT stylegroup EMPTY >
+  <!ATTLIST stylegroup
+  name NMTOKEN #IMPLIED
+  objecttype NMTOKEN #IMPLIED
+  backgroundcolor CDATA #IMPLIED
+  foregroundcolor CDATA #IMPLIED
+    bordercolor CDATA #IMPLIED
+    borderwidth CDATA #IMPLIED
+    fontsize NMTOKEN #IMPLIED
+    fontstyle CDATA #IMPLIED
+    fontname CDATA #IMPLIED
+    height CDATA #IMPLIED
+    columns CDATA #IMPLIED
+    tgap CDATA #IMPLIED
+    lgap CDATA #IMPLIED
+    rgap CDATA #IMPLIED
+    bgap CDATA #IMPLIED
+    hgap CDATA #IMPLIED
+    vgap CDATA #IMPLIED
+    gaps CDATA #IMPLIED >
+
+    <!ELEMENT hgroup (stylegroup | vgroup | hgroup | table  | label | input )* >
+    <!ATTLIST hgroup
+    name NMTOKEN #IMPLIED
+    layout NMTOKEN #IMPLIED
+    objecttype NMTOKEN #IMPLIED
+    rows CDATA #IMPLIED
+    colspan NMTOKEN #IMPLIED
+    rowspan NMTOKEN #IMPLIED
+    backgroundcolor CDATA #IMPLIED
+    foregroundcolor CDATA #IMPLIED
+      bordercolor CDATA #IMPLIED
+      borderwidth CDATA #IMPLIED
+      height CDATA #IMPLIED
+      width CDATA #IMPLIED
+      tgap CDATA #IMPLIED
+      lgap CDATA #IMPLIED
+      rgap CDATA #IMPLIED
+      bgap CDATA #IMPLIED
+      hgap CDATA #IMPLIED
+      vgap CDATA #IMPLIED
+      gaps CDATA #IMPLIED
+      >
+
+
+      <!ELEMENT vgroup (stylegroup  | vgroup | hgroup | table | label | input )* >
+      <!ATTLIST vgroup
+      name NMTOKEN #IMPLIED
+      layout NMTOKEN #IMPLIED
+      colspan NMTOKEN #IMPLIED
+      rowspan NMTOKEN #IMPLIED
+      objecttype NMTOKEN #IMPLIED
+      backgroundcolor CDATA #IMPLIED
+      foregroundcolor CDATA #IMPLIED
+        bordercolor CDATA #IMPLIED
+        borderwidth CDATA #IMPLIED
+        height CDATA #IMPLIED
+        width CDATA #IMPLIED
+        tgap CDATA #IMPLIED
+        lgap CDATA #IMPLIED
+        rgap CDATA #IMPLIED
+        bgap CDATA #IMPLIED
+        hgap CDATA #IMPLIED
+        vgap CDATA #IMPLIED
+        gaps CDATA #IMPLIED
+        >
+
+
+        <!ELEMENT table (stylegroup | trow )* >
+        <!ATTLIST table
+        name NMTOKEN #IMPLIED
+        layout NMTOKEN #IMPLIED
+        objecttype NMTOKEN #IMPLIED
+        backgroundcolor CDATA #IMPLIED
+        foregroundcolor CDATA #IMPLIED
+          borderwidth CDATA #IMPLIED
+          bordercolor CDATA #IMPLIED
+          height CDATA #IMPLIED
+          width CDATA #IMPLIED
+          tgap CDATA #IMPLIED
+          lgap CDATA #IMPLIED
+          rgap CDATA #IMPLIED
+          bgap CDATA #IMPLIED
+          hgap CDATA #IMPLIED
+          vgap CDATA #IMPLIED
+          gaps CDATA #IMPLIED
+          >
+
+          <!ELEMENT trow (stylegroup | tcell | tcolumn )* >
+          <!ATTLIST trow
+          name NMTOKEN #IMPLIED
+          layout NMTOKEN #IMPLIED
+          objecttype NMTOKEN #IMPLIED
+          rows CDATA #IMPLIED
+          backgroundcolor CDATA #IMPLIED
+          foregroundcolor CDATA #IMPLIED
+            borderwidth CDATA #IMPLIED
+            bordercolor CDATA #IMPLIED
+            height CDATA #IMPLIED
+            width CDATA #IMPLIED
+            tgap CDATA #IMPLIED
+            lgap CDATA #IMPLIED
+            rgap CDATA #IMPLIED
+            bgap CDATA #IMPLIED
+            hgap CDATA #IMPLIED
+            vgap CDATA #IMPLIED
+            gaps CDATA #IMPLIED
+            >
+
+            <!ELEMENT tcell (stylegroup | hgroup| vgroup | label | input )* >
+            <!ATTLIST tcell
+            name NMTOKEN #IMPLIED
+            layout NMTOKEN #IMPLIED
+            objecttype NMTOKEN #IMPLIED
+            backgroundcolor CDATA #IMPLIED
+            foregroundcolor CDATA #IMPLIED
+              borderwidth CDATA #IMPLIED
+              bordercolor CDATA #IMPLIED
+              height CDATA #IMPLIED
+              width CDATA #IMPLIED
+              tgap CDATA #IMPLIED
+              lgap CDATA #IMPLIED
+              rgap CDATA #IMPLIED
+              bgap CDATA #IMPLIED
+              hgap CDATA #IMPLIED
+              vgap CDATA #IMPLIED
+              gaps CDATA #IMPLIED
+              >
+
+              <!ELEMENT tcolumn (stylegroup | tcell | trow )* >
+              <!ATTLIST tcolumn
+              name NMTOKEN #IMPLIED
+              layout NMTOKEN #IMPLIED
+              objecttype NMTOKEN #IMPLIED
+              backgroundcolor CDATA #IMPLIED
+              foregroundcolor CDATA #IMPLIED
+                borderwidth CDATA #IMPLIED
+                bordercolor CDATA #IMPLIED
+                height CDATA #IMPLIED
+                width CDATA #IMPLIED
+                tgap CDATA #IMPLIED
+                lgap CDATA #IMPLIED
+                rgap CDATA #IMPLIED
+                bgap CDATA #IMPLIED
+                hgap CDATA #IMPLIED
+                vgap CDATA #IMPLIED
+                gaps CDATA #IMPLIED
+                >
+
+
+                <!ELEMENT input EMPTY >
+                <!ATTLIST input
+                name NMTOKEN #IMPLIED
+                target CDATA #REQUIRED
+                value  CDATA #IMPLIED
+                layout NMTOKEN #IMPLIED
+                objecttype NMTOKEN #IMPLIED
+                backgroundcolor CDATA #IMPLIED
+                foregroundcolor CDATA #IMPLIED
+                fontsize NMTOKEN #IMPLIED
+                fontstyle CDATA #IMPLIED
+                fontname CDATA #IMPLIED
+                  bordercolor CDATA #IMPLIED
+                  borderwidth CDATA #IMPLIED
+                  columns CDATA #IMPLIED
+                  height CDATA #IMPLIED
+                  width CDATA #IMPLIED
+                  tgap CDATA #IMPLIED
+                  lgap CDATA #IMPLIED
+                  rgap CDATA #IMPLIED
+                  bgap CDATA #IMPLIED
+                  hgap CDATA #IMPLIED
+                  vgap CDATA #IMPLIED
+                  gaps CDATA #IMPLIED
+                  >
+
+
+                  <!ELEMENT label ( #PCDATA | text )* >
+                  <!ATTLIST label
+                  name NMTOKEN #IMPLIED
+                  align NMTOKEN #IMPLIED
+                  layout NMTOKEN #IMPLIED
+                  direction CDATA #IMPLIED
+                  colspan NMTOKEN #IMPLIED
+                  rowspan NMTOKEN #IMPLIED
+                  backgroundcolor CDATA #IMPLIED
+                  foregroundcolor CDATA #IMPLIED
+                    borderwidth CDATA #IMPLIED
+                    bordercolor CDATA #IMPLIED
+                    fontsize NMTOKEN #IMPLIED
+                    fontstyle CDATA #IMPLIED
+                    fontname CDATA #IMPLIED
+                    height CDATA #IMPLIED
+                    width CDATA #IMPLIED
+                    tgap CDATA #IMPLIED
+                    lgap CDATA #IMPLIED
+                    rgap CDATA #IMPLIED
+                    bgap CDATA #IMPLIED
+                    hgap CDATA #IMPLIED
+                    vgap CDATA #IMPLIED
+                    gaps CDATA #IMPLIED
+                    >
+
+                    <!ELEMENT text (#PCDATA )>
+                    <!ATTLIST text
+                    fontsize NMTOKEN #IMPLIED >
+

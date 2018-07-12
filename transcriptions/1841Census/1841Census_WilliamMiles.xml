@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument>
+  <certificate>
+    <people>
+      <person>
+        <place>Westbury Leigh</place>
+        <inhabitedHouse>1</inhabitedHouse>
+        <name>Wm Miles</name>
+        <age>25</age>
+        <gender>male</gender>
+        <occupation>Blacksmith</occupation>
+        <birthplaceThisCounty>y</birthplaceThisCounty>
+      </person>
+    </people>
+    <borough>Westbury</borough>
+    <parish>Westbury</parish>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <people>
+      <person/>
+    </people>
+    <pageno>23</pageno>
+    <sequenceno>36</sequenceno>
+  </certificate>
+  <edition>
+    <editor>paul</editor>
+    <source></source>
+    <image></image>
+    <comment></comment>
+    <editdate>2014-11-20</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

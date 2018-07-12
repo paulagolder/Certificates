@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<user>
+  <name>paul</name>
+  <email>paul.a.golder@lerot.org</email>
+  <ftphost>ftp.lerot.org</ftphost>
+  <ftpusername>jcert@lerot.org</ftpusername>
+  <ftppassword>jcert</ftppassword>
+  <ftpdirectory>/Templates</ftpdirectory>
+  <certificatepath>/home/paul/public_html/Certificates</certificatepath>
+  <templatepath>/home/paul/JCert/Templates/</templatepath>
+</user>

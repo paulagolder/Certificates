@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Stylesheets/LMAMarriageCert_stylesheet.xsl'?>
+<sourcedocuments>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/Marriages/1895Marriage_PhillipHooperGittus.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-11</editdate>
+  </edition>
+  <certificate>
+    <marriage>
+      <year>1895</year>
+      <location1>SZt Saviour Church</location1>
+      <location2>Parish</location2>
+      <location3>St Saviour Hoxton</location3>
+      <location4>London</location4>
+      <entryno>123</entryno>
+      <when>July 6th 1895</when>
+      <groom.name>Phillip Hooper Gittus</groom.name>
+      <bride.name>Alice Eliza Maud Smith</bride.name>
+      <groom.age>27</groom.age>
+      <bride.age>25</bride.age>
+      <groom.condition>Bachelor</groom.condition>
+      <bride.condition>Soinster</bride.condition>
+      <groom.profession>Provision - dealer</groom.profession>
+      <bride.profession>Dressmaker</bride.profession>
+      <groom.residence>25 Grange St</groom.residence>
+      <bride.residence>25 Grange St</bride.residence>
+      <groom.father>John Gittus (deceased)</groom.father>
+      <bride.father>Thomas William Smith</bride.father>
+      <groom.fatheroccupation>Builder</groom.fatheroccupation>
+      <bride.fatheroccupation>Vellum-binder</bride.fatheroccupation>
+      <location5>above church</location5>
+      <banns>Banns</banns>
+      <official>E Newell Jong</official>
+      <groom.signature>Philip Hooper Gittus</groom.signature>
+      <bride.signature>Alice Eliza Maud Smith</bride.signature>
+      <witness.first>Thomas William Smith</witness.first>
+      <witness.second>Louisa Dousett</witness.second>
+    </marriage>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 February 2012</editdate>
+    <templateID>engmarriage20090415</templateID>
+    <name>GRO Copy of an entry of marriage</name>
+    <country>England</country>
+    <savefilename>Marriages/Marriage_cert.xml</savefilename>
+  </template>
+</sourcedocument>
+</sourcedocuments>

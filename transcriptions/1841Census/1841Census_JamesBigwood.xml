@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet ../Stylesheets/EngCensus1841_stylesheet.xsl?>
+<sourcedocument>
+    <template>
+      <stylesheet>../Stylesheets/EngCensus1841_stylesheet.xsl</stylesheet>
+      <savefile>./Census1841/1841Census_{person/name}.xml</savefile>
+      <author>Paul A Golder</author>
+      <editdate>11 Feb 2013</editdate>
+      <templateID>Census1841</templateID>
+      <name>England Census 1841</name>
+      <period>1841</period>
+      <country>England</country>
+    </template>
+    <edition><source>PRO image HO 107/1182/1</source><link>../images/1841/1841Census_JamesMiles.jpg</link></edition>
+    <certificate>
+      <people>
+        <person>
+        </person>
+      <person><place>High Street</place><inhabitedHouse>1</inhabitedHouse><name>James Miles</name><gender>male</gender><age>50</age><occupation>Black S</occupation><birthplaceThisCounty>Y</birthplaceThisCounty></person><person><name>Jane do </name><gender>female</gender><age>50</age><birthplaceThisCounty>Y</birthplaceThisCounty></person><person><name>John do</name><gender>male</gender><age>20</age><birthplaceThisCounty>Y</birthplaceThisCounty></person><person><name>Isaac</name><gender>male</gender><age>20</age><birthplaceThisCounty/></person><person/></people>
+    <pageno>20</pageno><sequenceno>10</sequenceno><parish>Erlestoke</parish></certificate>
+  </sourcedocument>

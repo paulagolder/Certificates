@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1901_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <county>London</county>  
+    <parish>Islington(part of)</parish>  
+    <ecclesiasticalParish>St Peters St (Part of)</ecclesiasticalParish>  
+    <municipalBorough>Islington (Part of)</municipalBorough>  
+    <ward>St Peters</ward>  
+    <parliamentaryBorough>South Division of Islington</parliamentaryBorough>  
+    <pageno>17</pageno>  
+    <sequenceno>13</sequenceno>  
+    <people> 
+      <person> 
+        <householdReference>148</householdReference>  
+        <address>28 St James St</address>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <fullname>George Bigwood</fullname>  
+        <roleInHousehold>Head</roleInHousehold>  
+        <age>72</age>  
+        <gender>male</gender>  
+        <maritalStatus>M</maritalStatus>  
+        <occupation>Warehouse Porter</occupation>  
+        <employer>Worker</employer>  
+        <birthplace>Wilts Trowbridge</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Lucy A do</fullname>  
+        <roleInHousehold>Wife</roleInHousehold>  
+        <maritalStatus>M</maritalStatus>  
+        <age>67</age>  
+        <gender>female</gender>  
+        <birthplace>Hartinton nr Yeovil</birthplace> 
+      </person>  
+      <person> 
+        <fullname>John Gittus</fullname>  
+        <roleInHousehold>Son in law</roleInHousehold>  
+        <maritalStatus>M</maritalStatus>  
+        <age>42</age>  
+        <gender>male</gender>  
+        <occupation>Cabinet Maker</occupation>  
+        <employer>do</employer>  
+        <birthplace>Worcester</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Ellen E Gittus</fullname>  
+        <roleInHousehold>daur</roleInHousehold>  
+        <age>40</age>  
+        <gender>female</gender>  
+        <maritalStatus>M</maritalStatus>  
+        <birthplace>London</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Alice E Pugh</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <maritalStatus>S</maritalStatus>  
+        <age>21</age>  
+        <gender>female</gender>  
+        <occupation>Shirt Packer</occupation>  
+        <employer>do</employer>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Chas G do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>S</maritalStatus>  
+        <age>19</age>  
+        <gender>male</gender>  
+        <occupation>Furniture Porter</occupation>  
+        <employer>do</employer>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Wm S do</fullname>  
+        <roleInHousehold>Son</roleInHousehold>  
+        <maritalStatus>S</maritalStatus>  
+        <age>16</age>  
+        <gender>male</gender>  
+        <occupation>Clerk Messenger</occupation>  
+        <employer>do</employer>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Doris M Gittus</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <age>6</age>  
+        <gender>female</gender>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person> 
+        <fullname>Lily F do</fullname>  
+        <roleInHousehold>Daur</roleInHousehold>  
+        <age>5</age>  
+        <gender>female</gender>  
+        <birthplace>do</birthplace> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person/> 
+    </people> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source></source>
+    <image></image>
+    <comment></comment>
+    <editdate>2014-11-24</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>22 Nov 2014</editdate>
+    <templateID>Census1891</templateID>
+    <name>England Census 1901</name>
+    <period>1901</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>GROBirthCopy-0.2</templateID>
+            <stylesheet>/Stylesheets/GROBirthCopy_stylesheet.xsl</stylesheet>
+            <name>GRO Copy of an entry of Birth</name>
+            <savefilepattern>gromarriage.xml</savefilepattern>
+            <author>Paul A Golder</author>
+            <editdate>15 April 2009</editdate>
+            <type>Birth certificate</type>
+            <country>England</country>
+            <period>1837-</period>
+            <source>gro</source>
+        </template>
+        <certificate  name="top"  objecttype ="certificate"  backgroundcolor="#84E96A"    foregroundcolor="#CB410E" >
+            <styleblock name="inputcell"  bordercolor="gray"  borderwidth="1"  backgroundcolor="#E4DCDC"  />
+            <hgroup name="heading"  >  
+                <vblock>
+                    <label >CERTIFIED COPY OF AN ENTRY OF BIRTH</label>
+                </vblock> 
+                <vblock >
+                </vblock>
+                <vgroup align="left">
+                    <hblock name ="given"> 
+                        <label align="right"  name ="reg"  >GIVEN AT THE GENERAL REGISTER OFFICE</label>
+                    </hblock>
+                    <hblock>
+                        <label font-style="italic"   foregroundcolor="black" > Application Number</label>
+                        <input target="applicationNumber"   width="60" />
+                    </hblock>
+                </vgroup>
+            </hgroup>
+            <hgroup height="10"    >
+            </hgroup>
+            <vgroup name="certificate"  borderwidth="1"  foregroundcolor="#CB410E"   padding="20">
+                <hblock borderwidth="0"  >
+                    <label   >REGISTRATION DISTRICT</label>
+                    <input    target="district"  />
+                </hblock>
+                <hblock  borderwidth="0" >
+                    <input target ="year"  />
+                    <label > BIRTH in the Sub-district of</label>
+                    <input    target="subdistrict" />
+                    <label >in the</label>
+                    <input     target="county" />
+                </hblock>
+            </vgroup>         
+            <table name="births"    borderwidth="1"   foregroundcolor="black"    >
+                <trow borderwidth="0"  >
+                    <tcell align="center" >
+                        <label  verticalalign="top" >
+                            <text>Columns:-</text>
+                            <text>No.</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>1</text>
+                            <text>When and.</text>
+                            <text>where born</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>2</text>
+                            <text>Name if any.</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>3</text>
+                            <text>Sex</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>4</text>
+                            <text>Name and Surname</text>
+                            <text>of Father</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>5</text>
+                            <text>Name surname and</text>
+                            <text>maiden surname</text>
+                            <text>of mother</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>6</text>
+                            <text>Occupation</text>
+                            <text>of Father</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>7</text>
+                            <text>Signature, description and</text>
+                            <text>residence of informant</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>8</text>
+                            <text>When</text>
+                            <text>registered</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>9</text>
+                            <text>Signature of registrar</text>
+                        </label>
+                    </tcell>   
+                    <tcell>
+                        <label>
+                            <text>10</text>
+                            <text>Name entered</text>
+                            <text>after registration</text>
+                        </label>
+                    </tcell>  
+                </trow>
+                <trow   objecttype ="birth"  borderwidth="0"  >
+                    <tcell align="center" >
+                        <input   target="entryNo" /> 
+                        </tcell>
+                    <tcell>
+                        <input       target="whenAndWhere" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="name" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="gender" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="fathersName" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="mothersName" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="fathersOccupation" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="informant" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="registrationDate" /> 
+                    </tcell>
+                    <tcell>
+                        <input     target="registrar" /> 
+                    </tcell>   
+                    <tcell>
+                        <input     target="nameEnteredLate" /> 
+                    </tcell>  
+                </trow>
+            </table>
+            <hgroup height="20"  />
+            <vgroup  padding="10"   >
+                <hblock>
+                    <label align="left" >CERTIFIED to be a true copy of an entry in the certified copy of a Register of Births on the District above mentioned.</label>
+                    <label  />
+                </hblock>
+                <hblock>
+                    <label  >Given at the GENERAL REGISTER OFFICE under the seal of the said Office, the </label>
+                    <input target="issueDay" />
+                    <label >day of</label>
+                    <input target="issueMonth" />
+                    <input target ="issueYear" />
+                </hblock>       
+                <hblock name="hline" backgroundcolor="red"  height="5"  />
+                <hblock>
+                    <input target="issueNumber" />
+                    <label></label>
+                </hblock>
+            </vgroup>
+        </certificate>
+    </sourcedocument>
+</sourcedocuments>

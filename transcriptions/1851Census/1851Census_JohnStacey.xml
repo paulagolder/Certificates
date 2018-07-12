@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1851_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1851Census/1851Census_JohnStacey_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-24 18:55:38</editdate>
+  <link>../images/1851/1851Census_JohnStacey.jpeg</link><source>PRO image HO 107 1699</source></edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>22</householdReference>
+        <fullname>John Stacey</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>63</age>
+        <gender>male</gender>
+        <occupation>Retired publican</occupation>
+        <birthplace>Berks Wallingford</birthplace>
+      </person>
+      <person>
+        <fullname>Mary Do</fullname>
+        <roleInHousehold>Daur</roleInHousehold>
+        <maritalStatus>U</maritalStatus>
+        <age>28</age>
+        <gender>female</gender>
+        <birthplace>Middx Brentford</birthplace>
+      </person>
+      <person>
+        <fullname>Mary Do</fullname>
+        <roleInHousehold>Wife</roleInHousehold>
+        <maritalStatus>Mar</maritalStatus>
+        <age>62</age>
+        <gender>female</gender>
+        <birthplace>Scotland</birthplace>
+      </person>
+      <person/>
+      <person/>
+      
+      <person/>
+      
+      
+      
+      
+      
+      
+      
+      <person/>
+      
+      <person/>
+      <person/>
+    </people>
+    <parish>Ealing</parish>
+    <town>Old Bedford</town>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Jan 2012</editdate>
+    <templateID>Census1851</templateID>
+    <name>England Census 1851</name>
+    <period>1851</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

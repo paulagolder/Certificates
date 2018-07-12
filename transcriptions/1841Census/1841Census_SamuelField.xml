@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <editor>paul</editor>
+    <source>Source PRO Image HO 107/730/1</source>
+    <comment></comment>
+    <editdate>2013-02-22</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <place>No 4 West St</place>  
+        <name>Sam' Field</name>  
+        <inhabitedHouse>1</inhabitedHouse>  
+        <age>37</age>  
+        <occupation>Brass finisher</occupation>  
+        <birthplaceThisCounty>N</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>male</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Sarah "</name>  
+        <age>30</age>  
+        <occupation/>  
+        <birthplaceThisCounty>N</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Sarah "</name>  
+        <age>11</age>  
+        <occupation/>  
+        <birthplaceThisCounty>N</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Eliza "</name>  
+        <age>9</age>  
+        <occupation/>  
+        <birthplaceThisCounty>N</birthplaceThisCounty>  
+        <birthplaceOther/>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <place/>  
+        <uninhabitedHouse/>  
+        <inhabitedHouse/>  
+        <name>Caroline "</name>  
+        <age>1</age>  
+        <occupation/>  
+        <birthplaceThisCounty>Y</birthplaceThisCounty>  
+        <gender>female</gender> 
+      </person>  
+      <person> 
+        <name/>  
+        <age/>  
+        <gender>female</gender> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person/> 
+    </people>  
+    <borough>City and liberty of Westminster</borough>  
+    <parish>St Anne Soho</parish>  
+    <pageno>40</pageno>  
+    <sequenceno>49</sequenceno> 
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

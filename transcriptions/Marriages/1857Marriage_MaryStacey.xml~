@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Templates/GROMarriageCertCopy_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <marriage> 
+      <year>1857</year>  
+      <location1>The Parish Church</location1>  
+      <location2>Parish of St George Bloomsbury</location2>  
+      <location3>Middlesex</location3>  
+      <entryno>211</entryno>  
+      <when>May Six</when>  
+      <groom.name>Henry Check</groom.name>  
+      <bride.name>Mary Stacey</bride.name>  
+      <groom.age>full age</groom.age>  
+      <groom.condition>Bachelor</groom.condition>  
+      <bride.condition>Spinster</bride.condition>  
+      <groom.profession>HairDresser</groom.profession>  
+      <bride.profession>-</bride.profession>  
+      <groom.residence>Richmond</groom.residence>  
+      <bride.residence>Brentford</bride.residence>  
+      <groom.father>Henry Check</groom.father>  
+      <bride.father>John Stacey</bride.father>  
+      <groom.fatheroccupation>Hairdresser</groom.fatheroccupation>  
+      <bride.fatheroccupation>Publican</bride.fatheroccupation>  
+      <location5>Parish Church</location5>  
+      <banns>Banns</banns>  
+      <official>Robert Long</official>  
+      <groom.signature>Henry Check</groom.signature>  
+      <bride.signature>Mary Stacey</bride.signature>  
+      <witness.first>George Check</witness.first>  
+      <witness.second>Maria Check</witness.second> 
+    </marriage> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source></source>
+    <comment>Page 106</comment>
+    <editdate>2013-02-23</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>23 Feb 2013</editdate>
+    <templateID>LMAMarriage</templateID>
+    <name>LMA entry of marriage</name>
+    <period>1837-</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheets/EngCensus1891_stylesheet.xsl' ?>
+
+<sourcedocument>
+  <Savepath>deathcert</Savepath>
+  <author>Paul Golder</author>
+  <editdate>2009-04-17</editdate>
+  <templateauthor>Paul A Golder</templateauthor>
+  <templateeditdate>16 april 2009</templateeditdate>
+  <templateID>Census1891-0.1</templateID>
+  <name>England Census 1891</name>
+  <period>1891</period>
+  <country>England</country>
+  <certificate>
+  <county>London</county>
+  <parish>Saint Luke</parish>
+  <town>London</town>
+  <parliamentaryBorough>East Finsbury</parliamentaryBorough>
+  <ecclesasticalParish>Saint Luke</ecclesasticalParish>
+  <people>
+    <person/>
+    <person/>
+    <person/>
+    <person>
+      <householdReference>138</householdReference>
+      <address>16W Guest Street</address>
+      <inhabitedHouse>1</inhabitedHouse>
+      <roomsOccupied>2</roomsOccupied>
+      <fullname>Eliza Ettridge</fullname>
+      <roleInHousehold>Head</roleInHousehold>
+      <maritalStatus>M</maritalStatus>
+      <age>33</age>
+      <gender>female</gender>
+      <occupation>Horse Hair Dresser</occupation>
+      <employed>x</employed>
+      <birthplace>Worcestershire Worcester</birthplace>
+    </person>
+    <person>
+      <fullname>John Gittus</fullname>
+      <roleInHousehold>Brother</roleInHousehold>
+      <maritalStatus>Widr</maritalStatus>
+      <age>31</age>
+      <gender>male</gender>
+      <occupation>Cabinet Maker</occupation>
+      <employed>x</employed>
+      <birthplace>do do</birthplace>
+    </person>
+    <person>
+      <fullname>Phillip H do</fullname>
+      <roleInHousehold>Brother</roleInHousehold>
+      <maritalStatus>S</maritalStatus>
+      <age>22</age>
+      <gender>male</gender>
+      <occupation>Horse Hair Dresser</occupation>
+      <employed>x</employed>
+      <birthplace>do do</birthplace>
+    </person>
+    
+    
+    
+    
+    <person/>
+    <person/>
+    <person/>
+  </people>
+</certificate>
+</sourcedocument>

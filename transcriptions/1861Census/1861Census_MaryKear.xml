@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1861_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1861Census/1861Census_MaryKear_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-26 14:53:39</editdate>
+  <source>PRO image RG 9/1758</source><link>../images/1861/1861Census_MaryKear.jpg</link></edition>
+  <certificate>
+    <people>
+      <person/>
+      <person>
+        <address>Old Furnace Bottom</address>
+      </person>
+      <person/>
+      <person>
+        <inhabitedHouse>1</inhabitedHouse>
+        <householdReference>56</householdReference>
+        <fullname>Mary Kear</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>Widr</maritalStatus>
+        <age>65</age>
+        <gender>female</gender>
+        <occupation>F??side Holder</occupation>
+        <birthplace>Awre Glocestershire</birthplace>
+      </person>
+      <person>
+        <fullname>Elizabeth do</fullname>
+        <roleInHousehold>daur</roleInHousehold>
+        <age>26</age>
+        <gender>female</gender>
+        <maritalStatus>un</maritalStatus>
+        <birthplace>East Dean do</birthplace>
+      </person>
+      
+      <person/>
+      <person/>
+    </people>
+    <parish>East Dean</parish>
+    <ecclesiasticalDistrict>St Paul</ecclesiasticalDistrict>
+  <pageno>10</pageno></certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>4 Februaryy 2012</editdate>
+    <templateID>Census1861</templateID>
+    <name>England Census 1861</name>
+    <period>1861</period>
+    <country>England</country>
+    <savefilename>1861Census/1861Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

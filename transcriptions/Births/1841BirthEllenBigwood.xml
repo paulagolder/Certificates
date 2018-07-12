@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/GROBirthCopy_stylesheet.xsl' ?>
+
+<sourcedocument> 
+  <certificate> 
+    <applicationNumber>xxCOL691510</applicationNumber>  
+    <district>Melksham</district>  
+    <year>1841</year>  
+    <subdistrict>Trowbridge</subdistrict>  
+    <county>County of Wilts</county>  
+    <issueDay>15th</issueDay>  
+    <issueMonth>January</issueMonth>  
+    <issueYear>2008</issueYear>  
+    <issueNumber>BXCC956532</issueNumber>  
+        
+    <birth> 
+      <entryNo>179</entryNo>  
+      <whenAndWhere>5 October 1841 Mortimer Street Parish of Trowbridge</whenAndWhere>  
+      <name>Ellen</name>  
+      <gender>girl</gender>  
+      <fathersName>Joseph Bigwood</fathersName>  
+      <mothersName>Jane Bigwood Formerly Daniells</mothersName>  
+      <fathersOccupation>Shoeman</fathersOccupation>  
+      <informant>The mark of Joseph Bigwood Father Mortimer Street Trowbridge</informant>  
+      <registrationDate>Twenty Ninth of October 1841</registrationDate>  
+      <registrar>Henry Trune Registrar</registrar> 
+    </birth> 
+ 
+  </certificate>  
+  <edition>
+    <editor>paul</editor>
+    <comment></comment>
+    <editdate>2013-02-07</editdate>
+  </edition>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>12 Jan 2013</editdate>
+    <templateID>GROBirthCopy</templateID>
+    <name>GRO Copy of an entry of Birth</name>
+    <period>1837-</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

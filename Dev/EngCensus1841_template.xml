@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>Census1841-0.1</templateID>
+            <stylesheet>Stylesheets/EngCensus1841_stylesheet.xsl</stylesheet>
+            <name>England Census 1841</name>
+            <savefilepattern>1841Census_.xml</savefilepattern>
+            <author>Paul A Golder</author>
+            <editdate>10 April 2009</editdate>
+            <type>census</type>
+            <country>England</country>
+            <period>1841</period>
+            <source>Df.</source>
+        </template>
+        <certificate  objecttype="certificate" backgroundcolor="#D0F5A9"  width="900" >
+            <styleblock name="inputcell"  borderwidth="0" backgroundcolor="#E4DCDC" />
+            <vgroup   >
+                <vgroup>
+                    <hblock align="center">
+                        <label>Page</label>
+                        <input width="20" target="pageno" />
+                        <label></label>
+                        <label>Sequence</label>
+                        <input width="40" target="sequenceno"  />
+                    </hblock>
+                </vgroup>
+                <hgroup>
+                    <vgroup>
+                        <hblock>
+                            <label>City or Borough of</label>
+                            <input target="borough"   />
+                        </hblock>
+                        <hblock>
+                            <label>Parish or Township of</label>
+                            <input target="parish"   />
+                        </hblock>
+                    </vgroup>
+                    <hgroup   />
+                    <vgroup>
+                        <hblock>
+                            <label>Enumeration Schedule</label>
+                        </hblock>
+                    </vgroup>
+                </hgroup>
+            </vgroup>
+            <hgroup height="30"   />
+            <table   borderwidth="1" >
+                <trow>
+                    <tcell>
+                        <label>Place</label>
+                    </tcell>
+                    <tcell>
+                        <label colspan="2">HOUSES </label>
+                        <label direction="vertical" font-size="8">
+                            <text>Uninhabited</text>
+                            <text>or Building</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label   />
+                        <label font-size="8" direction="vertical">Inhabited</label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>NAMES</text>
+                            <text font-size="8">of each Person who obode therein </text>
+                            <text font-size="8">the something night</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label colspan="2" align="center">
+                            <text>AGE </text>
+                            <text>and </text>
+                            <text>SEX</text>
+                        </label>
+                        <label name="males" font-size="8" direction="vertical" backgroundcolor="blue">Males</label>
+                    </tcell>
+                    <tcell>
+                        <label></label>
+                        <label font-size="8" direction="vertical">Females</label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>PROFESSION, TRADE</text>
+                            <text>EMPLOYMENT</text>
+                            <text>or of</text>
+                            <text>INDEPENDENT MEANS</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label colspan="2">Where born</label>
+                        <label font-size="8" direction="vertical">
+                            <text>Whether born</text>
+                            <text>in same County</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label></label>
+                        <label font-size="8" direction="vertical">
+                            <text>Whether born in</text>
+                            <text>England Ireland </text>
+                            <text>or Foriegn Parts</text>
+                        </label>
+                    </tcell>
+                </trow>
+                <trow objecttype="people/person" rows="16" backgroundcolor="#E4DCDC" borderwidth="0" >
+                    <tcell>
+                        <input target="place"   />
+                    </tcell>
+                    <tcell>
+                        <input target="uninhabitedHouse"   />
+                    </tcell>
+                    <tcell>
+                        <input target="inhabitedHouse"   />
+                    </tcell>
+                    <tcell>
+                        <input target="name"   />
+                    </tcell>
+                    <tcell>
+                        <input target="age:gender=male"  width="10" />
+                    </tcell>
+                    <tcell>
+                        <input target="age:gender=female"   />
+                    </tcell>
+                    <tcell>
+                        <input target="occupation"   />
+                    </tcell>
+                    <tcell>
+                        <input target="birthplaceThisCounty"   />
+                    </tcell>
+                    <tcell>
+                        <input target="birthplaceOther"   />
+                    </tcell>
+                </trow>
+                <trow >
+                    <tcell>
+                        <label>Total in Page</label>
+                    </tcell>
+                    <tcell>
+                        <input target="totalUninhabitedHouses"   />
+                    </tcell>
+                    <tcell>
+                        <input target="totalInhabitedHouses"   />
+                    </tcell>
+                    <tcell>
+                    </tcell>
+                    <tcell>
+                        <input target="totalMales"   />
+                    </tcell>
+                    <tcell>
+                        <input target="totalFemales"   />
+                    </tcell>
+                    <tcell>
+                    </tcell>
+                    <tcell>
+                        <input target="totalThisCounty"   />
+                    </tcell>
+                    <tcell>
+                        <input target="totalOther"   />
+                    </tcell>
+                </trow>
+            </table>
+        </certificate>
+    </sourcedocument>
+</sourcedocuments>

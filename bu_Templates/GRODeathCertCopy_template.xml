@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+  <sourcedocuments>
+       <sourcedocument>
+         <stylesheet>/Stylesheets/GRODeathCopy_stylesheet.xsl</stylesheet>
+         <name>GRO Copy of an entry of Death</name>
+         <author>Paul A Golder</author>
+         <editdate>9 April 2009</editdate>
+          <type>death certificate</type>
+          <country>England</country>
+          <templateID>GRODeathCopy-0.2</templateID>
+              <certificate  objecttype ="certificate"  backgroundcolor="#84E96B"   >
+                <hgroup name="heading"  >
+                  <hblock>
+                    <label >CERTIFIED COPY OF AN ENTRY  OF DEATH</label>
+                  </hblock>
+                  <hgroup />
+                  <hgroup  >
+                    <vgroup>
+                      <vblock> 
+                        <label align="right" >GIVEN AT THE GENERAL REGISTER OFFICE</label>
+                      </vblock>
+                      <hblock>
+                        <label> Application Number</label>
+                       <input target="applicationnumber"   width="60" />
+                     </hblock>
+                   </vgroup>
+                 </hgroup>
+               </hgroup>
+              <hgroup height="50"   borderwidth="0" />
+              <vgroup name="main"  borderwidth="1"  padding="10" >
+                <hblock height="20">
+                  <label width="60"/>
+                  <label>REGISTRATION DISTRICT</label>
+                  <input    target="district"  />
+                </hblock>
+                <hblock height="20">
+                  <input   target ="year" width="40"/>
+                  <label> DEATH in the Sub-district of</label>
+                  <input    target="subdistrict" />
+                  <label>in the</label>
+                  <input     target="county" />
+                </hblock>
+              </vgroup>
+              <table name="deaths"  borderwidth="0" >
+                <hgroup>
+                <vblock align="center" >
+                  <label  verticalalign="top" >
+                    <text>Columns:-</text>
+                    <text>No.</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>1</text>
+                    <text>When and.</text>
+                    <text>where died</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>2</text>
+                    <text>Name and Surname.</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>3</text>
+                    <text>Sex</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>4</text>
+                    <text>age</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>5</text>
+                    <text>Occupation.</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>6</text>
+                    <text>Cause of Death</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>7</text>
+                    <text>Signature, description and</text>
+                    <text>residence of informant</text>
+                  </label>
+                </vblock>
+               <vblock>
+                  <label>
+                    <text>8</text>
+                  <text>When</text>
+                  <text>registered</text>
+                  </label>
+                </vblock>
+                <vblock>
+                  <label>
+                    <text>9</text>
+                    <text>Signature of registrar</text>
+                  </label>
+                </vblock>        
+                </hgroup>
+                <hgroup  objecttype ="death" >
+                <vblock align="center" >
+                  <input   target="entryno" />
+                </vblock>
+                <vblock>
+                  <input       target="whenandwhere" />
+                </vblock>
+                <vblock>
+                  <input     target="name" />
+                </vblock>
+                <vblock>
+                  <input     target="gender" />
+                </vblock>
+                <vblock>
+                  <input     target="age" />
+                </vblock>
+                <vblock>
+                  <input     target="occupation" />
+                </vblock>
+                <vblock>
+                  <input     target="causeofdeath" />
+                </vblock>
+                <vblock>
+                  <input     target="informant" />
+                </vblock>
+               <vblock>
+                  <input     target="registrationdate" />
+                </vblock>
+                <vblock>
+                  <input     target="registrar" borderwidth="1" />
+                </vblock>
+                </hgroup>
+              </table>
+                         <hgroup height="50"   borderwidth="0" />
+              <vgroup  padding="10"   >
+                <vblock>
+                  <label >CERTIFIED to be a true copy of an entry in the certified copy of a Register of Deaths on the District above mentioned.</label>
+                  <label />
+                </vblock>
+                <hblock>
+                  <label  >Given at the GENERAL REGISTER OFFICE under the seal of the said Office, the </label>
+                  <input target="issue.day" />
+                  <label>day of</label>
+                  <input target="issue.month" />
+                  <input target ="issue.year" />
+                </hblock>
+                <hblock name="hline" backgroundcolor="black"  height="5" />
+                <hblock>
+                  <input target="issue.number"  width="50"/>
+                  <label/>
+                </hblock>
+              </vgroup>
+              </certificate>
+       </sourcedocument>
+  </sourcedocuments>

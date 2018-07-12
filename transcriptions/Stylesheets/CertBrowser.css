@@ -1,0 +1,95 @@
+
+          table.cert       {border-style:none;border-collapse:collapse;background-color: #F5F6CE}
+          table            {border-style:none;border-collapse:collapse;background-color: #f1f2b8}
+          table.wb         {border-style:solid;border-width:1px;background-color: #F5F6CE }
+          td.title         {border-style:none; background-color:white;}
+          td.footnote      {border: none; font-size:10px }
+          td.comment       {font-style:italic;color:red; font-size:12px }
+          td.commentlabel  {font-style:italic;color:black; font-size:10px}
+          td               {border: none}
+          td.input         {border-width:1px; border-style:solid;font-family:cursive;font-size:0.7em ;color: blue; font-style:italic;border-color:black}
+          td.inputbsb      {border-width:1px; font-family: cursive;color: blue;font-size:0.7em; font-style:italic;border-style: none solid solid solid;border-color:black}
+          td.wb            {border-width:1px; border-style:solid; text-align:center;font-size:0.6em}
+          td.wbs           {border-width:1px; border-style:solid; text-align:center;font-size:0.5em}
+          td.heading       {border-style:none; text-align:left;font-size:0.7em}
+          td.pageno       {border-style:none; font-size:0.8em}
+          td.ul            {border-width:1px;border-style: none none solid none}
+          td.bs            {border-width:1px;border-style: none solid none solid}
+          td.bst           {border-width:1px;border-style: solid solid none solid; text-align:center; font-size:0.6em}
+
+          td.bsts           {border-width:1px;border-style: solid solid none solid; text-align:center; font-size:0.4em}
+          td.bsb           {border-width:1px;border-style: none solid solid solid}
+          td.ul            {border-width:1px;border-style: none none solid none}
+          td.xverticaltext {writing-mode: tb-rl;filter: flipv fliph;}
+          td.verticaltext  {layout-flow: vertical-ideographic;font-size:0.5em}
+          h1               {font-size:1em}
+          table.filebrowser  { width : 100% }
+          table.filebrowser  td , th  { font-size:0.6em;color: blue;border-style:solid; background-color:pink; border-width:1px; vertical-align:top }
+          td.fbheader { text-align:center }
+          a.button {
+            font-size :8px;
+            border: 4px outset;
+            padding: 2px;
+            text-decoration: none;
+            color: blue;
+          }
+          span.button
+          {
+            font-size :8px;
+            border: 4px outset;
+            padding: 2px;
+            text-decoration: none;
+          }
+          
+          button.button 
+          {
+            font-size :8px;
+            border: 4px outset;
+            padding: 2px;
+            text-decoration: none;
+          }
+
+          ul.fbbrowser
+          {
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-size: 1em;
+            line-height: 1em;
+
+          }
+          .vertical-text {
+            display: inline-block;
+            overflow: hidden;
+            width: 1.5em;
+          }
+          .vertical-text__inner {
+            display: inline-block;
+            white-space: nowrap;
+            line-height: 1.5;
+            transform: translate(0,100%) rotate(-90deg);
+            transform-origin: 0 0;
+          }
+          /* This element stretches the parent to be square
+           *   by using the mechanics of vertical margins  */
+          .vertical-text__inner:after {
+            content: "";
+            display: block;
+            margin: -1.5em 0 100%;
+          }
+          
+          h1               {font-size:1em}
+          input   {border-width:0px; border-style:solid;font-family:cursive;font-size:0.7em ;color: blue; font-style:italic;border-color:black}
+          input.cell   { width: 100%; height: 100%; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+          input.heading  {  box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+          span.input  {border-style:none;font-family:cursive;font-size:1em ;color: blue; font-style:italic;border-color:black}
+          
+
+          
+    span.button
+          {
+            font-size :8px;
+            border: 4px outset;
+            padding: 2px;
+            text-decoration: none;
+          }
+          textarea.cell  { border-style:none; width: 100%; height: 100%; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+          

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1841_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <certificate> 
+    <people> 
+      <person/>  
+      <person> 
+        <place>Old Furnace</place>  
+        <inhabitedHouse>1</inhabitedHouse>
+        <name>William Kear</name>
+        <age>25</age>
+        <gender>male</gender>
+        <occupation>Mason</occupation>
+        <birthplaceThisCounty>Y</birthplaceThisCounty>
+      </person>  
+      <person>
+        <name>Eliza do</name>
+        <age>20</age>
+        <gender>female</gender>
+        <birthplaceThisCounty>Y</birthplaceThisCounty>
+      </person>  
+      <person>
+        <name>Elizabeth Williams ?</name>
+        <age>60</age>
+        <gender>female</gender>
+        <occupation>Ind</occupation>
+        <birthplaceThisCounty>Yes</birthplaceThisCounty>
+      </person>
+    </people>  
+    <parish>Extra Parochial Forest of Dean</parish>  
+    <pageno>14</pageno>  
+    <sequenceno>21</sequenceno> 
+  </certificate>  
+  <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/364/5</source>
+    <comment></comment>
+    <editdate>2013-02-22</editdate>
+  </edition>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 Feb 2013</editdate>
+    <templateID>Census1841</templateID>
+    <name>England Census 1841</name>
+    <period>1841</period>
+    <country>England</country>
+  </template>
+</sourcedocument>

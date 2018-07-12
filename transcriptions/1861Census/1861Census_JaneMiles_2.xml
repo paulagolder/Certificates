@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1861_stylesheet.xsl'?>
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/1861Census/1861Census_JaneMiles_2_edit.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2013-03-26 15:16:04</editdate>
+  <link>../images/1861/1861Census_JaneMiles.jpg</link></edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <householdReference>92</householdReference>
+        <fullname>Jane Miles</fullname>
+        <roleInHousehold>Head</roleInHousehold>
+        <maritalStatus>W</maritalStatus>
+        <age>71</age>
+        <gender>female</gender>
+        <occupation>Blacksmiths Widow</occupation>
+        <birthplace>Wilts Erlestoke</birthplace>
+      </person>
+      <person>
+        <fullname>John do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>u</maritalStatus>
+        <age>45</age>
+        <gender>male</gender>
+        <occupation>Blacksmith</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Isaac do</fullname>
+        <roleInHousehold>Son</roleInHousehold>
+        <maritalStatus>un</maritalStatus>
+        <age>44</age>
+        <gender>male</gender>
+        <occupation>Blacksmith</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      <person>
+        <fullname>Ann Miles</fullname>
+        <roleInHousehold>daur</roleInHousehold>
+        <maritalStatus>un</maritalStatus>
+        <age>41</age>
+        <gender>female</gender>
+        <occupation>Seamstress</occupation>
+        <birthplace>do do</birthplace>
+      </person>
+      
+      <person/>
+    </people>
+    <parish>Erlestoke</parish>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>4 Februaryy 2012</editdate>
+    <templateID>Census1861</templateID>
+    <name>England Census 1861</name>
+    <period>1861</period>
+    <country>England</country>
+    <savefilename>1861Census/1861Census_cert.xml</savefilename>
+  </template>
+</sourcedocument>

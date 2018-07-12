@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Stylesheets/EngCensus1841_stylesheet.xsl' ?>
+
+<certificate>
+  <author>Paul Golder</author>
+  <editdate>2009-04-13</editdate>
+  <templateauthor>Paul A Golder</templateauthor>
+  <templateeditdate>10 April 2009</templateeditdate>
+  <templateID>Census1841-0.1</templateID>
+  <name>England Census 1841</name>
+  <period>1841</period>
+  <country>England</country>
+  <pageno>32</pageno>
+  <sequenceno>48</sequenceno>
+  <borough>Worcester</borough>
+  <parish>St Andrew</parish>
+  <people>
+    <person>
+      <place>Bridport</place>
+    </person>
+    <person/>
+    <person>
+      <inhabitedHouse>1</inhabitedHouse>
+      <name>John Gittus</name>
+      <age>25</age>
+      <gender>male</gender>
+      <occupation>J Bricklayer</occupation>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person>
+      <name>Ann ditto</name>
+      <age>25</age>
+      <gender>female</gender>
+      <occupation>Gloveress</occupation>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person>
+      <name>John ditto</name>
+      <age>11</age>
+      <gender>male</gender>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person>
+      <name>Ann do</name>
+      <age>9</age>
+      <gender>female</gender>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person>
+      <name>Saml do</name>
+      <age>7</age>
+      <gender>male</gender>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person>
+      <name>Charles</name>
+      <age>5</age>
+      <gender>male</gender>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person>
+      <name>Emanda</name>
+      <age>7months</age>
+      <gender>female</gender>
+      <birthplaceThisCounty>y</birthplaceThisCounty>
+    </person>
+    <person/>
+  </people>
+  <totalInhabitedHouses>2</totalInhabitedHouses>
+  <totalMales>13</totalMales>
+  <totalFemales>12</totalFemales>
+</certificate>

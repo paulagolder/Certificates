@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+  <sourcedocuments>
+    <sourcedocument>
+      <templateID>Census1841-0.1</templateID>
+      <stylesheet>Stylesheets/EngCensus1841_stylesheet.xsl</stylesheet>
+      <name>England Census 1841</name>
+      <author>Paul A Golder</author>
+      <editdate>10 April 2009</editdate>
+      <type>census</type>
+      <country>England</country>
+      <period>1841</period>
+      <source>Df.</source>
+      <certificate  objecttype="certificate" backgroundcolor="#D0F5A9"  >
+        <styleblock name="inputcell"  borderwidth="0" backgroundcolor="#E4DCDC" />
+        <vgroup  >
+          <vgroup>
+            <hblock align="center">
+              <label>Page</label>
+              <input width="20" target="pageno" />
+              <label></label>
+              <label>Sequence</label>
+              <input width="40" target="sequenceno"  />
+            </hblock>
+          </vgroup>
+          <hgroup>
+            <vgroup>
+              <hblock>
+                <label>City or Borough of</label>
+                <input target="borough"   />
+              </hblock>
+              <hblock>
+                <label>Parish or Township of</label>
+                <input target="parish"   />
+              </hblock>
+            </vgroup>
+            <hgroup   />
+            <vgroup>
+              <hblock>
+                <label>Enumeration Schedule</label>
+              </hblock>
+            </vgroup>
+          </hgroup>
+        </vgroup>
+        <hgroup height="30"   />
+        <table  objecttype="people" borderwidth="1" >
+          <hgroup>
+            <vblock>
+              <label>Place</label>
+            </vblock>
+            <vblock>
+              <label colspan="2">HOUSES </label>
+              <label direction="vertical" font-size="8">
+                <text>Uninhabited</text>
+                <text>or Building</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label   />
+              <label font-size="8" direction="vertical">Inhabited</label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>NAMES</text>
+                <text font-size="8">of each Person who obode therein </text>
+                <text font-size="8">the something night</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label colspan="2" align="center">
+                <text>AGE </text>
+                <text>and </text>
+                <text>SEX</text>
+              </label>
+              <label name="males" font-size="8" direction="vertical" backgroundcolor="blue">Males</label>
+            </vblock>
+            <vblock>
+              <label></label>
+              <label font-size="8" direction="vertical">Females</label>
+            </vblock>
+            <vblock>
+              <label>
+                <text>PROFESSION, TRADE</text>
+                <text>EMPLOYMENT</text>
+                <text>or of</text>
+                <text>INDEPENDENT MEANS</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label colspan="2">Where born</label>
+              <label font-size="8" direction="vertical">
+                <text>Whether born</text>
+                <text>in same County</text>
+              </label>
+            </vblock>
+            <vblock>
+              <label></label>
+              <label font-size="8" direction="vertical">
+                <text>Whether born in</text>
+                <text>England Ireland </text>
+                <text>or Foriegn Parts</text>
+              </label>
+            </vblock>
+          </hgroup>
+          <hgroup objecttype="person" rows="10" backgroundcolor="#E4DCDC" borderwidth="0" >
+            <vblock>
+              <input target="place"   />
+            </vblock>
+            <vblock>
+              <input target="uninhabitedHouse"   />
+            </vblock>
+            <vblock>
+              <input target="inhabitedHouse"   />
+            </vblock>
+            <vblock>
+              <input target="name"   />
+            </vblock>
+            <vblock>
+              <input target="age:gender=male"  width="10" />
+            </vblock>
+          <vblock>
+            <input target="age:gender=female"   />
+          </vblock>
+          <vblock>
+            <input target="occupation"   />
+          </vblock>
+          <vblock>
+            <input target="birthplaceThisCounty"   />
+          </vblock>
+          <vblock>
+            <input target="birthplaceOther"   />
+          </vblock>
+        </hgroup>
+        <hgroup>
+          <vblock>
+            <label>Total in Page</label>
+          </vblock>
+          <vblock>
+            <input target="totalUninhabitedHouses"   />
+          </vblock>
+          <vblock>
+            <input target="totalInhabitedHouses"   />
+          </vblock>
+          <vblock>
+          </vblock>
+          <vblock>
+            <input target="totalMales"   />
+          </vblock>
+          <vblock>
+            <input target="totalFemales"   />
+          </vblock>
+          <vblock>
+          </vblock>
+          <vblock>
+            <input target="totalThisCounty"   />
+          </vblock>
+          <vblock>
+            <input target="totalOther"   />
+          </vblock>
+        </hgroup>
+      </table>
+    </certificate>
+  </sourcedocument>
+</sourcedocuments>

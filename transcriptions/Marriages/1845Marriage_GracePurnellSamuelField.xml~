@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../Templates/GROMarriageCertCopy_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/jcert/Marriages/1845Marriage_GracePurnellSamuelField.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2012-02-13</editdate>
+  </edition>
+  <certificate>
+    <marriage>
+      <marriage/>
+      <year>1845</year>
+      <location1>The Parish Church</location1>
+      <location2>Parish</location2>
+      <location3>St George Bloomsbury</location3>
+      <location4>Middlesex</location4>
+      <entryno>314</entryno>
+      <when>July Fourteen</when>
+      <groom.name>Samuel Field</groom.name>
+      <bride.name>Grace Purnell</bride.name>
+      <groom.age>of full age</groom.age>
+      <groom.condition>Widower</groom.condition>
+      <bride.condition>Spoinster</bride.condition>
+      <groom.profession>Brassworker</groom.profession>
+      <bride.profession>Servant</bride.profession>
+      <groom.residence>43 Duke St</groom.residence>
+      <groom.father>Richard Field</groom.father>
+      <groom.fatheroccupation>Bellows Maker</groom.fatheroccupation>
+      <bride.residence>95 Fleet St</bride.residence>
+      <bride.father>James Purnell</bride.father>
+      <bride.fatheroccupation>Farrier</bride.fatheroccupation>
+      <location5>Parish church</location5>
+      <banns>Banns</banns>
+      <official>Montague Villiers</official>
+      <groom.signature>Samuel Field</groom.signature>
+      <bride.signature>The Mark X of Grace Purnell</bride.signature>
+      <witness.first>Wm Burgess</witness.first>
+      <witness.second>The Mark X of Ellinor Allen</witness.second>
+    </marriage>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>11 February 2012</editdate>
+    <templateID>GROmarriagecopy</templateID>
+    <name>GRO Copy of an entry of marriage</name>
+    <country>England</country>
+    <savefilename>Marriages/Marriage_cert.xml</savefilename>
+  </template>
+</sourcedocument>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>LMAMarriage</templateID>
+            <version>2</version>
+            <stylesheet>../Stylesheets/GROMarriageCertCopy_stylesheet.xsl</stylesheet>
+            <name>LMA entry of marriage</name>
+            <savefilepattern>Marriage/Marriage_cert.xml</savefilepattern>
+            <author>Paul A Golder</author>
+            <editdate>23 Feb 2013</editdate>
+            <type>Marriage certificate</type>
+            <country>England</country>
+            <period>1837-</period>
+            <source>LMA Image</source>
+        </template>
+        
+        <certificate  objecttype="certificate" name="main"  backgroundcolor="#CEF6CE" >    
+            <styleblock name="input"  bordercolor="gray"  borderwidth="1"  backgroundcolor="#E4DCDC" columns="20" height="15" />
+            <styleblock name="textarea"  bordercolor="gray"  borderwidth="1"  backgroundcolor="#E4DCDC" columns="20" height="15" />
+            
+            <hgroup height="10" />
+            <hgroup   borderwidth="0" >
+                <vgroup name="registrationlocation">
+                    <hblock>
+                        <input   target="year"  columns="5" />
+                        <label>Marriage Solemnized at </label>
+                        <input   target="location1"/>
+                        <label>in the</label>
+                        <input   target="location2"  />
+                        <label>of</label>
+                        <input   target="location3"  />
+                        <label>in the county of</label>
+                        <input   target="location4"  />
+                    </hblock>
+                </vgroup>
+            </hgroup>
+            <hgroup  height="20" />
+            <table     >
+                <styleblock name="input"  bordercolor="gray"  borderwidth="1"  backgroundcolor="#E4DCDC" height="20" />
+                <trow>
+                    <tcell>
+                        <label>No.</label>
+                    </tcell>
+                    <tcell>
+                        <label>When Married</label>
+                    </tcell>
+                    <tcell>
+                        <label>Name and Surname</label>
+                    </tcell>
+                    <tcell>
+                        <label>age</label>
+                    </tcell>
+                    <tcell>
+                        <label>condition</label>
+                    </tcell>
+                    <tcell>
+                        <label>Rank or Profession</label>
+                    </tcell>
+                    <tcell>
+                        <label>Residence at time of marriage</label>
+                    </tcell>
+                    <tcell>
+                        <label>Fathers name and Surname</label>               
+                    </tcell>
+                    <tcell>
+                        <label>Rank or Profession of</label>
+                        <label>Father</label>
+                    </tcell>
+                </trow>
+                <trow    height="40" objecttype="marriage"  >
+                    <tcell>
+                        <input      target="entryno" /> 
+                    </tcell>
+                    <tcell>
+                        <input      target="when"  />
+                    </tcell>
+                    <tcell>
+                        <input     target="groom.name" /> 
+                        <input      target="bride.name" /> 
+                    </tcell>
+                    <tcell>
+                        <input      target="groom.age" /> 
+                        <input      target="bride.age" />
+                    </tcell>
+                    <tcell>
+                        <input      target="groom.condition" /> 
+                        <input      target="bride.condition" /> 
+                    </tcell>
+                    <tcell>
+                        <input      target="groom.profession" /> 
+                        <input      target="bride.profession" /> 
+                    </tcell>
+                    <tcell>
+                        <input      target="groom.residence" /> 
+                        <input      target="bride.residence" /> 
+                    </tcell>
+                    <tcell>
+                        <input      target="groom.father" /> 
+                        <input      target="bride.father" /> 
+                    </tcell>
+                    <tcell>
+                        <input      target="groom.fatheroccupation" /> 
+                        <input      target="bride.fatheroccupation" /> 
+                    </tcell>
+                </trow>
+            </table>
+            
+            <vgroup  name="marriagerites" tgap="10"  >
+                <hblock>
+                    <label>Married in the  </label>
+                    <input   target="location5"/>
+                    <label>according to the Rites and ceremonies of the Established Church, by</label>
+                    <input  columns="10" target="licence"  />
+                    <label>or after</label>
+                    <input  columns="10" target="banns"  />
+                    <label>by me</label>
+                </hblock>
+                <hblock>
+                    <hblock layout="FILLH" />
+                    <input columns="20" layout="right"  target="official"  />
+                </hblock>
+            </vgroup>    
+            
+            <hgroup name="bottomgroup"   tgap="10" >
+                <vblock>
+                    <label  font-size="10" >
+                        <text>This marriage</text>
+                        <text>was solemnized</text>
+                        <text>between us</text>
+                    </label>
+                </vblock>
+                <vblock >
+                    <input      target="groom.signature" /> 
+                    <input      target="bride.signature" /> 
+                </vblock>
+                <vblock>
+                    <label  font-size="10" >
+                        <text>in the</text>
+                        <text>presence</text>
+                        <text>of us</text>
+                    </label>
+                </vblock>
+                <vblock>
+                    <input      target="witness.first" /> 
+                    <input      target="witness.second" /> 
+                </vblock>
+            </hgroup>       
+        </certificate>                
+    </sourcedocument>
+</sourcedocuments>

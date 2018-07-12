@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>LMABaptism</templateID>
+            <version>3</version>
+            <stylesheet>../Stylesheets/LMABirthCopy_stylesheet.xsl</stylesheet>
+            <name>LMA Baptism register</name>
+            <savefilepattern>Births/birth_cert.xml</savefilepattern>
+            <author>Paul A Golder</author>
+            <editdate>8-2-2013</editdate>
+            <type>Baptism </type>
+            <country>England</country>
+        </template>
+        <certificate  name="top"  objecttype ="certificate"  backgroundcolor="#84E96A"    foregroundcolor="#CB410E" >
+            <styleblock name="input"  bordercolor="gray"  borderwidth="1"  backgroundcolor="#E4DCDC"  />
+            <styleblock name="label"   font-size="18"  />
+            <hgroup>
+            <hblock>
+                <label layout="center"  >[Page </label>
+                <input target="pageno" columns="4" />
+                <label   >]</label>
+            </hblock>
+        </hgroup>
+            <hgroup bordercolor="black" borderwidth="0" height="10" backgroundcolor="black" />
+            <vgroup>
+                <hblock layout="FILLW"  >
+                    <label layout="center"  >Baptisms solemnized in the Parish of Saint Pancras, in the County of Middlesex</label>
+                </hblock>
+                <hblock>
+                    <label layout="center"  >in the Year One Thousand Eight Hundred and Twenty </label>
+                    <input  font-size="18" target="yeardigit" columns="10" />
+                </hblock>
+            </vgroup>
+            
+            <hgroup bordercolor="black" borderwidth="0"  backgroundcolor="black"  height="5" />
+            <table name="births"    borderwidth="1"   foregroundcolor="black"  tgap="4"  >
+                <styleblock name="label"  bordercolor="gray"  borderwidth="1" font-size="13"  />
+                <styleblock name="input"  height="25" font-size="13"  />
+                
+                <trow borderwidth="0"  >
+                    <tcell >
+                        <label   >
+                            <text>When-</text>
+                            <text>Baptised</text>
+                        </label>
+                    </tcell>
+                    <tcell >
+                        <label   >
+                            <text>Child's</text>
+                            <text>Christian Name.</text>
+                        </label>
+                    </tcell>
+                    <tcolumn>
+                        <tcell layout="FILLV" >
+                            <label>Parent Name</label>
+                        </tcell>
+                        <trow layout="BOTTOM" >
+                            <tcell>
+                                <label>
+                                    <text>Christian</text>
+                                </label>
+                            </tcell>
+                            <tcell>
+                                <label>
+                                    <text>Surname</text>
+                                </label>
+                            </tcell>
+                        </trow>
+                    </tcolumn>
+                    <tcell>
+                        <label>
+                            <text>Abode</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>
+                            </text>
+                            <text>Quality, Trade or</text>
+                            <text>Profession</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>
+                            <text>Date of Birth and</text>
+                            <text>By whom the ceremony</text>
+                            <text>was performed</text>
+                        </label>
+                    </tcell>
+                </trow>
+                <trow   objecttype ="birth"  borderwidth="0" rows="3" >
+                    <tcell layout="center" >
+                        <input   target="date"   />
+                        <input   target="entryNo" />
+                    </tcell>
+                    <tcell>
+                        <input     target="name" />
+                    </tcell>
+                    <tcell>
+                        <input     target="fathersForename" />
+                        <input     target="mothersForename" />
+                    </tcell>
+                    <tcell>
+                        <input     target="surname" />
+                    </tcell>
+                    <tcell>
+                        <input     target="residence" />
+                    </tcell>
+                    <tcell>
+                        <input     target="ocupation" />
+                    </tcell>
+                    <tcell>
+                        <input     target="dateofbirth" />
+                        <input     target="registrar" />
+                    </tcell>
+                </trow>
+            </table>
+        </certificate>
+    </sourcedocument>
+</sourcedocuments>
