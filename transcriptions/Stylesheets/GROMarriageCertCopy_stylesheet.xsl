@@ -11,22 +11,21 @@
        table.wb {border :solid;border-width:1px;border-collapse:collapse	 }
        td           { border: none; font-size:0.8em }
        td.footnote           { border: none; font-size:10px }
-       td.input           { border: none; padding:2px;font-family: cursive; font-size:1em }
-       td.inputnb           { border-style: solid solid none solid; padding:2px;font-family: cursive; font-size:1em }
-       td.inputnt           { border-style: none solid solid solid; padding:2px;font-family: cursive; font-size:1em }
+       td.input           { border: none; padding:2px;font-family: cursive; font-size:1em ;color:blue; border-color:black;}
+       td.nb           { border-style: solid solid none solid; }
+       td.nt           { border-style: none solid solid solid; }
        td.wb      {border-width:1px ; border:solid; padding:2px;font-family: cursive; font-size:1em}
-       td.ul        {border-width:1px;border-style: none none solid none;text-align:center;font-family: cursive}
+       td.ul        {border-width:1px;border-style: none none solid none;text-align:center;font-family: cursive ;color:blue;border-color:black;  font-size:1.5em;}
        td.th            { border:none; font-size:0.8em ;text-align:center ; vertical-align: top}
        td.thwb       {border-width:1px;  border:solid; padding:2px;  font-size:1em }
        td.border {border-width:1px; border: solid }
     </STYLE>
     
   <body>
-         <xsl:for-each select="//sourcedocument">
     <table>
       <tr>
         <td>
-         <xsl:for-each select="./certificate">
+         <xsl:for-each select="//certificate">
     <table width ="100%"  border="0" >
         <tr>
         <td>
@@ -81,22 +80,22 @@
                  <tr  >
                      <td rowspan="2"  class="wb" ><xsl:value-of select="entryno"/></td>
                     <td  rowspan="2" class="wb" ><xsl:value-of select="when"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.name"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.age"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.condition"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.profession"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.residence"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.father"/></td>
-                    <td class="inputnb" ><xsl:value-of select="groom.fatheroccupation"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.name"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.age"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.condition"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.profession"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.residence"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.father"/></td>
+                    <td class="input nb" ><xsl:value-of select="groom.fatheroccupation"/></td>
                  </tr>
                  <tr>
-                    <td class="inputnt" ><xsl:value-of select="bride.name"/></td>
-                    <td class="inputnt" ><xsl:value-of select="bride.age"/></td>
-                    <td class="inputnt" ><xsl:value-of select="bride.condition"/></td>
-                    <td class="inputnt" ><xsl:value-of select="bride.profession"/></td>
-                    <td class="inputnt" ><xsl:value-of select="bride.residence"/></td>
-                    <td class="inputnt" ><xsl:value-of select="bride.father"/></td>
-                    <td class="inputnt" ><xsl:value-of select="bride.fatheroccupation"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.name"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.age"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.condition"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.profession"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.residence"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.father"/></td>
+                    <td class="input nt" ><xsl:value-of select="bride.fatheroccupation"/></td>
                  </tr>
                 </table>
                </td>
@@ -185,8 +184,6 @@
           </td>
         </tr>
             </table>
-
- </xsl:for-each>
   </body>
   </html>
 </xsl:template>

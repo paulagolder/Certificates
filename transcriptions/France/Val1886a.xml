@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../../Stylesheets/FRCensus1886_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/Val1886a.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2019-01-02</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <location></location>
+      </person>
+      <person/>
+      <person>
+        <location>Section de Hamaxard</location>
+        <sequence-maisons>5</sequence-maisons>
+        <sequence-menages>7</sequence-menages>
+        <sequence-individuals>19</sequence-individuals>
+        <surname>Marsot</surname>
+        <forenames>Charles Emile</forenames>
+        <age>35</age>
+        <nationality>Francais</nationality>
+        <profession>ouvr. de filature</profession>
+        <relationshiptohead>Chef</relationshiptohead>
+        <observations>p2</observations>
+      </person>
+      <person>
+        <sequence-individuals>20</sequence-individuals>
+        <surname>Bolmont</surname>
+        <forenames>Marie Josephine</forenames>
+        <age>41</age>
+        <nationality></nationality>
+        <profession>d</profession>
+        <relationshiptohead>sa femme</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>21</sequence-individuals>
+        <surname>Marsot</surname>
+        <forenames>Ernest Adrien</forenames>
+        <age>21</age>
+        <nationality>d</nationality>
+        <profession>d</profession>
+        <relationshiptohead>son fils</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>22</sequence-individuals>
+        <surname>Marsot</surname>
+        <forenames>Eugenie Marie</forenames>
+        <age>13</age>
+        <nationality>d</nationality>
+        <profession></profession>
+        <relationshiptohead>sa fille</relationshiptohead>
+        <sequence-maisons></sequence-maisons>
+      </person>
+      <person>
+        <surname></surname>
+      </person>
+      <person>
+        <sequence-maisons></sequence-maisons>
+      </person>
+      <person>
+        <sequence-maisons>56</sequence-maisons>
+        <sequence-menages>89</sequence-menages>
+        <sequence-individuals>403</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Julien</forenames>
+        <age>39</age>
+        <nationality>francais</nationality>
+        <profession>ouv.de filature</profession>
+        <relationshiptohead>Chef</relationshiptohead>
+        <observations>p15</observations>
+      </person>
+      <person>
+        <surname>Viry</surname>
+        <forenames>Marianne</forenames>
+        <age>39</age>
+        <nationality>id</nationality>
+        <profession>id</profession>
+        <relationshiptohead>sa femme</relationshiptohead>
+        <sequence-individuals>404</sequence-individuals>
+      </person>
+      <person>
+        <surname>Grossir</surname>
+        <forenames>Anne</forenames>
+        <age>18</age>
+        <nationality>id</nationality>
+        <profession>id</profession>
+        <relationshiptohead>sa fille</relationshiptohead>
+        <sequence-individuals>405</sequence-individuals>
+      </person>
+      <person>
+        <surname>Grossir</surname>
+        <sequence-individuals>406</sequence-individuals>
+        <forenames>Leon</forenames>
+        <age>8 mois</age>
+        <nationality>id</nationality>
+        <profession>..</profession>
+        <relationshiptohead>petit fils</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>407</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Philomene</forenames>
+        <age>19</age>
+        <nationality>id</nationality>
+        <profession>ouv de filature</profession>
+        <relationshiptohead>sa fille</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>408</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Leonie</forenames>
+        <age>16</age>
+        <nationality>id</nationality>
+        <profession>id</profession>
+        <relationshiptohead>id</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <sequence-individuals>409</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Alice</forenames>
+        <age>14</age>
+        <nationality>id</nationality>
+        <profession>id</profession>
+        <relationshiptohead>id</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <sequence-individuals>410</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Paul</forenames>
+        <age>7</age>
+        <nationality>id</nationality>
+        <profession>..</profession>
+        <relationshiptohead>son fils</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>411</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Justin</forenames>
+        <age>2 mois</age>
+        <nationality>id</nationality>
+        <profession>..</profession>
+        <relationshiptohead>son fils</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>412</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Julien</forenames>
+        <age>12</age>
+        <nationality>id</nationality>
+        <profession>..</profession>
+        <relationshiptohead>id</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <sequence-individuals></sequence-individuals>
+      </person>
+      <person>
+        <sequence-individuals>420</sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+        <surname>Oulmann</surname>
+        <forenames>Justine</forenames>
+        <age>26</age>
+        <nationality>id</nationality>
+        <profession>ouv d, filature</profession>
+        <relationshiptohead>Chef</relationshiptohead>
+        <observations>p15</observations>
+      </person>
+      <person>
+        <sequence-individuals>421</sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+        <surname>Marsot</surname>
+        <forenames>Julie</forenames>
+        <age>22</age>
+        <nationality>francaise</nationality>
+        <profession>ouv de filature</profession>
+        <relationshiptohead>sa femme</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>422</sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+        <surname>Oulmann</surname>
+        <forenames>Jusatine</forenames>
+        <age>1</age>
+        <nationality>id</nationality>
+        <profession>..</profession>
+        <relationshiptohead>sa fille</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <sequence-individuals>423</sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+        <surname>Peureux</surname>
+        <forenames>Marie</forenames>
+        <age>57</age>
+        <nationality>id</nationality>
+        <profession>ouv de filature</profession>
+        <relationshiptohead>belle mere</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>424</sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+        <surname>Marsot</surname>
+        <forenames>Eugenie</forenames>
+        <age>24</age>
+        <nationality>id</nationality>
+        <profession>id</profession>
+        <relationshiptohead>belle souer</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals></sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+      </person>
+      <person>
+        <sequence-individuals></sequence-individuals>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+      </person>
+      <person>
+        <sequence-individuals></sequence-individuals>
+      </person>
+    </people>
+    <annee>1886</annee>
+    <department>Vosges</department>
+    <commune>Val d'Ajol</commune>
+    <link>https://diffusion.ad88.ligeo-archives.com/ark:/50275/vta568d2262b4639/daogrp/0/1</link>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>31 December 2018</editdate>
+    <templateID>FR-Census1886</templateID>
+    <name>FRANCE Census 1886-</name>
+    <period>1886</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

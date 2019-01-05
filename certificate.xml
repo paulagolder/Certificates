@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='Stylesheets/FRCensus1836_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/certificate.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2018-12-19</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person/>
+      <person>
+        <address>179/593</address>
+        <fullname>GOLDER</fullname>
+        <roleInHousehold>Emile</roleInHousehold>
+        <maritalStatus>1866</maritalStatus>
+        <age>chef</age>
+        <occupation>fileur</occupation>
+        <birthplace>Filaterie</birthplace>
+      </person>
+      <person>
+        <fullname>Golder</fullname>
+        <roleInHousehold>Julia</roleInHousehold>
+        <maritalStatus>1880</maritalStatus>
+        <age>epouse</age>
+        <occupation></occupation>
+        <birthplace></birthplace>
+        <address>179/594</address>
+      </person>
+      <person>
+        <householdReference></householdReference>
+        <fullname>Golder</fullname>
+        <roleInHousehold>Rger</roleInHousehold>
+        <maritalStatus>1915</maritalStatus>
+        <age>fils</age>
+        <occupation>fileur</occupation>
+        <birthplace>Filaterie</birthplace>
+        <address>179/595</address>
+      </person>
+      <person>
+        <roleInHousehold></roleInHousehold>
+      </person>
+      <person>
+        <fullname></fullname>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <annee>1936</annee>
+    <department>Haute-Saone</department>
+    <commune>Demangevelle</commune>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>17 December 2018</editdate>
+    <templateID>FR-Census1836-0.1</templateID>
+    <name>FRANCE Census 1836</name>
+    <period>1836</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

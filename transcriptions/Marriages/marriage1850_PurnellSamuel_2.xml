@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='Templates/GROMarriageCertCopy_stylesheet.xsl' ?>
+<?xml-stylesheet type='text/xsl' href='../Stylesheets/GROMarriageCertCopy_stylesheet.xsl' ?>
 
+<sourcedocument> 
 <certificate>  
   <applicationnumber>123</applicationnumber>  
   <marriage> 
@@ -32,6 +33,7 @@
     <witness.first>William Day</witness.first>  
     <witness.second>Mary Ann Avery</witness.second> 
   </marriage>  
+  </certificate>
   <edition>
     <editor>paul</editor>
     <comment></comment>
@@ -45,4 +47,4 @@
     <period>1837-</period>
     <country>England</country>
   </template>
-</certificate>
+</sourcedocument>

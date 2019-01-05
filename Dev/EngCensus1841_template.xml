@@ -16,31 +16,31 @@
             <period>1841</period>
             <source>Df.</source>
         </template>
-        <certificate  objecttype="certificate" backgroundcolor="#D0F5A9"  width="900" >
+        <certificate  name="cert" objecttype="certificate" backgroundcolor="#D0F5A9"  width="900" >
             <styleblock name="inputcell"  borderwidth="0" backgroundcolor="#E4DCDC" />
             <vgroup   >
                 <vgroup>
-                    <hblock align="center">
+                    <hblock layout="center">
                         <label>Page</label>
-                        <input width="20" target="pageno" />
+                        <input name="page" width="20" target="pageno" />
                         <label></label>
                         <label>Sequence</label>
-                        <input width="40" target="sequenceno"  />
+                        <input width="20" target="sequenceno"  />
                     </hblock>
                 </vgroup>
                 <hgroup>
                     <vgroup>
                         <hblock>
                             <label>City or Borough of</label>
-                            <input target="borough"   />
+                            <input width="200" target="borough"   />
                         </hblock>
                         <hblock>
                             <label>Parish or Township of</label>
-                            <input target="parish"   />
+                            <input width="200" target="parish"   />
                         </hblock>
                     </vgroup>
-                    <hgroup   />
-                    <vgroup>
+                  
+                    <vgroup layout= "right" >
                         <hblock>
                             <label>Enumeration Schedule</label>
                         </hblock>

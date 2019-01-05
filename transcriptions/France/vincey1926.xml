@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Stylesheets/FRCensus1936_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <savepath>/home/paul/public_html/Certificates/transcriptions/France/vincey1926.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2019-01-02</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person/>  
+      <person/>  
+      <person> 
+        <sequence-maisons>330</sequence-maisons>  
+        <sequence-menages>442</sequence-menages>  
+        <sequence-individuals>1500</sequence-individuals>  
+        <surname>Golder</surname>  
+        <forenames>Paul</forenames>  
+        <yearofbirth>1895 7 Xbre</yearofbirth>  
+        <placeofbirth>Rupt-sur-Moselle</placeofbirth>  
+        <nationality>francais</nationality>  
+        <relationshiptohead>chef</relationshiptohead>  
+        <profession>fileur</profession>  
+        <employer>Ste Cotonniere</employer>  
+        <location>Rue de Garcin</location>
+      </person>  
+      <person> 
+        <sequence-individuals>1501</sequence-individuals>  
+        <surname>Golder</surname>  
+        <forenames>Marcelle</forenames>  
+        <yearofbirth>1896 18 juin</yearofbirth>  
+        <placeofbirth>Val d'Ajol</placeofbirth>  
+        <nationality>francaise</nationality>  
+        <relationshiptohead>femme</relationshiptohead>  
+        <profession>ouv de file</profession>  
+        <employer>Ste Cottonniere</employer> 
+      </person>  
+      <person> 
+        <sequence-individuals>1502</sequence-individuals>  
+        <surname>Golder</surname>  
+        <forenames>Emile</forenames>  
+        <yearofbirth>1917 22 Mai</yearofbirth>  
+        <placeofbirth>Demangevelle</placeofbirth>  
+        <nationality>do</nationality>  
+        <relationshiptohead>fils</relationshiptohead>  
+        <profession>''</profession>  
+        <employer>''</employer> 
+      </person>  
+      <person> 
+        <yearofbirth>1924 23 janv</yearofbirth>  
+        <sequence-individuals>1503</sequence-individuals>  
+        <surname>Golder</surname>  
+        <forenames>Marcel</forenames>  
+        <placeofbirth>Vincey</placeofbirth>  
+        <nationality>do</nationality>  
+        <relationshiptohead>fils</relationshiptohead>  
+        <profession>''</profession>  
+        <employer>''</employer> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person>
+        <sequence-individuals></sequence-individuals>
+      </person>  
+      <person> 
+        <sequence-menages/> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/> 
+    </people>  
+    <annee>1926</annee>  
+    <department>Vosges</department>  
+    <commune>Vincey</commune>  
+    <link>https://diffusion.ad88.ligeo-archives.com/ark:/50275/vta568d1127b3067/daogrp/0/21</link>
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>17 December 2018</editdate>
+    <templateID>FR-Census1936-0.1</templateID>
+    <name>FRANCE Census 1936</name>
+    <period>1836</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

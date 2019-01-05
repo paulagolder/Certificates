@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Stylesheets/FRCensus1936_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <savepath>/home/paul/public_html/Certificates/ValDAjol1911.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2018-12-26</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person> 
+        <location/>  
+        <surname></surname>
+        <forenames></forenames>
+      </person>  
+      <person> 
+        <location/> 
+      </person>  
+      <person> 
+        <location/> 
+      </person>  
+      <person> 
+        <location>Hamanxard</location>  
+        <sequence-maisons>6</sequence-maisons>  
+        <sequence-menages>4</sequence-menages>  
+        <sequence-individuals>9</sequence-individuals>  
+        <surname>Golder</surname>  
+        <forenames>Emile Joseph</forenames>  
+        <yearofbirth>1866</yearofbirth>  
+        <placeofbirth>Mulhouse</placeofbirth>  
+        <nationality>Francais</nationality>  
+        <relationshiptohead>Chef</relationshiptohead>  
+        <profession>Ouv filature</profession>  
+        <employer>Filature des Mousses</employer> 
+      </person>  
+      <person> 
+        <surname>Grossir</surname>  
+        <forenames>Marie Julia</forenames>  
+        <yearofbirth>1880</yearofbirth>  
+        <placeofbirth>Rupt(Vosges)</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Femme</relationshiptohead>  
+        <profession>neant</profession>  
+        <sequence-individuals>10</sequence-individuals> 
+      </person>  
+      <person> 
+        <surname>Golder</surname>  
+        <forenames>Marie Madelaine</forenames>  
+        <yearofbirth>1891</yearofbirth>  
+        <placeofbirth>Val d'Ajol</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Fille</relationshiptohead>  
+        <profession>Ouv de filat.</profession>  
+        <employer>F des Mousses</employer>  
+        <sequence-individuals>11</sequence-individuals> 
+      </person>  
+      <person> 
+        <profession>-id-</profession>  
+        <surname>Golder</surname>  
+        <forenames>Jeanne Georgette</forenames>  
+        <yearofbirth>1894</yearofbirth>  
+        <placeofbirth>Remirmont</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>-id-</relationshiptohead>  
+        <employer>-id-</employer>  
+        <sequence-individuals>12</sequence-individuals> 
+      </person>  
+      <person> 
+        <surname>Golder</surname>  
+        <forenames>Paul Emile</forenames>  
+        <yearofbirth>1895</yearofbirth>  
+        <placeofbirth>Rupt(V)</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>fils</relationshiptohead>  
+        <profession>-id-</profession>  
+        <employer>-id-</employer>  
+        <sequence-individuals>13</sequence-individuals> 
+      </person>  
+      <person> 
+        <surname>Golder</surname>  
+        <forenames>Yvonne Alice</forenames>  
+        <yearofbirth>1903</yearofbirth>  
+        <placeofbirth>Monthureaux s Saone (v)</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>fille</relationshiptohead>  
+        <profession>neant</profession>  
+        <sequence-individuals>14</sequence-individuals> 
+      </person>  
+      <person> 
+        <surname>Golder</surname>  
+        <forenames>Georges Jusatin</forenames>  
+        <yearofbirth>1906</yearofbirth>  
+        <placeofbirth>Val d'Ajol</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Fils</relationshiptohead>  
+        <profession>-id-</profession>  
+        <sequence-individuals>15</sequence-individuals> 
+      </person>  
+      <person> 
+        <surname>Grossir</surname>  
+        <forenames>Marie Aline</forenames>  
+        <yearofbirth>1901</yearofbirth>  
+        <placeofbirth>-id-</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Niece</relationshiptohead>  
+        <profession>-id-</profession>  
+        <sequence-individuals>16</sequence-individuals> 
+      </person>  
+      <person> 
+        <location/>  
+        <forenames></forenames>
+        <yearofbirth></yearofbirth>
+      </person>  
+      <person> 
+        <location/> 
+      </person>  
+      <person> 
+        <location>Outremont</location>  
+        <sequence-maisons>3</sequence-maisons>  
+        <sequence-menages>5</sequence-menages>  
+        <sequence-individuals>18</sequence-individuals>  
+        <surname>Marsot</surname>  
+        <forenames>Charles Emile</forenames>  
+        <yearofbirth>1850</yearofbirth>  
+        <placeofbirth>Val d'Ajol</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Chef</relationshiptohead>  
+        <profession>Ouv. filature</profession>  
+        <employer>F. de Mousses</employer> 
+      </person>  
+      <person> 
+        <surname>Marsot</surname>  
+        <sequence-maisons/>  
+        <sequence-menages/>  
+        <sequence-individuals>19</sequence-individuals>  
+        <forenames>Marie Marcelle</forenames>  
+        <yearofbirth>1896</yearofbirth>  
+        <placeofbirth>-id-</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Petite-filee</relationshiptohead>  
+        <profession>-id-</profession>  
+        <employer>-id-</employer> 
+      </person>  
+      <person> 
+        <location/>  
+        <sequence-maisons>4</sequence-maisons>  
+        <sequence-menages>6</sequence-menages>  
+        <sequence-individuals>20</sequence-individuals>  
+        <surname>Grossir</surname>  
+        <forenames>Jules</forenames>  
+        <yearofbirth>1847</yearofbirth>  
+        <placeofbirth>Rupt-s-Mosel</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Chef</relationshiptohead>  
+        <profession>Cultivateur</profession> 
+      </person>  
+      <person> 
+        <surname>Viry</surname>  
+        <sequence-individuals>21</sequence-individuals>  
+        <forenames>Marie Anne</forenames>  
+        <yearofbirth>1847</yearofbirth>  
+        <placeofbirth>Ramonchamp</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Femme</relationshiptohead>  
+        <profession/> 
+      </person>  
+      <person> 
+        <sequence-individuals>22</sequence-individuals>  
+        <surname>Grossir</surname>  
+        <forenames>Alice</forenames>  
+        <yearofbirth>1871</yearofbirth>  
+        <placeofbirth>Rupt-s-Mosel</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Fille</relationshiptohead>  
+        <profession>Ouv. filature</profession>  
+        <employer>F de Mousses</employer> 
+      </person>  
+      <person> 
+        <location/>  
+        <sequence-individuals>23</sequence-individuals>  
+        <surname>Grossir</surname>  
+        <forenames>Justin</forenames>  
+        <yearofbirth>1886</yearofbirth>  
+        <placeofbirth>Val d'Ajol</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Fils</relationshiptohead>  
+        <profession>-id-</profession>  
+        <employer>-id-</employer> 
+      </person>  
+      <person> 
+        <sequence-individuals>24</sequence-individuals>  
+        <surname>Duchanois</surname>  
+        <forenames>Marie</forenames>  
+        <yearofbirth>1857</yearofbirth>  
+        <placeofbirth>Rupt-s-Mosel</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Soeur</relationshiptohead>  
+        <profession>neant</profession>  
+        <employer>aveugle</employer> 
+      </person>  
+      <person> 
+        <location/> 
+      </person>  
+      <person> 
+        <location/>  
+        <sequence-maisons>51</sequence-maisons>  
+        <sequence-menages>48</sequence-menages>  
+        <sequence-individuals>216</sequence-individuals>  
+        <surname>Viry</surname>  
+        <forenames>Louis August</forenames>  
+        <yearofbirth>1856</yearofbirth>  
+        <placeofbirth>Val d'Ajol</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Chef</relationshiptohead>  
+        <profession>Cultivateur</profession> 
+      </person>  
+      <person> 
+        <location/>  
+        <sequence-maisons/>  
+        <sequence-menages/>  
+        <sequence-individuals>217</sequence-individuals>  
+        <surname>Letisserand</surname>  
+        <forenames>Zelie</forenames>  
+        <yearofbirth>1880</yearofbirth>  
+        <placeofbirth>-id-</placeofbirth>  
+        <nationality>-id-</nationality>  
+        <relationshiptohead>Femme</relationshiptohead>  
+        <profession>-id-</profession>  
+        <employer/> 
+      </person>  
+      <person> 
+        <location/>  
+        <surname></surname>
+      </person>  
+      <person> 
+        <location/> 
+      </person>  
+      <person/> 
+    </people>  
+    <annee>1911</annee>  
+    <department>Vosges</department>  
+    <commune>Val d'Ajol</commune>  
+    <link>https://diffusion.ad88.ligeo-archives.com/ark:/50275/vta568d226c12b87/daogrp/0/1</link> 
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>17 December 2018</editdate>
+    <templateID>FR-Census1936-0.1</templateID>
+    <name>FRANCE Census 1(36</name>
+    <period>1836</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

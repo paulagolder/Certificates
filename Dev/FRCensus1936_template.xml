@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sourcedocuments  PUBLIC "-//Paul Golder//DTD jcerttemplate//EN" "http://lerot.org/Templates/jcerttemplate.dtd">
+
+
+<sourcedocuments>
+    <sourcedocument>
+        <template>
+            <templateID>FR-Census1936-0.1</templateID>
+            <stylesheet>../../Stylesheets/FRCensus1936_stylesheet.xsl</stylesheet>
+            <name>FRANCE Census 1936</name>
+            <author>Paul A Golder</author>
+            <editdate>17 December 2018</editdate>
+            <type>census</type>
+            <country>FRANCE</country>
+            <period>1836</period>
+            <source>Df.</source>
+        </template>
+        <certificate objecttype="certificate" name="main"   backgroundcolor="#D0F5A9" >
+            <styleblock name="inputcell"  borderwidth="0"  backgroundcolor="#E4DCDC"  />
+            <vgroup>
+               <hblock>
+                  <label >Liste Nominative</label>
+               </hblock>
+            </vgroup>
+            <table name="heading"   >
+               
+                 <trow   >
+                      <tcell>
+                        <label>Annee</label>
+                    </tcell> 
+                    <tcell>
+                        <label>Department</label>
+                    </tcell> 
+                     <tcell>
+                        <label>Commune</label>
+                    </tcell> 
+                </trow>
+                <trow>
+                 <tcell>
+                        <input    target="annee"  />
+                 </tcell>
+                   <tcell>
+                        <input    target="department"  />
+                 </tcell>
+                   <tcell>
+                        <input    target="commune"  />
+                 </tcell>
+                 </trow> 
+            </table>
+            <hgroup/>
+            <table name="people"  objecttype="people"  borderwidth="1"   >
+               <trow   name="header2"  rows="1" >
+                    <tcell>
+                        <label>
+                        <text>DESIGNATION</text>
+                        <text font-size="8">Hameau,</text>
+                        <text font-size="8">Quartier,</text>
+                        <text font-size="8">Rue</text>
+                      </label>
+                    </tcell> 
+                    <tcell colspan="3" >
+                         <label >
+                        <text>NUMEROS</text>
+                          <text font-size="8">par Quartier VILLAGE,</text>
+                          <text font-size="8">hameau ou rue,</text>
+                            </label>
+                             <label font-size="8" width="3" >Maisons Menage Individuals</label>
+                    </tcell>
+                     
+              
+                    <tcell>
+                        <label>
+                            <text>NOMS</text>
+                            <text>de famille</text>
+                        </label>
+                    </tcell>
+                    <tcell>
+                        <label>PRENOMS</label>
+                    </tcell>
+                    <tcell>
+                        <label>ANNEE</label>
+                        <label>de</label>
+                        <label>nais</label>
+                        <label>sance</label>
+                    </tcell>  
+                     <tcell>
+                        <label>Lieu</label>
+                        <label>de</label>
+                        <label>naissance</label>
+                    </tcell> 
+                    <tcell>
+                        <label>NATIOA-</label>
+                        <label>LITE</label>
+                    </tcell>  
+                    <tcell>
+                        <label>SITUATION</label>
+                        <label>par rapport</label>
+                         <label>du</label>
+                        <label>chef de menage</label>
+                    </tcell>
+                    <tcell>
+                        <label>PROFESSION</label>
+                       
+                    </tcell>
+                    <tcell>
+                        <label>Employeur</label>
+                       
+                    </tcell>
+                </trow>
+                <trow  rows ="20"  objecttype="person"  backgroundcolor="#E4DCDC" borderwidth="0"  name="mainpersonrow" >
+                    <tcell>
+                        <input    target="location"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="sequence-maisons"  />
+                    </tcell>
+                     <tcell>
+                        <input    target="sequence-menages"  />
+                    </tcell>
+                     <tcell>
+                        <input    target="sequence-individuals"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="surname"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="forenames"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="yearofbirth"  />
+                    </tcell>             
+                    <tcell>
+                        <input  target="placeofbirth"  />
+                    </tcell>
+                    <tcell>
+                        <input  target="nationality"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="relationshiptohead"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="profession"  />
+                    </tcell>
+                    <tcell>
+                        <input    target="employer"  />
+                    </tcell>
+                </trow>
+            </table>
+
+          <vgroup>
+               <hblock name="tagblock" >
+                  <label name="taglinkklabel"  >Source Link</label>
+                   <input name="taglink" width="400" target="link"  />
+               </hblock>
+            </vgroup>
+                    </certificate>
+    </sourcedocument>
+</sourcedocuments>

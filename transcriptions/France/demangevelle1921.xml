@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../../Stylesheets/FRCensus1936_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/demangevelle1921.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2018-12-22</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person>
+        <location></location>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person>
+        <location>Filature Cite D</location>
+        <sequence-maisons>127</sequence-maisons>
+        <sequence-menages>155</sequence-menages>
+        <sequence-individuals>573</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Emile</forenames>
+        <yearofbirth>1866</yearofbirth>
+        <placeofbirth>Mulhouse</placeofbirth>
+        <nationality>F</nationality>
+        <relationshiptohead>chef</relationshiptohead>
+        <profession></profession>
+        <employer>Filature</employer>
+      </person>
+      <person>
+        <location></location>
+        <sequence-individuals>574</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Julia</forenames>
+        <yearofbirth>1880</yearofbirth>
+        <placeofbirth>Rupt s/ Melle</placeofbirth>
+        <nationality>''</nationality>
+        <relationshiptohead>femme</relationshiptohead>
+        <profession>''</profession>
+        <employer>''</employer>
+      </person>
+      <person>
+        <sequence-individuals>575</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Aline</forenames>
+        <yearofbirth>1901</yearofbirth>
+        <placeofbirth>Val d'Ajol</placeofbirth>
+        <nationality>''</nationality>
+        <relationshiptohead>fille</relationshiptohead>
+        <profession>fileuse</profession>
+        <employer>F</employer>
+      </person>
+      <person>
+        <sequence-individuals>576</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Yvonne</forenames>
+        <yearofbirth>1903</yearofbirth>
+        <placeofbirth>Monthureaux s/ Saone</placeofbirth>
+        <nationality>''</nationality>
+        <relationshiptohead>fille</relationshiptohead>
+        <profession>us</profession>
+        <employer>F</employer>
+      </person>
+      <person>
+        <sequence-individuals>577</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Georges</forenames>
+        <yearofbirth>1906</yearofbirth>
+        <placeofbirth>Val d'Ajol</placeofbirth>
+        <nationality></nationality>
+        <relationshiptohead>fils</relationshiptohead>
+        <profession>us</profession>
+        <employer>F</employer>
+      </person>
+      <person>
+        <sequence-individuals>578</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Roger</forenames>
+        <yearofbirth>1915</yearofbirth>
+        <placeofbirth>Demangevelle</placeofbirth>
+        <nationality>''</nationality>
+        <relationshiptohead>fils</relationshiptohead>
+        <profession>''</profession>
+        <employer>''</employer>
+      </person>
+      <person>
+        <sequence-individuals>579</sequence-individuals>
+        <surname>Golder</surname>
+        <forenames>Marcel</forenames>
+        <yearofbirth>1915</yearofbirth>
+        <placeofbirth>Le Thillot</placeofbirth>
+        <nationality></nationality>
+        <relationshiptohead>p-fils</relationshiptohead>
+        <profession>''</profession>
+        <employer>''</employer>
+      </person>
+      <person>
+        <location></location>
+      </person>
+      <person>
+        <surname></surname>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <annee>1921</annee>
+    <department>Haute-Saone</department>
+    <commune>Demangevelle</commune>
+    <link>http://archives.haute-saone.fr/ark:/77977/vtac04ddc1306229008/daogrp/0/1</link>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>17 December 2018</editdate>
+    <templateID>FR-Census1836-0.1</templateID>
+    <name>FRANCE Census 1836</name>
+    <period>1836</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

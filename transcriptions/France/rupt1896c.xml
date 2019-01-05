@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type='text/xsl' href='../../Stylesheets/FRCensus1886_stylesheet.xsl'?>
+
+<sourcedocument>
+  <edition>
+    <savepath>/home/paul/public_html/Certificates/rupt1896c.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2019-01-01</editdate>
+  </edition>
+  <certificate>
+    <people>
+      <person/>
+      <person>
+        <sequence-maisons></sequence-maisons>
+      </person>
+      <person>
+        <location>Section du desus de Rupt</location>
+        <sequence-maisons></sequence-maisons>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+      <person>
+        <location>Section de Longchamp</location>
+        <sequence-maisons>21</sequence-maisons>
+        <sequence-menages>21</sequence-menages>
+        <sequence-individuals>87</sequence-individuals>
+        <surname>Tisserand</surname>
+        <forenames>Marie Therese</forenames>
+        <age>66</age>
+        <nationality>francaise</nationality>
+        <profession>Industrial</profession>
+        <relationshiptohead>Chef</relationshiptohead>
+        <observations>p12</observations>
+      </person>
+      <person>
+        <sequence-individuals>88</sequence-individuals>
+        <surname>Colin</surname>
+        <forenames>Jules</forenames>
+        <age>22</age>
+        <nationality>do</nationality>
+        <profession>employe</profession>
+        <relationshiptohead>fils</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>89</sequence-individuals>
+        <surname>Bazin</surname>
+        <forenames>Jean Joseph</forenames>
+        <age>57</age>
+        <nationality>do</nationality>
+        <profession>tisserand</profession>
+        <relationshiptohead>en pension</relationshiptohead>
+      </person>
+      <person>
+        <sequence-individuals>90</sequence-individuals>
+        <surname>Lambolez</surname>
+        <forenames>Jules</forenames>
+        <age>44</age>
+        <nationality>do</nationality>
+        <profession>do</profession>
+        <relationshiptohead>do</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <location></location>
+        <sequence-maisons></sequence-maisons>
+        <sequence-individuals>91</sequence-individuals>
+        <surname>Romary</surname>
+        <forenames>Jules</forenames>
+        <age>22</age>
+        <nationality>do</nationality>
+        <profession>do</profession>
+        <relationshiptohead>do</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <sequence-individuals>92</sequence-individuals>
+        <surname>Viry</surname>
+        <forenames>Emile</forenames>
+        <age>36</age>
+        <nationality>do</nationality>
+        <profession>do</profession>
+        <relationshiptohead>do</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person>
+        <sequence-individuals>93</sequence-individuals>
+        <surname>Viry</surname>
+        <forenames>Hippolyte</forenames>
+        <age>52</age>
+        <nationality>do</nationality>
+        <profession>do</profession>
+        <relationshiptohead>do</relationshiptohead>
+        <observations></observations>
+      </person>
+      <person/>
+      <person/>
+      <person/>
+      <person/>
+    </people>
+    <annee>1896</annee>
+    <department>vosges</department>
+    <commune>Rupt-sur-Moselle</commune>
+    <link>https://diffusion.ad88.ligeo-archives.com/ark:/50275/vta568e2e1fc1ea6/daogrp/0/12</link>
+  </certificate>
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>31 December 2018</editdate>
+    <templateID>FR-Census1886</templateID>
+    <name>FRANCE Census 1886-</name>
+    <period>1886</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

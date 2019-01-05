@@ -9,13 +9,13 @@
     <STYLE type="text/css">
        table       {border :none;padding:2px ;border-collapse:collapse ; background: #A1BFA4 }
        table.wb {border :solid;border-width:1px;border-collapse:collapse	 }
-       td           { border: none; font-size:0.8em }
+       td           { border: none; font-size:0.8em ; border-color:black;}
        td.footnote           { border: none; font-size:10px }
-       td.input           { border: none; padding:2px;font-family: cursive; font-size:1em }
-       td.inputnb           { border-style: solid solid none solid; padding:2px;font-family: cursive; font-size:1em }
-       td.inputnt           { border-style: none solid solid solid; padding:2px;font-family: cursive; font-size:1em }
+       td.input           { border: none; padding:2px;font-family: cursive; font-size:1em ; color:blue; }
+       td.inputnb           { border-style: solid solid none solid; padding:2px;font-family: cursive; font-size:1em ;color:blue;}
+       td.inputnt           { border-style: none solid solid solid; padding:2px;font-family: cursive; font-size:1em;color:blue; }
        td.wb      {border-width:1px ; border:solid; padding:2px;font-family: cursive; font-size:1em}
-       td.ul        {border-width:1px;border-style: none none solid none;text-align:center;font-family: cursive}
+       td.ul        {border-width:1px;border-style: none none solid none;text-align:center;font-family: cursive;color:blue;}
        td.th            { border:none; font-size:0.8em ;text-align:center ; vertical-align: top}
        td.thwb       {border-width:1px;  border:solid; padding:2px;  font-size:1em }
        td.border {border-width:1px; border: solid }

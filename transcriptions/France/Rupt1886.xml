@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Stylesheets/FRCensus1886_stylesheet.xsl'?>
+
+<sourcedocument> 
+  <edition> 
+    <savepath>/home/paul/public_html/Certificates/Rupt1886.xml</savepath>
+    <editor>paul</editor>
+    <editdate>2019-01-01</editdate>
+  </edition>  
+  <certificate> 
+    <people> 
+      <person/>  
+      <person/>  
+      <person/>  
+      <person> 
+        <location>Section de Lette</location>  
+        <sequence-maisons>17</sequence-maisons>  
+        <sequence-menages>35</sequence-menages>  
+        <sequence-individuals>124</sequence-individuals>  
+        <surname>Viry</surname>  
+        <forenames>Jean ?</forenames>  
+        <age>66</age>  
+        <nationality/>  
+        <profession>recev buraliste</profession>  
+        <relationshiptohead>chef</relationshiptohead> 
+      </person>  
+      <person> 
+        <sequence-individuals>125</sequence-individuals>  
+        <surname>Adam</surname>  
+        <forenames>Elizabeth</forenames>  
+        <age>57</age>  
+        <nationality/>  
+        <profession/>  
+        <relationshiptohead>femme</relationshiptohead> 
+      </person>  
+      <person> 
+        <sequence-maisons/>  
+        <sequence-menages>36</sequence-menages>  
+        <sequence-individuals>126</sequence-individuals>  
+        <surname>Viry</surname>  
+        <forenames>Emma</forenames>  
+        <age>62</age>  
+        <nationality/>  
+        <profession>rentiere</profession>  
+        <relationshiptohead>seule</relationshiptohead> 
+      </person>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person/>  
+      <person> 
+        <location>Saction de Lepagne</location>  
+        <sequence-maisons>8</sequence-maisons>  
+        <sequence-menages>9</sequence-menages>  
+        <sequence-individuals>30</sequence-individuals>  
+        <surname>Grossir</surname>  
+        <forenames>Jules Etienne</forenames>  
+        <age>60</age>  
+        <nationality>Francais</nationality>  
+        <profession>cultivateur</profession>  
+        <relationshiptohead>chef</relationshiptohead> 
+      </person>  
+      <person> 
+        <sequence-individuals>31</sequence-individuals>  
+        <surname>Vincent</surname>  
+        <forenames>Marie Rose</forenames>  
+        <age>60</age>  
+        <nationality>''</nationality>  
+        <profession/>  
+        <relationshiptohead>femme</relationshiptohead> 
+      </person>  
+      <person> 
+        <surname>Grossir</surname>  
+        <forenames>Felix</forenames>  
+        <sequence-individuals>32</sequence-individuals>  
+        <age>26</age>  
+        <nationality/>  
+        <profession>tisserand</profession>  
+        <relationshiptohead>fils</relationshiptohead> 
+      </person>  
+      <person> 
+        <sequence-individuals>33</sequence-individuals>  
+        <surname>Grossir</surname>  
+        <forenames>Leocadie</forenames>  
+        <age>20</age>  
+        <nationality/>  
+        <profession>tisserand</profession>  
+        <relationshiptohead>fille</relationshiptohead> 
+      </person>  
+      <person> 
+        <sequence-individuals>34</sequence-individuals>  
+        <surname>Grossir</surname>  
+        <forenames>Clementine</forenames>  
+        <age>19</age>  
+        <nationality/>  
+        <profession>''</profession>  
+        <relationshiptohead>id</relationshiptohead>  
+        <observations/> 
+      </person>  
+      <person/>  
+      <person>
+        <location></location>
+        <sequence-maisons>40</sequence-maisons>
+        <sequence-menages>46</sequence-menages>
+        <sequence-individuals>171</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Sorthene?</forenames>
+        <age>24</age>
+        <nationality></nationality>
+        <profession>cultiva</profession>
+        <relationshiptohead>chef</relationshiptohead>
+      </person>  
+      <person>
+        <sequence-menages></sequence-menages>
+        <sequence-individuals>172</sequence-individuals>
+        <surname>Leduc</surname>
+        <forenames>Amilie</forenames>
+        <age>21</age>
+        <nationality></nationality>
+        <profession>''</profession>
+        <relationshiptohead>femme</relationshiptohead>
+      </person>  
+      <person>
+        <sequence-individuals>173</sequence-individuals>
+        <surname>Grossir</surname>
+        <forenames>Leontine</forenames>
+        <age>1</age>
+        <relationshiptohead>fille</relationshiptohead>
+      </person>  
+      <person/> 
+    </people>  
+    <annee>1886</annee>  
+    <department>Vosges</department>  
+    <commune>Rupt-sur-Moselle</commune>  
+    <link>https://diffusion.ad88.ligeo-archives.com/ark:/50275/vta568e2e1f60158/daogrp/0/27</link> 
+  </certificate>  
+  <template>
+    <author>Paul A Golder</author>
+    <editdate>31 December 2018</editdate>
+    <templateID>FR-Census1886</templateID>
+    <name>FRANCE Census 1886-</name>
+    <period>1886</period>
+    <country>FRANCE</country>
+  </template>
+</sourcedocument>

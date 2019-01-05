@@ -2,6 +2,13 @@
 <?xml-stylesheet type='text/xsl' href='../Stylesheets/EngCensus1901_stylesheet.xsl'?>
 
 <sourcedocument> 
+    <edition> 
+    <editor>paul</editor>
+    <source>PRO Image HO 107/1188/16</source>
+    <image></image>
+    <comment>Page and sequence indeciferable on the image</comment>
+    <editdate>2014-11-20</editdate>
+  </edition> 
   <certificate> 
     <county>London</county>  
     <parish>Islington(part of)</parish>  
